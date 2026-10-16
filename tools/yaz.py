@@ -8,7 +8,10 @@ def _read(i):
     i = str(i); p = root/f'tmp/tl_{i}.txt' if i[:2] in ('N-','G-','R-','H-','E-','O-','I-') else root/f'tmp/tl_N-{i}.txt'
     return p.read_text(encoding='utf-8').replace('ﬂ', 'fl').replace('', '•').replace('', 'Ø').replace('', '▪')
 def tlq(i): return _read(i).split('## Cevap')[0].split('\n', 1)[1].strip()
-def tl(i): return [l for l in _read(i).split('## Cevap\n', 1)[1].split('\n') if l.strip()]
+def tl(i):
+    t = _read(i)
+    sep = '## Cevap' + chr(10)
+    return [l for l in t.split(sep, 1)[1].split(chr(10)) if l.strip()] if sep in t else []
 def D(lines, ek=None):
     """ek: {satır_başı_öneki: eklenecek_metin} -> o satırdan SONRA eklenir; None anahtarı başa eklenir."""
     out = []; ek = ek or {}

@@ -74,3 +74,11 @@ Bu kural N-46'dan itibaren okurken baştan uygulanır.
 - N-101b: bölge yalnız soru satırı (y 72–96); altındaki "132- RPGN nedenleri" soru satırı başka bir kayda ait → (cevap yok).
 - N-82 düzeltildi: Ekzojen sebepler listesi (Kafein, Kokain, Alkol) ve son satır ("polisitemi ve hiperviskozite").
 - Araçlar: tools/tile.py (parça kes), tools/strip.py (sayfa şeridi), tools/imgs.py (bölgedeki görseller), tools/yaz.py (yazıcı), tools/dogrula.py (kontrol).
+
+## Nefroloji bitti (N-1..N-169; 172 kayıt: N-43 dosyada yok, N-101a/b, N-102a/b, N-103a/b, N-104a/b ikili)
+- Toplam [?] = 213, [OKUNAMADI] = 19 (Nefroloji).
+- Kalite kontrol (5 grup): N-137 ve N-150 görselle yeniden karşılaştırıldı (el yazısı notlar + slayt metni); fark yok. N-144 tablosunda bir rakam düzeltildi (G4 A1: 3 (0.6%)).
+- Kâğıt fotoğrafları: N-161 (s.91, gölgeli, iki fotoğraf) ve N-167 (s.93, iki fotoğraf; sağ fotoğrafın sağ kenarı fotoğraf sınırında kesik → [kesik]/[OKUNAMADI]) 240–300 dpi parçalarla okundu; N-161'de siyahla çizilmiş bölüm üstü çizili olarak not edildi.
+- N-145, N-146: yalnız soru; (cevap yok). N-24, N-25, N-32, N-35, N-14, N-65: cevap başka bir soruya gönderme.
+- belirsiz sınır: N-160 (s.90) cevabı ile N-161 başlığı arasında bölge temiz; N-153 ve N-154 arasında "152. görsel" el yazısı notu sayfa üst kenarında (s.87 üst) N-153 bölgesinde değil N-154'e düşüyor; N-154'te not edildi.
+- N-157/N-158 sınırı s.88 y=292: "Unutmayalım primer…" kutusu ve "Primer:" paragrafı metin katmanında tek satıra karışmıştı; görsele göre ayrıldı.
