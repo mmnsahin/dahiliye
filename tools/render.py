@@ -8,9 +8,15 @@ root = pathlib.Path(__file__).resolve().parent.parent
 tmp = root/'tmp'; tmp.mkdir(exist_ok=True)
 pdf = str(root/'kaynak.pdf')
 def render(p, dpi):
-    out = tmp/f'_r{p}'
-    subprocess.run(['pdftoppm','-r',str(dpi),'-f',str(p),'-l',str(p),'-png',pdf,str(out)],check=True)
-    f = next(tmp.glob(f'_r{p}-*.png')); im = Image.open(f).convert('RGB'); f.unlink(); return im
+    import shutil
+    if shutil.which('pdftoppm'):
+        out = tmp/f'_r{p}'
+        subprocess.run(['pdftoppm','-r',str(dpi),'-f',str(p),'-l',str(p),'-png',pdf,str(out)],check=True)
+        f = next(tmp.glob(f'_r{p}-*.png')); im = Image.open(f).convert('RGB'); f.unlink(); return im
+    import fitz  # pdftoppm yoksa PyMuPDF
+    with fitz.open(pdf) as d:
+        pix = d[p-1].get_pixmap(dpi=dpi)
+        return Image.frombytes('RGB', (pix.width, pix.height), pix.samples)
 mode = sys.argv[1]
 if mode == 'page':
     p = int(sys.argv[2]); dpi = int(next((a for a in sys.argv[3:] if a.isdigit()), 110))
