@@ -16,8 +16,9 @@
 | N-31..N-40 | bitti (s.6–12; N-36..N-40 el yazısı/slayt/karışık) | 16 | 0 |
 | N-41..N-45 | bitti (s.12–13; N-43 dosyada yok) | 3 | 0 |
 | N-46..N-55 | bitti (s.13–19; yoğun el yazısı/slayt) | 175 | 3 |
+| N-56..N-65 | bitti (s.19–23) | 86 | 1 |
 
-Toplam (N-1..N-55): [?] = 313, [OKUNAMADI] = 3.
+Toplam (N-1..N-65): [?] = 399, [OKUNAMADI] = 4.
 
 Güvenilirlik notları:
 - N-7: soru/cevap sayfa 1→2 geçişinde cümle ortasında bölünüyor; tek satıra birleştirildi.
@@ -43,3 +44,9 @@ Bu kural N-46'dan itibaren okurken baştan uygulanır.
 - N-52: sayfa 17 alt kısmında çok küçük el yazısı notlar; okunamayanlar [OKUNAMADI], şüpheliler [?]. Bu kayıtta ve N-55 s.19'da slayt üzerindeki küçük el yazısı notların bir kısmı tam okunamadı.
 - N-46: sayfa 13 üst kenardaki "(8.? – 10.5 mg/dL)" notunda "8."den sonraki rakam yazılmamış.
 - [?] kuralı (sayı/doz/birim/ilaç) N-46'dan itibaren baştan uygulandı.
+
+## N-56..N-65 notlar
+- ⚠ N-60/N-61 sınırı (s.21, y≈272): N-61'in başlığı "Cockcroft - Gault Formülü" N-60 bölgesinin son satırlarında kalıyor; önerilen sınır ~y=262 (N-61 `y` ~276 civarı → ~266). JSON'a dokunulmadı.
+- N-58 / N-48: aynı "Hematüri Nedenleri" slaytı iki kayıtta da tam yazıldı (kaynakta tekrar).
+- N-59 / N-63 / N-52: KBH ve KDIGO notları sayfalar arasında birebir tekrar; her kayıt bağımsız okundu.
+- N-65: cevap yalnızca "⇒ bunu yukarıda anlatmıştım ben de".
