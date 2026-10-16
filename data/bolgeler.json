@@ -1,0 +1,5028 @@
+[
+ {
+  "no": 1,
+  "page": 1,
+  "y": 77.407133,
+  "dup": 1,
+  "seq": 1,
+  "text": "Gökhan Nergizoğlu-- Sekonder HT sebepleri, ne zaman sekonder HTden şüpheleniriz ve neden sekonder HT'yi araştmrız?",
+  "text_src": "D",
+  "hoca": "Gökhan Nergizoğlu",
+  "end": {
+   "page": 1,
+   "y": 223.454278
+  },
+  "segments": [
+   {
+    "page": 1,
+    "y0": 73.4,
+    "y1": 219.5
+   }
+  ],
+  "pages": [
+   1,
+   1
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-1"
+ },
+ {
+  "no": 2,
+  "page": 1,
+  "y": 223.454278,
+  "dup": 1,
+  "seq": 2,
+  "text": "Gökhan Nergizoğlu (en sık)-- diyaliz endikasyonları",
+  "text_src": "D",
+  "hoca": "Gökhan Nergizoğlu",
+  "end": {
+   "page": 1,
+   "y": 299.557127
+  },
+  "segments": [
+   {
+    "page": 1,
+    "y0": 219.5,
+    "y1": 295.6
+   }
+  ],
+  "pages": [
+   1,
+   1
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-2"
+ },
+ {
+  "no": 3,
+  "page": 1,
+  "y": 299.557127,
+  "dup": 1,
+  "seq": 3,
+  "text": "Gökhan Nergizoğlu-- ultafıltrasyon nedir",
+  "text_src": "D",
+  "hoca": "Gökhan Nergizoğlu",
+  "end": {
+   "page": 1,
+   "y": 360.474363
+  },
+  "segments": [
+   {
+    "page": 1,
+    "y0": 295.6,
+    "y1": 356.5
+   }
+  ],
+  "pages": [
+   1,
+   1
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-3"
+ },
+ {
+  "no": 4,
+  "page": 1,
+  "y": 360.474363,
+  "dup": 1,
+  "seq": 4,
+  "text": "Gökhan Nergizoğlu-- aile hekimliğinde yapılan rutin testte idrarında eritrosit bulunduğu söylenen biri nefrolojiye yönlendirilmiş, nefrolojiye gelmesi doğru mu ürolojiye mi gitmeliydi (glomerüler bi patoloji mi yoksa üriner mi bunu ayırt etmemizi istemiş)",
+  "text_src": "D",
+  "hoca": "Gökhan Nergizoğlu",
+  "end": {
+   "page": 1,
+   "y": 474.649199
+  },
+  "segments": [
+   {
+    "page": 1,
+    "y0": 356.5,
+    "y1": 470.6
+   }
+  ],
+  "pages": [
+   1,
+   1
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-4"
+ },
+ {
+  "no": 5,
+  "page": 1,
+  "y": 474.649199,
+  "dup": 1,
+  "seq": 5,
+  "text": "Prof. Dr. Gülay Kinikli-- Lupus nefrit evreleri ve özellikleri",
+  "text_src": "D",
+  "hoca": "Gülay Kinikli",
+  "end": {
+   "page": 1,
+   "y": 658.223417
+  },
+  "segments": [
+   {
+    "page": 1,
+    "y0": 470.6,
+    "y1": 654.2
+   }
+  ],
+  "pages": [
+   1,
+   1
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-5"
+ },
+ {
+  "no": 6,
+  "page": 1,
+  "y": 658.223417,
+  "dup": 1,
+  "seq": 6,
+  "text": "Prof. Dr. Gülay Kinikli--Lupus nefriti antijeni",
+  "text_src": "D",
+  "hoca": "Gülay Kinikli",
+  "end": {
+   "page": 1,
+   "y": 704.489672
+  },
+  "segments": [
+   {
+    "page": 1,
+    "y0": 654.2,
+    "y1": 700.5
+   }
+  ],
+  "pages": [
+   1,
+   1
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-6"
+ },
+ {
+  "no": 7,
+  "page": 1,
+  "y": 704.489672,
+  "dup": 1,
+  "seq": 7,
+  "text": "Prof. Dr. Şule Şengül-- Taşrada çalışıyorsun 50 li yaşlarda erkek hasta daha önce gittiği doktordan kronik böbrek hastası olduğunu duymuş. Kontrolleri için sana geliyor nelere dikkat etmesini söylersin?",
+  "text_src": "D",
+  "hoca": "Şule Şengül",
+  "end": {
+   "page": 2,
+   "y": 161.735094
+  },
+  "segments": [
+   {
+    "page": 1,
+    "y0": 700.5,
+    "y1": 866.7
+   },
+   {
+    "page": 2,
+    "y0": 0,
+    "y1": 157.7
+   }
+  ],
+  "pages": [
+   1,
+   2
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-7"
+ },
+ {
+  "no": 8,
+  "page": 2,
+  "y": 161.735094,
+  "dup": 1,
+  "seq": 8,
+  "text": "Prof. Dr. Kenan Ateş-- Kronik böbrek hastalığı tanımı.",
+  "text_src": "D",
+  "hoca": "Kenan Ateş",
+  "end": {
+   "page": 2,
+   "y": 246.073336
+  },
+  "segments": [
+   {
+    "page": 2,
+    "y0": 157.7,
+    "y1": 242.1
+   }
+  ],
+  "pages": [
+   2,
+   2
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-8"
+ },
+ {
+  "no": 9,
+  "page": 2,
+  "y": 246.073336,
+  "dup": 1,
+  "seq": 9,
+  "text": "Prof. Dr. Kenan Ateş-- Kronik böbrek hastalığı olduğunu söyleyen hastanın gfr si 65. Bu hastada ne yaparsın? Ne uygularsın?(hastayı takip etmemiz gerekmiş başlangıçta gfr 60 altında değil sonuçta)",
+  "text_src": "D",
+  "hoca": "Kenan Ateş",
+  "end": {
+   "page": 2,
+   "y": 337.0842
+  },
+  "segments": [
+   {
+    "page": 2,
+    "y0": 242.1,
+    "y1": 333.1
+   }
+  ],
+  "pages": [
+   2,
+   2
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-9"
+ },
+ {
+  "no": 10,
+  "page": 2,
+  "y": 337.0842,
+  "dup": 1,
+  "seq": 10,
+  "text": "Prof. Dr. Kenan Ateş-- Potasyum değeri verdi. Hiperkalemi (özellikle belirtti hiperpotasemi değil hiperkalemi denir diye) tedavisinde ne uygularsın dedi. Kalsiyum glukonat dedim ne kadar sürede ne kadar uygulamaliyiz ve ne şekilde uygulamaliyiz diye sordu.",
+  "text_src": "D",
+  "hoca": "Kenan Ateş",
+  "end": {
+   "page": 2,
+   "y": 442.746045
+  },
+  "segments": [
+   {
+    "page": 2,
+    "y0": 333.1,
+    "y1": 438.7
+   }
+  ],
+  "pages": [
+   2,
+   2
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-10"
+ },
+ {
+  "no": 11,
+  "page": 2,
+  "y": 442.746045,
+  "dup": 1,
+  "seq": 11,
+  "text": "Prof. Dr. Sim Kutlay--proteinüriyi açıkla böbrek dışı komplikasyonlara örnek",
+  "text_src": "D",
+  "hoca": "Sim Kutlay",
+  "end": {
+   "page": 2,
+   "y": 580.054009
+  },
+  "segments": [
+   {
+    "page": 2,
+    "y0": 438.7,
+    "y1": 576.1
+   }
+  ],
+  "pages": [
+   2,
+   2
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-11"
+ },
+ {
+  "no": 12,
+  "page": 2,
+  "y": 580.054009,
+  "dup": 1,
+  "seq": 12,
+  "text": "Prof. Dr. Şehsuvar Ertürk-- İnflamatuar bel ağrısı olan hastada nefrotik sendrom var ne düşünürsün? ( Sekonder amiloidoz.) Sek. amiloidoz yapan diğer nedenler. Nefrotik sendrom yapan başka ne olmuş olabilir? Kullandığı ilaca bağlı akut interstisyel nefrit olmuş olabilir dedim. Glomerülonefrit olabilir dedim. Doğru mu emin değilim. Başka dedi :) bulamadım. Membranöz dememi bekliyormuş.",
+  "text_src": "D",
+  "hoca": "Şehsuvar Ertürk",
+  "end": {
+   "page": 2,
+   "y": 709.116298
+  },
+  "segments": [
+   {
+    "page": 2,
+    "y0": 576.1,
+    "y1": 705.1
+   }
+  ],
+  "pages": [
+   2,
+   2
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-12"
+ },
+ {
+  "no": 13,
+  "page": 2,
+  "y": 709.116298,
+  "dup": 1,
+  "seq": 13,
+  "text": "Prof. Dr. Şehsuvar Ertürk-- nefrotik sendromu sordu ama birimlere aşırı takık. Birimlere dikkat edin.",
+  "text_src": "D",
+  "hoca": "Şehsuvar Ertürk",
+  "end": {
+   "page": 3,
+   "y": 77.407133
+  },
+  "segments": [
+   {
+    "page": 2,
+    "y0": 705.1,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   2,
+   2
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-13"
+ },
+ {
+  "no": 14,
+  "page": 3,
+  "y": 77.407133,
+  "dup": 1,
+  "seq": 14,
+  "text": "Prof. Dr. Şehsuvar Ertürk-- proteinini tanımı (günde 3.5 gram/protein KESİNLİKLE BİRİMLERE DİKKAT EDİN SEHSUVAR HOCADA!!!)",
+  "text_src": "D",
+  "hoca": "Şehsuvar Ertürk",
+  "end": {
+   "page": 3,
+   "y": 138.601966
+  },
+  "segments": [
+   {
+    "page": 3,
+    "y0": 73.4,
+    "y1": 134.6
+   }
+  ],
+  "pages": [
+   3,
+   3
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-14"
+ },
+ {
+  "no": 15,
+  "page": 3,
+  "y": 138.601966,
+  "dup": 1,
+  "seq": 15,
+  "text": "-Prof. Dr. Kenan Keven--Acile gelen hiperpotasemisi olan hastaya ne yaparsın nasıl tedavi edersin? Diyabetli bir hastanın diyabetik nefropati ye gitmemesi için ne yapılmalı? Kan şekeri nerede tutulmalı? Potayum ve insülin ilişkisini anlattırdı. Diyabetik nefropatili bir hastanın hangi değerine bakılıp takip edilir?",
+  "text_src": "D",
+  "hoca": "Kenan Keven",
+  "end": {
+   "page": 3,
+   "y": 421.155126
+  },
+  "segments": [
+   {
+    "page": 3,
+    "y0": 134.6,
+    "y1": 417.2
+   }
+  ],
+  "pages": [
+   3,
+   3
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-15"
+ },
+ {
+  "no": 16,
+  "page": 3,
+  "y": 421.155126,
+  "dup": 1,
+  "seq": 16,
+  "text": "Prof. Dr. Kenan Keven-- abh tanımı sebepleri",
+  "text_src": "D",
+  "hoca": "Kenan Keven",
+  "end": {
+   "page": 3,
+   "y": 588.279121
+  },
+  "segments": [
+   {
+    "page": 3,
+    "y0": 417.2,
+    "y1": 584.3
+   }
+  ],
+  "pages": [
+   3,
+   3
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-16"
+ },
+ {
+  "no": 17,
+  "page": 3,
+  "y": 588.279121,
+  "dup": 1,
+  "seq": 17,
+  "text": "Prof. Dr. Kenan Keven --hematuri nedir ayırıcı tanısı nedir nelerde hematuri beklersin hızlı ilerleyen glomerulo nefrit nedir biyopside ne beklersin",
+  "text_src": "D",
+  "hoca": "Kenan Keven",
+  "end": {
+   "page": 4,
+   "y": 123.693951
+  },
+  "segments": [
+   {
+    "page": 3,
+    "y0": 584.3,
+    "y1": 866.7
+   },
+   {
+    "page": 4,
+    "y0": 0,
+    "y1": 119.7
+   }
+  ],
+  "pages": [
+   3,
+   4
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-17"
+ },
+ {
+  "no": 18,
+  "page": 4,
+  "y": 123.693951,
+  "dup": 1,
+  "seq": 18,
+  "text": "Prof. Dr. Kenan Keven --acil hiperpotasemi tedavisi acil diyaliz endikasyonlari bi de acil hemodiyaliz nasıl yapılır",
+  "text_src": "D",
+  "hoca": "Kenan Keven",
+  "end": {
+   "page": 4,
+   "y": 313.951073
+  },
+  "segments": [
+   {
+    "page": 4,
+    "y0": 119.7,
+    "y1": 310.0
+   }
+  ],
+  "pages": [
+   4,
+   4
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-18"
+ },
+ {
+  "no": 19,
+  "page": 4,
+  "y": 313.951073,
+  "dup": 1,
+  "seq": 19,
+  "text": "Prof. Dr. Kenan Keven --Böbrek transplantasyon endikasyonlarım sordu. Böbrek naklinin amacı nedir, ne kazandırır",
+  "text_src": "D",
+  "hoca": "Kenan Keven",
+  "end": {
+   "page": 4,
+   "y": 465.879173
+  },
+  "segments": [
+   {
+    "page": 4,
+    "y0": 310.0,
+    "y1": 461.9
+   }
+  ],
+  "pages": [
+   4,
+   4
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-19"
+ },
+ {
+  "no": 20,
+  "page": 4,
+  "y": 465.879173,
+  "dup": 1,
+  "seq": 20,
+  "text": "Prof. Dr. Kenan Keven –Hipertansiyon tanısını nasıl koyarız? ( Klinikte iki farklı zamanda 140/90 mmHg'den fazla ölçersek - Hasta ev ölçümlerinde 135/85 mmHg üzerinde çıkarsa ve - Ambulatuvar Kan Basıncı ölçümünde",
+  "text_src": "D",
+  "hoca": "Kenan Keven",
+  "end": {
+   "page": 4,
+   "y": 611.412248
+  },
+  "segments": [
+   {
+    "page": 4,
+    "y0": 461.9,
+    "y1": 607.4
+   }
+  ],
+  "pages": [
+   4,
+   4
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-20"
+ },
+ {
+  "no": 21,
+  "page": 4,
+  "y": 611.412248,
+  "dup": 1,
+  "seq": 21,
+  "text": "Prof. Dr. Kenan Keven – 150/90 mmHg ölçtüğün bir hastaya direkt anti hipertansif verir miyiz",
+  "text_src": "D",
+  "hoca": "Kenan Keven",
+  "end": {
+   "page": 4,
+   "y": 778.541384
+  },
+  "segments": [
+   {
+    "page": 4,
+    "y0": 607.4,
+    "y1": 774.5
+   }
+  ],
+  "pages": [
+   4,
+   4
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-21"
+ },
+ {
+  "no": 22,
+  "page": 4,
+  "y": 778.541384,
+  "dup": 1,
+  "seq": 22,
+  "text": "Prof. Dr. Kenan Keven --+ Antihipertansif ajan söyle",
+  "text_src": "D",
+  "hoca": "Kenan Keven",
+  "end": {
+   "page": 5,
+   "y": 193.093333
+  },
+  "segments": [
+   {
+    "page": 4,
+    "y0": 774.5,
+    "y1": 866.7
+   },
+   {
+    "page": 5,
+    "y0": 0,
+    "y1": 189.1
+   }
+  ],
+  "pages": [
+   4,
+   5
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-22"
+ },
+ {
+  "no": 23,
+  "page": 5,
+  "y": 193.093333,
+  "dup": 1,
+  "seq": 23,
+  "text": "Prof. Dr. Kenan Keven--Akut böbrek hasarı için neye bakarız?",
+  "text_src": "D",
+  "hoca": "Kenan Keven",
+  "end": {
+   "page": 5,
+   "y": 285.646406
+  },
+  "segments": [
+   {
+    "page": 5,
+    "y0": 189.1,
+    "y1": 281.6
+   }
+  ],
+  "pages": [
+   5,
+   5
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-23"
+ },
+ {
+  "no": 24,
+  "page": 5,
+  "y": 285.646406,
+  "dup": 1,
+  "seq": 24,
+  "text": "Kby tanımını yaptırdı",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 5,
+   "y": 331.943505
+  },
+  "segments": [
+   {
+    "page": 5,
+    "y0": 281.6,
+    "y1": 327.9
+   }
+  ],
+  "pages": [
+   5,
+   5
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-24"
+ },
+ {
+  "no": 25,
+  "page": 5,
+  "y": 331.943505,
+  "dup": 1,
+  "seq": 25,
+  "text": "Nefrotik sendrom kriterleri?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 5,
+   "y": 378.20976
+  },
+  "segments": [
+   {
+    "page": 5,
+    "y0": 327.9,
+    "y1": 374.2
+   }
+  ],
+  "pages": [
+   5,
+   5
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-25"
+ },
+ {
+  "no": 26,
+  "page": 5,
+  "y": 378.20976,
+  "dup": 1,
+  "seq": 26,
+  "text": "İlk başta Kenan hoca diyabet tanısını sordu sonra tip2 diyabet hastası gelmiş nefropati bekler misin dedi evet dedim tanısını nasıl koyarsın dedi spot idrarda protein/kreatin in oranına bakarım dedim kaç olması lazım dedi 30 mg 1 gr kreatinine oranla dedim (yanlış söylemiş gibi geldi bana)",
+  "text_src": "D",
+  "hoca": "Kenan (soyad belirtilmemiş)",
+  "end": {
+   "page": 5,
+   "y": 492.127562
+  },
+  "segments": [
+   {
+    "page": 5,
+    "y0": 374.2,
+    "y1": 488.1
+   }
+  ],
+  "pages": [
+   5,
+   5
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-26"
+ },
+ {
+  "no": 27,
+  "page": 5,
+  "y": 492.127562,
+  "dup": 1,
+  "seq": 27,
+  "text": "Kenan Keven nefrotik sendrom kliniği, nedenleri, amiloidoz nedenleri(primer -seconder)",
+  "text_src": "D",
+  "hoca": "Kenan Keven",
+  "end": {
+   "page": 5,
+   "y": 568.23041
+  },
+  "segments": [
+   {
+    "page": 5,
+    "y0": 488.1,
+    "y1": 564.2
+   }
+  ],
+  "pages": [
+   5,
+   5
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-27"
+ },
+ {
+  "no": 28,
+  "page": 5,
+  "y": 568.23041,
+  "dup": 1,
+  "seq": 28,
+  "text": "PROF.DR.SİM KUTLAY --70 yaşında bir Adam makroskopik hematüri şikayeti ile geldiğinde daha çok neler düşünürsün . Genç birisi gelince ne düşünürdün ?",
+  "text_src": "D",
+  "hoca": "Sim Kutlay",
+  "end": {
+   "page": 5,
+   "y": 629.404681
+  },
+  "segments": [
+   {
+    "page": 5,
+    "y0": 564.2,
+    "y1": 625.4
+   }
+  ],
+  "pages": [
+   5,
+   5
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-28"
+ },
+ {
+  "no": 29,
+  "page": 5,
+  "y": 629.404681,
+  "dup": 1,
+  "seq": 29,
+  "text": "PROF.DR.GÖKHAN NERGİZOĞLU --Son dönem böbrek yetmezliğinde ne tür replasman tedavileri uygulanır? Böbrek transplantasyonunu kimlere yapmayız?",
+  "text_src": "D",
+  "hoca": "Gökhan Nergizoğlu",
+  "end": {
+   "page": 5,
+   "y": 743.579517
+  },
+  "segments": [
+   {
+    "page": 5,
+    "y0": 625.4,
+    "y1": 739.6
+   }
+  ],
+  "pages": [
+   5,
+   5
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-29"
+ },
+ {
+  "no": 30,
+  "page": 5,
+  "y": 743.579517,
+  "dup": 1,
+  "seq": 30,
+  "text": "Kronik böbrek yetmezliği sebepleri.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 6,
+   "y": 115.448276
+  },
+  "segments": [
+   {
+    "page": 5,
+    "y0": 739.6,
+    "y1": 866.7
+   },
+   {
+    "page": 6,
+    "y0": 0,
+    "y1": 111.4
+   }
+  ],
+  "pages": [
+   5,
+   6
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-30"
+ },
+ {
+  "no": 31,
+  "page": 6,
+  "y": 115.448276,
+  "dup": 1,
+  "seq": 31,
+  "text": "nefrotik sendrom tablosu bu tablonun özellikleri sebep olabilecek hastalıklar? cockgroft? formülü nedir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 6,
+   "y": 199.776237
+  },
+  "segments": [
+   {
+    "page": 6,
+    "y0": 111.4,
+    "y1": 195.8
+   }
+  ],
+  "pages": [
+   6,
+   6
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-31"
+ },
+ {
+  "no": 32,
+  "page": 6,
+  "y": 199.776237,
+  "dup": 1,
+  "seq": 32,
+  "text": "Kenan Keven -hiponatremi çeşitlerini örneklerini sordu",
+  "text_src": "D",
+  "hoca": "Kenan Keven",
+  "end": {
+   "page": 6,
+   "y": 246.073336
+  },
+  "segments": [
+   {
+    "page": 6,
+    "y0": 195.8,
+    "y1": 242.1
+   }
+  ],
+  "pages": [
+   6,
+   6
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-32"
+ },
+ {
+  "no": 33,
+  "page": 6,
+  "y": 246.073336,
+  "dup": 1,
+  "seq": 33,
+  "text": "Kenan Keven Ca p pth evre 4 evre 5'te nasıl olur? Neden tedavi ederiz? Nasıl tedavi ederiz?",
+  "text_src": "D",
+  "hoca": "Kenan Keven",
+  "end": {
+   "page": 6,
+   "y": 322.176185
+  },
+  "segments": [
+   {
+    "page": 6,
+    "y0": 242.1,
+    "y1": 318.2
+   }
+  ],
+  "pages": [
+   6,
+   6
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-33"
+ },
+ {
+  "no": 34,
+  "page": 6,
+  "y": 322.176185,
+  "dup": 1,
+  "seq": 34,
+  "text": "Kenan Keven -Potasyumun normal değerini sordu.",
+  "text_src": "D",
+  "hoca": "Kenan Keven",
+  "end": {
+   "page": 6,
+   "y": 368.185405
+  },
+  "segments": [
+   {
+    "page": 6,
+    "y0": 318.2,
+    "y1": 364.2
+   }
+  ],
+  "pages": [
+   6,
+   6
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-34"
+ },
+ {
+  "no": 35,
+  "page": 6,
+  "y": 368.185405,
+  "dup": 1,
+  "seq": 35,
+  "text": "Kenan Keven- Hiperpotasemiyle gelen hastada nasıl tedavi uygularsın ve hangi durumda diyalize başlarsın diye sordu",
+  "text_src": "D",
+  "hoca": "Kenan Keven",
+  "end": {
+   "page": 7,
+   "y": 63.903486
+  },
+  "segments": [
+   {
+    "page": 6,
+    "y0": 364.2,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   6,
+   6
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-35"
+ },
+ {
+  "no": 36,
+  "page": 7,
+  "y": 63.903486,
+  "dup": 1,
+  "seq": 36,
+  "text": "Kenan Keven- - lupus afas ve mpgn'si vardı. Kenan hoca hastanın protein atıhmını sordu",
+  "text_src": "D",
+  "hoca": "Kenan Keven",
+  "end": {
+   "page": 8,
+   "y": 28.883292
+  },
+  "segments": [
+   {
+    "page": 7,
+    "y0": 59.9,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   7,
+   7
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-36"
+ },
+ {
+  "no": 37,
+  "page": 8,
+  "y": 28.883292,
+  "dup": 1,
+  "seq": 37,
+  "text": "Kenan Keven RA'da böbrek tutulumunu sordu. Hastamın aldığı ilaçları sordu. Arb + tiyazid kombinasyonuydu. Bu ilaç ne zaman bırakılır dedi. Diyabet nefropati anlattırdı.",
+  "text_src": "D",
+  "hoca": "Kenan Keven",
+  "end": {
+   "page": 9,
+   "y": 737.077074
+  },
+  "segments": [
+   {
+    "page": 8,
+    "y0": 24.9,
+    "y1": 866.7
+   },
+   {
+    "page": 9,
+    "y0": 0,
+    "y1": 733.1
+   }
+  ],
+  "pages": [
+   8,
+   9
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-37"
+ },
+ {
+  "no": 38,
+  "page": 9,
+  "y": 737.077074,
+  "dup": 1,
+  "seq": 38,
+  "text": "Hastada kreatin 1.22 idi. KBY mi değil mi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 10,
+   "y": 22.30837
+  },
+  "segments": [
+   {
+    "page": 9,
+    "y0": 733.1,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   9,
+   9
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-38"
+ },
+ {
+  "no": 39,
+  "page": 10,
+  "y": 22.30837,
+  "dup": 1,
+  "seq": 39,
+  "text": "Hiponatremi ayırıcı tanısı",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 11,
+   "y": 28.459116
+  },
+  "segments": [
+   {
+    "page": 10,
+    "y0": 18.3,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   10,
+   10
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-39"
+ },
+ {
+  "no": 40,
+  "page": 11,
+  "y": 28.459116,
+  "dup": 1,
+  "seq": 40,
+  "text": "Neval hocaya döndük. Hastamda pH:7,27 ve CO2ve bikarbonat bayağı düşmüştü. GFR: 12 olmuştu diyalize girecekti. Kontrol edilemeyen metabolik asidozdan diyaliz endikasyonu var dedim. Oksijen basıncını sordu. Onu yazmamıştım. Sonra potasyumu sordu, normal değer arasındaydı. \"O zaman buna kontrol edilemeyen diyebilir miyiz?\" dedi, hayır dedim. \"O zaman klinikte ne beklersin?\" dedi. Kussmaul solunumu olabilirdi ya da nörolojik bulgular olabilirdi",
+  "text_src": "D",
+  "hoca": "Neval",
+  "end": {
+   "page": 12,
+   "y": 428.830026
+  },
+  "segments": [
+   {
+    "page": 11,
+    "y0": 24.5,
+    "y1": 866.7
+   },
+   {
+    "page": 12,
+    "y0": 0,
+    "y1": 424.8
+   }
+  ],
+  "pages": [
+   11,
+   12
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-40"
+ },
+ {
+  "no": 41,
+  "page": 12,
+  "y": 428.830026,
+  "dup": 1,
+  "seq": 41,
+  "text": "\"Acil diyaliz kimlere yaparız?\". Nedenler arasında hiperkalemi diyince K+ değerlerini sordu. \"Diyalizi nasıl yaparız?\" juguler venden dedim, \"Kaç girişi vardır?\" dedi. Nasıl takarız tanımlamamı istedi.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 12,
+   "y": 620.212897
+  },
+  "segments": [
+   {
+    "page": 12,
+    "y0": 424.8,
+    "y1": 616.2
+   }
+  ],
+  "pages": [
+   12,
+   12
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-41"
+ },
+ {
+  "no": 42,
+  "page": 12,
+  "y": 620.212897,
+  "dup": 1,
+  "seq": 42,
+  "text": "Sekonder HT düşündüren durumlar",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 13,
+   "y": 18.465206
+  },
+  "segments": [
+   {
+    "page": 12,
+    "y0": 616.2,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   12,
+   12
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-42"
+ },
+ {
+  "no": 44,
+  "page": 13,
+  "y": 18.465206,
+  "dup": 1,
+  "seq": 43,
+  "text": "GFR hesaplama yöntemleri, bizim kullandığımız, hangi faktörler önemli? Yaş, ırk, cinsiyet",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 13,
+   "y": 190.685243
+  },
+  "segments": [
+   {
+    "page": 13,
+    "y0": 14.5,
+    "y1": 186.7
+   }
+  ],
+  "pages": [
+   13,
+   13
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-44"
+ },
+ {
+  "no": 45,
+  "page": 13,
+  "y": 190.685243,
+  "dup": 1,
+  "seq": 44,
+  "text": "Kreatinin yüksek ama GFR normalde neden? Yaşla birlikte yıkım artar.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 13,
+   "y": 406.217922
+  },
+  "segments": [
+   {
+    "page": 13,
+    "y0": 186.7,
+    "y1": 402.2
+   }
+  ],
+  "pages": [
+   13,
+   13
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-45"
+ },
+ {
+  "no": 46,
+  "page": 13,
+  "y": 406.217922,
+  "dup": 1,
+  "seq": 45,
+  "text": "Hiperkalsemi yapan nedenler. Tersiyer hiperparatiroidi, ilaç dozu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 13,
+   "y": 738.56115
+  },
+  "segments": [
+   {
+    "page": 13,
+    "y0": 402.2,
+    "y1": 734.6
+   }
+  ],
+  "pages": [
+   13,
+   13
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-46"
+ },
+ {
+  "no": 47,
+  "page": 13,
+  "y": 738.56115,
+  "dup": 1,
+  "seq": 46,
+  "text": "Daha sonra Kenan Hoca amiloidleri anlat dedi AL, AA tipi ve diyaliz hastalarında görülen P2",
+  "text_src": "D",
+  "hoca": "Kenan (soyad belirtilmemiş)",
+  "end": {
+   "page": 14,
+   "y": 14.27383
+  },
+  "segments": [
+   {
+    "page": 13,
+    "y0": 734.6,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   13,
+   13
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-47"
+ },
+ {
+  "no": 48,
+  "page": 14,
+  "y": 14.27383,
+  "dup": 1,
+  "seq": 47,
+  "text": "Sim hoca sadece \"70 yaşında erkek hasta izole hematuri şikayetiyle geldi, ne düşünürsün?\"",
+  "text_src": "D",
+  "hoca": "Sim Kutlay",
+  "end": {
+   "page": 15,
+   "y": 451.836002
+  },
+  "segments": [
+   {
+    "page": 14,
+    "y0": 10.3,
+    "y1": 866.7
+   },
+   {
+    "page": 15,
+    "y0": 0,
+    "y1": 447.8
+   }
+  ],
+  "pages": [
+   14,
+   15
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-48"
+ },
+ {
+  "no": 49,
+  "page": 15,
+  "y": 451.836002,
+  "dup": 1,
+  "seq": 48,
+  "text": "dirençli hipertansiyon tanımını \"Peki dört ilaç kullansa ama içinde diüretik olmasa 1 yine de dirençli olur mu?\" dedi. Olur dedim. Hastamda SVO öyküsü vardı, \"Hastanda ne düşünürsün ( dirençli HT nedeni olarak?\" dedi. Renal arter aterosklerozu olabilir dedim. \"Bunu nasıl ( gösterebilirsin?\" dedi. Tek taraflı olursa ne olur, çift taraflı olursa ne olur diye sordular.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 15,
+   "y": 546.660137
+  },
+  "segments": [
+   {
+    "page": 15,
+    "y0": 447.8,
+    "y1": 542.7
+   }
+  ],
+  "pages": [
+   15,
+   15
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-49"
+ },
+ {
+  "no": 50,
+  "page": 15,
+  "y": 546.660137,
+  "dup": 1,
+  "seq": 49,
+  "text": "Renal stenoz sebepleri nelerdir? Risk faktörleri nelerdir? Muayene bulguları nelerdir? Tetkiklerde hangi değişiklikler olabilir",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 16,
+   "y": 22.194449
+  },
+  "segments": [
+   {
+    "page": 15,
+    "y0": 542.7,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   15,
+   15
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-50"
+ },
+ {
+  "no": 51,
+  "page": 16,
+  "y": 22.194449,
+  "dup": 1,
+  "seq": 50,
+  "text": "Hipopotasemi sebepleri nelerdir? Hiponatremiyi anlat. Normal plazma sodyum miktarı? İzovolemik hipoosmolar hiponatremi sebebi ne olabilir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 17,
+   "y": 15.901333
+  },
+  "segments": [
+   {
+    "page": 16,
+    "y0": 18.2,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   16,
+   16
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-51"
+ },
+ {
+  "no": 52,
+  "page": 17,
+  "y": 15.901333,
+  "dup": 1,
+  "seq": 51,
+  "text": "KBH nedenler",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 17,
+   "y": 609.0
+  },
+  "segments": [
+   {
+    "page": 17,
+    "y0": 11.9,
+    "y1": 605.0
+   }
+  ],
+  "pages": [
+   17,
+   17
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-52"
+ },
+ {
+  "no": 53,
+  "page": 17,
+  "y": 609.0,
+  "dup": 1,
+  "seq": 52,
+  "text": "Nefrotik Sendrom Tanı Kriterleri",
+  "text_src": "E",
+  "hoca": "—",
+  "end": {
+   "page": 18,
+   "y": 10.88321
+  },
+  "segments": [
+   {
+    "page": 17,
+    "y0": 605.0,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   17,
+   17
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-53"
+ },
+ {
+  "no": 54,
+  "page": 18,
+  "y": 10.88321,
+  "dup": 1,
+  "seq": 53,
+  "text": "İlk olarak Kenan hoca acil hemodiyaliz endikasyonlarını sordu. Hiperpotasemi, üremik komplikasyonlar, metabolik asidoz, tedaviyle düzeltilemeyen hipervolemi dedim. Üremik komplikasyonları saydırdı bulantı kusma, ensefalopati, perikardit, interstisyel akciğer hastalığı, flapping tremor dedim. \"Potasyum kaçın üstündeyse yapalım?\" dedi, 7 dedim. \"Şimdi acildesin acil hemodiyalizi yap bakalım.\" dedi. Önce geçici kateter takarım dedim. \"Nereye takarsın?\" dedi internal juguler ven dedim. \"Nasıl bir kateter takarsın?\" dedi, cevap veremeyince tek lümenli mi çift lümenli mi diye sordu çift lümenli dedim. \"Neden çift lümenli takarsın?\" dedi arteriyel ve venöz giriş için dedim. \"Biz zaten vene takıyoruz o ayrım nasıl olacak?\" dedi, kanın akım yönüne göre ayırırız dedim. \"Hemşire senden diyaliz order'ı isteyecek onda neler olur?\" dedi. Kaç saat diyaliz yapılacağı, hastadan ne kadar su çekileceği, heparin miktarı, kan akım hızı dedim. \"İlk diyalizde nelere dikkat edersin?\" dedi, agresif bir şekilde başlamam diseqilibirium sendromu ve hipotansiyondan korkarım dedim. \"Kan akım hızının diyalizde kaç olmasını isteriz?\" dedi 250 dedim. =3 bunleerum",
+  "text_src": "D",
+  "hoca": "Kenan (soyad belirtilmemiş)",
+  "end": {
+   "page": 18,
+   "y": 272.0
+  },
+  "segments": [
+   {
+    "page": 18,
+    "y0": 6.9,
+    "y1": 268.0
+   }
+  ],
+  "pages": [
+   18,
+   18
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-54"
+ },
+ {
+  "no": 55,
+  "page": 18,
+  "y": 272.0,
+  "dup": 1,
+  "seq": 54,
+  "text": "ABY'ni her şeyiyle anlat",
+  "text_src": "E",
+  "hoca": "—",
+  "end": {
+   "page": 19,
+   "y": 398.52948
+  },
+  "segments": [
+   {
+    "page": 18,
+    "y0": 268.0,
+    "y1": 866.7
+   },
+   {
+    "page": 19,
+    "y0": 0,
+    "y1": 394.5
+   }
+  ],
+  "pages": [
+   18,
+   19
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-55"
+ },
+ {
+  "no": 56,
+  "page": 19,
+  "y": 398.52948,
+  "dup": 1,
+  "seq": 55,
+  "text": "Soliter böbrek nedir,soliter bbrekli hastada hangi risk faktörleri artmistir",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 19,
+   "y": 557.936478
+  },
+  "segments": [
+   {
+    "page": 19,
+    "y0": 394.5,
+    "y1": 553.9
+   }
+  ],
+  "pages": [
+   19,
+   19
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-56"
+ },
+ {
+  "no": 57,
+  "page": 19,
+  "y": 557.936478,
+  "dup": 1,
+  "seq": 56,
+  "text": "Hiperurisemi hiperuremi farki",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 20,
+   "y": 18.943052
+  },
+  "segments": [
+   {
+    "page": 19,
+    "y0": 553.9,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   19,
+   19
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-57"
+ },
+ {
+  "no": 58,
+  "page": 20,
+  "y": 18.943052,
+  "dup": 1,
+  "seq": 57,
+  "text": "Hematüri yapan hastalıkları say,herediter olanı aklına geliyor mu dediler alport sendromu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 20,
+   "y": 436.971687
+  },
+  "segments": [
+   {
+    "page": 20,
+    "y0": 14.9,
+    "y1": 433.0
+   }
+  ],
+  "pages": [
+   20,
+   20
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-58"
+ },
+ {
+  "no": 59,
+  "page": 20,
+  "y": 436.971687,
+  "dup": 1,
+  "seq": 58,
+  "text": "Kronik böbrek hastasını nasıl tanırsın?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 20,
+   "y": 633.283262
+  },
+  "segments": [
+   {
+    "page": 20,
+    "y0": 433.0,
+    "y1": 629.3
+   }
+  ],
+  "pages": [
+   20,
+   20
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-59"
+ },
+ {
+  "no": 60,
+  "page": 20,
+  "y": 633.283262,
+  "dup": 1,
+  "seq": 59,
+  "text": "Sim hoca: nefrotik sendrom nedir tedavide ne kullanırsın acei arblerin etki ettiği 3 mekanizma nefrotik sendromda başka ne kullanırsın antiaggregan statin statin neyi düşürür ve romatoid artrit kötü prognoz kriterleri",
+  "text_src": "D",
+  "hoca": "Sim Kutlay",
+  "end": {
+   "page": 21,
+   "y": 275.96441
+  },
+  "segments": [
+   {
+    "page": 20,
+    "y0": 629.3,
+    "y1": 866.7
+   },
+   {
+    "page": 21,
+    "y0": 0,
+    "y1": 272.0
+   }
+  ],
+  "pages": [
+   20,
+   21
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-60"
+ },
+ {
+  "no": 61,
+  "page": 21,
+  "y": 275.96441,
+  "dup": 1,
+  "seq": 60,
+  "text": "Şehsuvar hoca-- creatinini 2 idi böbrek yetmezliğinde Hagi evredir dedi creatin den naşı hesaplarız dedi(basit formül olan gfr=l/creatinx(100) ü kullanıyoruz.diğer formülleri de sordu ve birim 1.73m2felan söylemeden kabul etmiyor",
+  "text_src": "D",
+  "hoca": "Şehsuvar Ertürk",
+  "end": {
+   "page": 21,
+   "y": 329.261982
+  },
+  "segments": [
+   {
+    "page": 21,
+    "y0": 272.0,
+    "y1": 325.3
+   }
+  ],
+  "pages": [
+   21,
+   21
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-61"
+ },
+ {
+  "no": 62,
+  "page": 21,
+  "y": 329.261982,
+  "dup": 1,
+  "seq": 61,
+  "text": "Lupus nefreti evrelelemesiflden 5 e kadar isimleriyle)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 21,
+   "y": 476.957906
+  },
+  "segments": [
+   {
+    "page": 21,
+    "y0": 325.3,
+    "y1": 473.0
+   }
+  ],
+  "pages": [
+   21,
+   21
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-62"
+ },
+ {
+  "no": 63,
+  "page": 21,
+  "y": 476.957906,
+  "dup": 1,
+  "seq": 62,
+  "text": "Akut böbrek hasarı tanı kriterleri",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 22,
+   "y": 21.334301
+  },
+  "segments": [
+   {
+    "page": 21,
+    "y0": 473.0,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   21,
+   21
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-63"
+ },
+ {
+  "no": 64,
+  "page": 22,
+  "y": 21.334301,
+  "dup": 1,
+  "seq": 63,
+  "text": "sim hoca *genelde gençlerde görülen glomeruler hastalıklar nelerdir, özelliklerini anlatmamı istedi",
+  "text_src": "D",
+  "hoca": "Sim Kutlay",
+  "end": {
+   "page": 23,
+   "y": 15.132489
+  },
+  "segments": [
+   {
+    "page": 22,
+    "y0": 17.3,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   22,
+   22
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-64"
+ },
+ {
+  "no": 65,
+  "page": 23,
+  "y": 15.132489,
+  "dup": 1,
+  "seq": 64,
+  "text": "Şule hoca: Ankilozan spondilitli hastamı sundurdu sonrasında Ankilozan Spondilitli hastanın böbreğinde ne olur? (Aa Amiloidoz). Aa amiloidozlunun böbrek şikayetleri için nasıl gelir? (Nefrotik sendrom). Nefretik sendrom tanı kriterleri nelerdir? (>3,5g/gün proteinüri, hipoalbunemi, ödem, hiperlipidemi, lipidüri, hipertrigliseridem 66- Gökhan Nergizoğlu. İdrar yolları enfeksiyonu olan hasta nasıl gelir? Ateşi varsa ne",
+  "text_src": "D",
+  "hoca": "Şule Şengül",
+  "end": {
+   "page": 23,
+   "y": 61.775712
+  },
+  "segments": [
+   {
+    "page": 23,
+    "y0": 11.1,
+    "y1": 57.8
+   }
+  ],
+  "pages": [
+   23,
+   23
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-65"
+ },
+ {
+  "no": 66,
+  "page": 23,
+  "y": 61.775712,
+  "dup": 1,
+  "seq": 65,
+  "text": "Gökhan Nergizoğlu. İdrar yolları enfeksiyonu olan hasta nasıl gelir? Ateşi varsa ne",
+  "text_src": "D",
+  "hoca": "Gökhan Nergizoğlu",
+  "end": {
+   "page": 23,
+   "y": 127.64001
+  },
+  "segments": [
+   {
+    "page": 23,
+    "y0": 57.8,
+    "y1": 123.6
+   }
+  ],
+  "pages": [
+   23,
+   23
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-66"
+ },
+ {
+  "no": 67,
+  "page": 23,
+  "y": 127.64001,
+  "dup": 1,
+  "seq": 66,
+  "text": "Gökhan Nergizoğlu ? IgA nefropatisi olan hasta nasıl gelir? Makroskopik hematüri ne zaman",
+  "text_src": "D",
+  "hoca": "Gökhan Nergizoğlu",
+  "end": {
+   "page": 23,
+   "y": 177.102384
+  },
+  "segments": [
+   {
+    "page": 23,
+    "y0": 123.6,
+    "y1": 173.1
+   }
+  ],
+  "pages": [
+   23,
+   23
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-67"
+ },
+ {
+  "no": 68,
+  "page": 23,
+  "y": 177.102384,
+  "dup": 1,
+  "seq": 67,
+  "text": "Gökhan Nergizoğlu APSGN de latent dönem ne kadarsürer?",
+  "text_src": "D",
+  "hoca": "Gökhan Nergizoğlu",
+  "end": {
+   "page": 23,
+   "y": 619.622193
+  },
+  "segments": [
+   {
+    "page": 23,
+    "y0": 173.1,
+    "y1": 615.6
+   }
+  ],
+  "pages": [
+   23,
+   23
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-68"
+ },
+ {
+  "no": 69,
+  "page": 23,
+  "y": 619.622193,
+  "dup": 1,
+  "seq": 68,
+  "text": "Şule hoca. Hipokomplementemi yapan hastalıklar nelerdir? Tip3 immun kompleks birikimi yapan hastalık böbrekte hangisidir? Apsgn ve Iga nefropatisi farkları nelerdir?",
+  "text_src": "D",
+  "hoca": "Şule Şengül",
+  "end": {
+   "page": 24,
+   "y": 97.863567
+  },
+  "segments": [
+   {
+    "page": 23,
+    "y0": 615.6,
+    "y1": 866.7
+   },
+   {
+    "page": 24,
+    "y0": 0,
+    "y1": 93.9
+   }
+  ],
+  "pages": [
+   23,
+   24
+  ],
+  "start_src": "OCR-KATMANI",
+  "konu": "Nefroloji",
+  "id": "N-69"
+ },
+ {
+  "no": 70,
+  "page": 24,
+  "y": 97.863567,
+  "dup": 1,
+  "seq": 69,
+  "text": "Gökhan hoca; hastam codiovan kullanıyodu valsartandan yürüdü nelerde vermeyiz diye bi de bblokerlerle ilgili bi soru sordu hatırlayamadım tam,diyabetik nefropatiyle ilgili sorutabilecek her şeyi sordu",
+  "text_src": "D",
+  "hoca": "Gökhan Nergizoğlu",
+  "end": {
+   "page": 27,
+   "y": 74.73044
+  },
+  "segments": [
+   {
+    "page": 24,
+    "y0": 93.9,
+    "y1": 866.7
+   },
+   {
+    "page": 25,
+    "y0": 0,
+    "y1": 866.7
+   },
+   {
+    "page": 26,
+    "y0": 0,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   24,
+   26
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-70"
+ },
+ {
+  "no": 71,
+  "page": 27,
+  "y": 74.73044,
+  "dup": 1,
+  "seq": 70,
+  "text": "Şule hoca sekonder hipertansiyon nedir neler yol açar ve sekonder hipertansiyonluların normal hipertansiyonlulara oranı kaçtır dedi böbreğin hipertansiyona yol açma mekanizmasını sordu",
+  "text_src": "D",
+  "hoca": "Şule Şengül",
+  "end": {
+   "page": 27,
+   "y": 620.045084
+  },
+  "segments": [
+   {
+    "page": 27,
+    "y0": 70.7,
+    "y1": 616.0
+   }
+  ],
+  "pages": [
+   27,
+   27
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-71"
+ },
+ {
+  "no": 72,
+  "page": 27,
+  "y": 620.045084,
+  "dup": 1,
+  "seq": 71,
+  "text": "Kenan keven ise sdbyde ca p pth düzeyleri nasil olur dedi ardindan hiponatremiyi sordu örnekler ver dedi",
+  "text_src": "D",
+  "hoca": "Kenan Keven",
+  "end": {
+   "page": 28,
+   "y": 74.73044
+  },
+  "segments": [
+   {
+    "page": 27,
+    "y0": 616.0,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   27,
+   27
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-72"
+ },
+ {
+  "no": 73,
+  "page": 28,
+  "y": 74.73044,
+  "dup": 1,
+  "seq": 72,
+  "text": "nefroda küçük damar vaskülitlerini stınca bunlar böbreği nasıl tutar diye sordu sonra ABY herşeyini sordu.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 28,
+   "y": 97.863567
+  },
+  "segments": [
+   {
+    "page": 28,
+    "y0": 70.7,
+    "y1": 93.9
+   }
+  ],
+  "pages": [
+   28,
+   28
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-73"
+ },
+ {
+  "no": 74,
+  "page": 28,
+  "y": 97.863567,
+  "dup": 1,
+  "seq": 73,
+  "text": "nefroda küçük damar vaskülitlerini stınca bunlar böbreği nasıl tutar diye sordu sonra ABY herşeyini sordu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 31,
+   "y": 508.214405
+  },
+  "segments": [
+   {
+    "page": 28,
+    "y0": 93.9,
+    "y1": 866.7
+   },
+   {
+    "page": 29,
+    "y0": 0,
+    "y1": 866.7
+   },
+   {
+    "page": 30,
+    "y0": 0,
+    "y1": 866.7
+   },
+   {
+    "page": 31,
+    "y0": 0,
+    "y1": 504.2
+   }
+  ],
+  "pages": [
+   28,
+   31
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-74"
+ },
+ {
+  "no": 75,
+  "page": 31,
+  "y": 508.214405,
+  "dup": 1,
+  "seq": 74,
+  "text": "Periton diyalizi ve hemodiyalizin birbirine göre avantajları? Periton diyalizinde en sık görülen komplikasyon? Peritonit tanısında neye bakarız",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 32,
+   "y": 334.407507
+  },
+  "segments": [
+   {
+    "page": 31,
+    "y0": 504.2,
+    "y1": 866.7
+   },
+   {
+    "page": 32,
+    "y0": 0,
+    "y1": 330.4
+   }
+  ],
+  "pages": [
+   31,
+   32
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-75"
+ },
+ {
+  "no": 76,
+  "page": 32,
+  "y": 334.407507,
+  "dup": 1,
+  "seq": 75,
+  "text": "Gülay hoca:Tip3 immun yanıt ile oluşan nefropatileri say",
+  "text_src": "D",
+  "hoca": "Gülay Kinikli",
+  "end": {
+   "page": 33,
+   "y": 74.73044
+  },
+  "segments": [
+   {
+    "page": 32,
+    "y0": 330.4,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   32,
+   32
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-76"
+ },
+ {
+  "no": 77,
+  "page": 33,
+  "y": 74.73044,
+  "dup": 1,
+  "seq": 76,
+  "text": "Şule hoca:Hiponatremi ile gelen hastada idrar osmolaritesine bakarsın.sonra ne bakarsın?",
+  "text_src": "D",
+  "hoca": "Şule Şengül",
+  "end": {
+   "page": 34,
+   "y": 76.121959
+  },
+  "segments": [
+   {
+    "page": 33,
+    "y0": 70.7,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   33,
+   33
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-77"
+ },
+ {
+  "no": 78,
+  "page": 34,
+  "y": 76.121959,
+  "dup": 1,
+  "seq": 77,
+  "text": "Sim hoca: hipokalemi ile gelen hastada ilk ne sorarsın., hipokalemi ve düşük serum bikarbonatın birlikte görüldüğü durumlar.",
+  "text_src": "D",
+  "hoca": "Sim Kutlay",
+  "end": {
+   "page": 35,
+   "y": 76.121959
+  },
+  "segments": [
+   {
+    "page": 34,
+    "y0": 72.1,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   34,
+   34
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-78"
+ },
+ {
+  "no": 79,
+  "page": 35,
+  "y": 76.121959,
+  "dup": 1,
+  "seq": 78,
+  "text": "Prerenal Aby senaryosuyerdi lab bulgularını sordu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 36,
+   "y": 99.255087
+  },
+  "segments": [
+   {
+    "page": 35,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 36,
+    "y0": 0,
+    "y1": 95.3
+   }
+  ],
+  "pages": [
+   35,
+   36
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-79"
+ },
+ {
+  "no": 80,
+  "page": 36,
+  "y": 99.255087,
+  "dup": 1,
+  "seq": 79,
+  "text": "Hiponatremili bir hastada sorgulayacağımız 5 şey ne (akut mu kronik mi, şiddeti ,hiponatremi semptomlarının varlığı, hiponatreminin tipi, etiyolojisi) Hiponatremi yapan en sık nedenler ne? Hangi diüretik en sık hiponatremi yapar(tiazid)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 36,
+   "y": 405.218972
+  },
+  "segments": [
+   {
+    "page": 36,
+    "y0": 95.3,
+    "y1": 401.2
+   }
+  ],
+  "pages": [
+   36,
+   36
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-80"
+ },
+ {
+  "no": 81,
+  "page": 36,
+  "y": 405.218972,
+  "dup": 1,
+  "seq": 80,
+  "text": "Şule hoca : kby nedir? Kby yapan nedenler nelerdir? Halsizlik yorgunluk uykuya meyilli 40 yaşında kadın hasta kilo artışı tanımlıyor bu hastada ne düşünürsün? Fizik muayenede ne bulmayı beklersin? Hangi tetkikleri istersin tetkiklerde ne bulmayı beklersin?",
+  "text_src": "D",
+  "hoca": "Şule Şengül",
+  "end": {
+   "page": 38,
+   "y": 76.121959
+  },
+  "segments": [
+   {
+    "page": 36,
+    "y0": 401.2,
+    "y1": 866.7
+   },
+   {
+    "page": 37,
+    "y0": 0,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   36,
+   37
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-81"
+ },
+ {
+  "no": 82,
+  "page": 38,
+  "y": 76.121959,
+  "dup": 1,
+  "seq": 81,
+  "text": "Gökhan hoca sekonder hipertansiyonu hasta nasıl gelirse düşünürsün, en sık sekonder hipertansiyon yapan neden? Endokrin hipertansiyon nedenlerini say, hiperaldosteronizme kanda nasıl bi bulgu bulursun?",
+  "text_src": "D",
+  "hoca": "Gökhan Nergizoğlu",
+  "end": {
+   "page": 39,
+   "y": 122.408777
+  },
+  "segments": [
+   {
+    "page": 38,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 39,
+    "y0": 0,
+    "y1": 118.4
+   }
+  ],
+  "pages": [
+   38,
+   39
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-82"
+ },
+ {
+  "no": 83,
+  "page": 39,
+  "y": 122.408777,
+  "dup": 1,
+  "seq": 82,
+  "text": "Böbrek hasarı yapan romatolojik hastalıkları say.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 39,
+   "y": 565.145993
+  },
+  "segments": [
+   {
+    "page": 39,
+    "y0": 118.4,
+    "y1": 561.1
+   }
+  ],
+  "pages": [
+   39,
+   39
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-83"
+ },
+ {
+  "no": 84,
+  "page": 39,
+  "y": 565.145993,
+  "dup": 1,
+  "seq": 83,
+  "text": "Kenan: nefrotik sendrom tanı kriterleri",
+  "text_src": "D",
+  "hoca": "Kenan (soyad belirtilmemiş)",
+  "end": {
+   "page": 40,
+   "y": 76.121959
+  },
+  "segments": [
+   {
+    "page": 39,
+    "y0": 561.1,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   39,
+   39
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-84"
+ },
+ {
+  "no": 85,
+  "page": 40,
+  "y": 76.121959,
+  "dup": 1,
+  "seq": 84,
+  "text": "sim hocada rpgn yı anlat dedi hangi hastalıklarda görülür",
+  "text_src": "D",
+  "hoca": "Sim Kutlay",
+  "end": {
+   "page": 41,
+   "y": 76.121959
+  },
+  "segments": [
+   {
+    "page": 40,
+    "y0": 72.1,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   40,
+   40
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-85"
+ },
+ {
+  "no": 86,
+  "page": 41,
+  "y": 76.121959,
+  "dup": 1,
+  "seq": 85,
+  "text": "Kenan Ateş: KBYli hasta geldi ilk hangi tetkikleri istersin? Gfr ve idrar. Gfr nasıl ölçülür formülleri neler? idrarda neye bakarsın? Hematüri ve proteinüri. hematüriye en çok ne yol açar? Enfeksiyon. Başka neler hematüri yapar? Taş ve malignite.",
+  "text_src": "D",
+  "hoca": "Kenan Ateş",
+  "end": {
+   "page": 42,
+   "y": 122.408777
+  },
+  "segments": [
+   {
+    "page": 41,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 42,
+    "y0": 0,
+    "y1": 118.4
+   }
+  ],
+  "pages": [
+   41,
+   42
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-86"
+ },
+ {
+  "no": 87,
+  "page": 42,
+  "y": 122.408777,
+  "dup": 1,
+  "seq": 86,
+  "text": "sim h: hiperkalemi laboratuar bulgulari ve ekg de görülen değişiklikler",
+  "text_src": "D",
+  "hoca": "Sim Kutlay",
+  "end": {
+   "page": 43,
+   "y": 122.408777
+  },
+  "segments": [
+   {
+    "page": 42,
+    "y0": 118.4,
+    "y1": 866.7
+   },
+   {
+    "page": 43,
+    "y0": 0,
+    "y1": 118.4
+   }
+  ],
+  "pages": [
+   42,
+   43
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-87"
+ },
+ {
+  "no": 88,
+  "page": 43,
+  "y": 122.408777,
+  "dup": 1,
+  "seq": 87,
+  "text": "Şule hoca ılaca bagli akut intersitisyel nefrit yapan ilaçlar",
+  "text_src": "D",
+  "hoca": "Şule Şengül",
+  "end": {
+   "page": 43,
+   "y": 358.675119
+  },
+  "segments": [
+   {
+    "page": 43,
+    "y0": 118.4,
+    "y1": 354.7
+   }
+  ],
+  "pages": [
+   43,
+   43
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-88"
+ },
+ {
+  "no": 89,
+  "page": 43,
+  "y": 358.675119,
+  "dup": 1,
+  "seq": 88,
+  "text": "Sim hoca: hiponatremik hasta ilk ne bakarsın ona göre aşama aşama testler ve düşündüğün tanı",
+  "text_src": "D",
+  "hoca": "Sim Kutlay",
+  "end": {
+   "page": 44,
+   "y": 76.121959
+  },
+  "segments": [
+   {
+    "page": 43,
+    "y0": 354.7,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   43,
+   43
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-89"
+ },
+ {
+  "no": 90,
+  "page": 44,
+  "y": 76.121959,
+  "dup": 1,
+  "seq": 89,
+  "text": "Şule sengul: schmidtsendromu nedir. Kan sodyum potasyum kalsiyum fosfat değer araligi birimleriyle.",
+  "text_src": "D",
+  "hoca": "Şule Şengül",
+  "end": {
+   "page": 44,
+   "y": 287.445649
+  },
+  "segments": [
+   {
+    "page": 44,
+    "y0": 72.1,
+    "y1": 283.4
+   }
+  ],
+  "pages": [
+   44,
+   44
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-90"
+ },
+ {
+  "no": 91,
+  "page": 44,
+  "y": 287.445649,
+  "dup": 1,
+  "seq": 90,
+  "text": "Sim hoca: nefrotik sendromun bulguları nelerdir hastayi ölüme götüren sebep nedir",
+  "text_src": "D",
+  "hoca": "Sim Kutlay",
+  "end": {
+   "page": 45,
+   "y": 99.255087
+  },
+  "segments": [
+   {
+    "page": 44,
+    "y0": 283.4,
+    "y1": 866.7
+   },
+   {
+    "page": 45,
+    "y0": 0,
+    "y1": 95.3
+   }
+  ],
+  "pages": [
+   44,
+   45
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-91"
+ },
+ {
+  "no": 92,
+  "page": 45,
+  "y": 99.255087,
+  "dup": 1,
+  "seq": 91,
+  "text": "Bir de fmf hastası, kolşisini düzenli kullanmıyor nefrotik sendromla geliyor ne düşünürsün diye sordu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 46,
+   "y": 99.255087
+  },
+  "segments": [
+   {
+    "page": 45,
+    "y0": 95.3,
+    "y1": 866.7
+   },
+   {
+    "page": 46,
+    "y0": 0,
+    "y1": 95.3
+   }
+  ],
+  "pages": [
+   45,
+   46
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-92"
+ },
+ {
+  "no": 93,
+  "page": 46,
+  "y": 99.255087,
+  "dup": 1,
+  "seq": 92,
+  "text": "RPGN anlat nasıldır?Rapidly gn ye sebep olan hastalıklar",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 47,
+   "y": 76.121959
+  },
+  "segments": [
+   {
+    "page": 46,
+    "y0": 95.3,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   46,
+   46
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-93"
+ },
+ {
+  "no": 94,
+  "page": 47,
+  "y": 76.121959,
+  "dup": 1,
+  "seq": 93,
+  "text": "Dm nefropatisi olan hastada başka klinik bulgu ne görürsün",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 47,
+   "y": 408.303389
+  },
+  "segments": [
+   {
+    "page": 47,
+    "y0": 72.1,
+    "y1": 404.3
+   }
+  ],
+  "pages": [
+   47,
+   47
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-94"
+ },
+ {
+  "no": 95,
+  "page": 47,
+  "y": 408.303389,
+  "dup": 1,
+  "seq": 94,
+  "text": "tek taraflı renal darlıkta ne olur, hasta ne şikayetle gelir ( ani tansiyon yüksekliği) görüntüleme yapmadan önce hastaya yaklaşım ?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 49,
+   "y": 76.121959
+  },
+  "segments": [
+   {
+    "page": 47,
+    "y0": 404.3,
+    "y1": 866.7
+   },
+   {
+    "page": 48,
+    "y0": 0,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   47,
+   48
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-95"
+ },
+ {
+  "no": 96,
+  "page": 49,
+  "y": 76.121959,
+  "dup": 1,
+  "seq": 95,
+  "text": "Gökhan nergisoglu : ilaçlar böbreğe nasıl zarar verir, hangi ilaçları verirken hastayı böbreği için uyarırız",
+  "text_src": "D",
+  "hoca": "Gökhan Nergizoğlu",
+  "end": {
+   "page": 52,
+   "y": 76.121959
+  },
+  "segments": [
+   {
+    "page": 49,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 50,
+    "y0": 0,
+    "y1": 866.7
+   },
+   {
+    "page": 51,
+    "y0": 0,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   49,
+   51
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-96"
+ },
+ {
+  "no": 97,
+  "page": 52,
+  "y": 76.121959,
+  "dup": 1,
+  "seq": 96,
+  "text": "Şule hoca: hipokomplemantemi yapan hastalıklar nedir, akut poststreptokok glomerülonefriti anlat",
+  "text_src": "D",
+  "hoca": "Şule Şengül",
+  "end": {
+   "page": 53,
+   "y": 76.121959
+  },
+  "segments": [
+   {
+    "page": 52,
+    "y0": 72.1,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   52,
+   52
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-97"
+ },
+ {
+  "no": 98,
+  "page": 53,
+  "y": 76.121959,
+  "dup": 1,
+  "seq": 97,
+  "text": "kbh abh sordu nasıl tanırsın hasta sana nasıl gelir kbh kby farkı hangi sebepten dolayı kby zemininde aby düşündün hasta 10 gündür kusuyordu başka ne yapar metabolik alkaloz neler olur lab bulguları hipopatasemi hipokalsemi fm bulguları nelerdir dm ve ht böbreği nasıl tutuar neresini tutar",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 56,
+   "y": 76.121959
+  },
+  "segments": [
+   {
+    "page": 53,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 54,
+    "y0": 0,
+    "y1": 866.7
+   },
+   {
+    "page": 55,
+    "y0": 0,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   53,
+   55
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-98"
+ },
+ {
+  "no": 99,
+  "page": 56,
+  "y": 76.121959,
+  "dup": 1,
+  "seq": 98,
+  "text": "idrarda protein ölçme yöntemleri nelerdir (idrar stick, albumin/kreatinin,prot/kreatinin oranı bunlar spot idrarda,24saatlik idrar toplama )",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 57,
+   "y": 76.121959
+  },
+  "segments": [
+   {
+    "page": 56,
+    "y0": 72.1,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   56,
+   56
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-99"
+ },
+ {
+  "no": 101,
+  "page": 57,
+  "y": 76.121959,
+  "dup": 1,
+  "seq": 99,
+  "text": "RPGNIerin ortak özellikleri ve RPGN yapan romatolojik hastalıkla",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 58,
+   "y": 76.121959
+  },
+  "segments": [
+   {
+    "page": 57,
+    "y0": 72.1,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   57,
+   57
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-101a"
+ },
+ {
+  "no": 102,
+  "page": 58,
+  "y": 76.121959,
+  "dup": 1,
+  "seq": 100,
+  "text": "GFR hesaplanmasında kullanılan faktörlerin seçilme nedenleri? Neden inülin değil? Neden kreatinin?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 58,
+   "y": 458.16813
+  },
+  "segments": [
+   {
+    "page": 58,
+    "y0": 72.1,
+    "y1": 454.2
+   }
+  ],
+  "pages": [
+   58,
+   58
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-102a"
+ },
+ {
+  "no": 103,
+  "page": 58,
+  "y": 458.16813,
+  "dup": 1,
+  "seq": 101,
+  "text": "Sim hoca direneli hipertansiyon tanimini sonra da sekonder hipertansiyon nedenlerini sordu. Hipertansiyonun hedef organ hasarlarini sâydirip nefropati oluştuğunu neye bakarak anlariz ded",
+  "text_src": "D",
+  "hoca": "Sim Kutlay",
+  "end": {
+   "page": 60,
+   "y": 375.896448
+  },
+  "segments": [
+   {
+    "page": 58,
+    "y0": 454.2,
+    "y1": 866.7
+   },
+   {
+    "page": 59,
+    "y0": 0,
+    "y1": 866.7
+   },
+   {
+    "page": 60,
+    "y0": 0,
+    "y1": 371.9
+   }
+  ],
+  "pages": [
+   58,
+   60
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-103a"
+ },
+ {
+  "no": 104,
+  "page": 60,
+  "y": 375.896448,
+  "dup": 1,
+  "seq": 102,
+  "text": "nefrtoik sendrom ve komplikasyonlarını sordu neler bakarsın dedi proteniüriye girdi biraz ,10 yaşında çocuk 20 yaşında biri ve 60 yaşında biri üçü proteiniriyile geldi ne düşünürsün dedi normalde kanda protein olur mu ne kadar olur dedi, birimleri sordu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 62,
+   "y": 76.456067
+  },
+  "segments": [
+   {
+    "page": 60,
+    "y0": 371.9,
+    "y1": 866.7
+   },
+   {
+    "page": 61,
+    "y0": 0,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   60,
+   61
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-104a"
+ },
+ {
+  "no": 100,
+  "page": 62,
+  "y": 76.456067,
+  "dup": 1,
+  "seq": 103,
+  "text": "hiponatremili hastaya yaklaşım çeşitleri etyolojisi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 63,
+   "y": 76.456067
+  },
+  "segments": [
+   {
+    "page": 62,
+    "y0": 72.5,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   62,
+   62
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-100"
+ },
+ {
+  "no": 101,
+  "page": 63,
+  "y": 76.456067,
+  "dup": 2,
+  "seq": 104,
+  "text": "RPGNIerin ortak özellikleri ve RPGN yapan romatolojik hastalıkla",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 63,
+   "y": 100.1
+  },
+  "segments": [
+   {
+    "page": 63,
+    "y0": 72.5,
+    "y1": 96.1
+   }
+  ],
+  "pages": [
+   63,
+   63
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-101b"
+ },
+ {
+  "no": 132,
+  "page": 63,
+  "y": 100.1,
+  "dup": 1,
+  "seq": 105,
+  "text": "RPGN nedenleri",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 64,
+   "y": 76.209293
+  },
+  "segments": [
+   {
+    "page": 63,
+    "y0": 96.1,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   63,
+   63
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-132"
+ },
+ {
+  "no": 102,
+  "page": 64,
+  "y": 76.209293,
+  "dup": 2,
+  "seq": 106,
+  "text": "GFR hesaplanmasında kullanılan faktörlerin seçilme nedenleri? Neden inülin değil? Neden kreatinin?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 64,
+   "y": 367.23838
+  },
+  "segments": [
+   {
+    "page": 64,
+    "y0": 72.2,
+    "y1": 363.2
+   }
+  ],
+  "pages": [
+   64,
+   64
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-102b"
+ },
+ {
+  "no": 103,
+  "page": 64,
+  "y": 367.23838,
+  "dup": 2,
+  "seq": 107,
+  "text": "Sim hoca dirençli hipertansiyon tanimini sonra da sekonder hipertansiyon nedenlerini sordu. Hipertansiyonun hedef organ hasarlarini saydirip nefropati oluştuğunu neye bakarak anlariz dedi",
+  "text_src": "D",
+  "hoca": "Sim Kutlay",
+  "end": {
+   "page": 65,
+   "y": 76.209293
+  },
+  "segments": [
+   {
+    "page": 64,
+    "y0": 363.2,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   64,
+   64
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-103b"
+ },
+ {
+  "no": 104,
+  "page": 65,
+  "y": 76.209293,
+  "dup": 2,
+  "seq": 108,
+  "text": "nefrotik sendrom ve komplikasyonlarını sordu neler bakarsın dedi proteniüriye girdi biraz ,10 yaşında çocuk 20 yaşında biri ve 60 yaşında biri üçü proteiniriyile geldi ne düşünürsün dedi normalde kanda protein olur mu ne kadar olur dedi, birimleri sordu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 65,
+   "y": 497.823082
+  },
+  "segments": [
+   {
+    "page": 65,
+    "y0": 72.2,
+    "y1": 493.8
+   }
+  ],
+  "pages": [
+   65,
+   65
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-104b"
+ },
+ {
+  "no": 105,
+  "page": 65,
+  "y": 497.823082,
+  "dup": 1,
+  "seq": 109,
+  "text": "kbh hasta geldi nasıl anlarsın nasıl tanı koyarsın nasıl evrelersin dedi lab bulgularını sordu, diyabet tanı kriterleri gibi bir şey sordu semptomlarını pollaküri derken günde kaç defa falan diye sordu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 66,
+   "y": 426.237988
+  },
+  "segments": [
+   {
+    "page": 65,
+    "y0": 493.8,
+    "y1": 866.7
+   },
+   {
+    "page": 66,
+    "y0": 0,
+    "y1": 422.2
+   }
+  ],
+  "pages": [
+   65,
+   66
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-105"
+ },
+ {
+  "no": 106,
+  "page": 66,
+  "y": 426.237988,
+  "dup": 1,
+  "seq": 110,
+  "text": "Hastanın 5 çocuğunun olmasının böbrek hastalıklarına etkisi var mıdır",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 66,
+   "y": 472.158561
+  },
+  "segments": [
+   {
+    "page": 66,
+    "y0": 422.2,
+    "y1": 468.2
+   }
+  ],
+  "pages": [
+   66,
+   66
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-106"
+ },
+ {
+  "no": 107,
+  "page": 66,
+  "y": 472.158561,
+  "dup": 1,
+  "seq": 111,
+  "text": "Ödemi olan hastada böbrek hastalığı nasıl anlaşılır? Proteinüri, Gfr. Başka ödemli hastalık? Kalp yetmezliği. Nasıl ayırt edersin? Diğer bulgular; BVD, Ac bazal ince raller, hepatomegali konjesyona bağh. Ödem tedavisinde Gfr önemli mi? Gfr çok düşükse tiyazit etkisiz, furosemit veririz",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 66,
+   "y": 563.249102
+  },
+  "segments": [
+   {
+    "page": 66,
+    "y0": 468.2,
+    "y1": 559.2
+   }
+  ],
+  "pages": [
+   66,
+   66
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-107"
+ },
+ {
+  "no": 108,
+  "page": 66,
+  "y": 563.249102,
+  "dup": 1,
+  "seq": 112,
+  "text": "Kenan hoca- üsye olgusu tarifledi oradan IgA nefropatisi ve apsgn yi karşılaştırmamı istedi, hipokomplementeminin sadece apsgn de olduğunu söylememi istedi, apsgn serolojisini sordu. Ace arb ne zaman verilmez dedi.",
+  "text_src": "D",
+  "hoca": "Kenan (soyad belirtilmemiş)",
+  "end": {
+   "page": 67,
+   "y": 76.456067
+  },
+  "segments": [
+   {
+    "page": 66,
+    "y0": 559.2,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   66,
+   66
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-108"
+ },
+ {
+  "no": 109,
+  "page": 67,
+  "y": 76.456067,
+  "dup": 1,
+  "seq": 113,
+  "text": "Kronik böbrek hastalığı etyolojisi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 67,
+   "y": 383.792819
+  },
+  "segments": [
+   {
+    "page": 67,
+    "y0": 72.5,
+    "y1": 379.8
+   }
+  ],
+  "pages": [
+   67,
+   67
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-109"
+ },
+ {
+  "no": 110,
+  "page": 67,
+  "y": 383.792819,
+  "dup": 1,
+  "seq": 114,
+  "text": "Akut böbrek hasarı olan hasta hipovolemisi var ne düşünürsün ( Gis ten kayıp, hemoraji, kusma vs..)Hastanın fizik muayenesinde nasıl anlarsın bunu ( bvd azalır, hipotansiyon, mukoz membranların kuruluğu vs) Prerenal ve renal ayrımını lab ile nasıl yaparsın ( FeNa, idrar sodyumu, idrar osmolalitesi dansitesi, bun/kreatinin sayısal değerleri ile birlikte)Fmf fenotip 2 nasıldır ( ataksız, aile öyküsü, amiloidoz) Lab da ne görebilirsin ( amiloidoza bağlı proteinüri vs...)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 67,
+   "y": 646.432586
+  },
+  "segments": [
+   {
+    "page": 67,
+    "y0": 379.8,
+    "y1": 642.4
+   }
+  ],
+  "pages": [
+   67,
+   67
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-110"
+ },
+ {
+  "no": 111,
+  "page": 67,
+  "y": 646.432586,
+  "dup": 1,
+  "seq": 115,
+  "text": "kbh komplikasyonları",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 68,
+   "y": 76.209293
+  },
+  "segments": [
+   {
+    "page": 67,
+    "y0": 642.4,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   67,
+   67
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-111"
+ },
+ {
+  "no": 112,
+  "page": 68,
+  "y": 76.209293,
+  "dup": 1,
+  "seq": 116,
+  "text": "Şehsuvar Ertürk - potasyum tedavisi, sağlıklı bir insana potasyum dengesiyle ilgili neler önerirsin, sıvı kısıtlama testini anlat ve yorumla, insülin yan etkileri, taş düşürmek ve kum dökmek arasındaki fark",
+  "text_src": "D",
+  "hoca": "Şehsuvar Ertürk",
+  "end": {
+   "page": 68,
+   "y": 349.22386
+  },
+  "segments": [
+   {
+    "page": 68,
+    "y0": 72.2,
+    "y1": 345.2
+   }
+  ],
+  "pages": [
+   68,
+   68
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-112"
+ },
+ {
+  "no": 113,
+  "page": 68,
+  "y": 349.22386,
+  "dup": 1,
+  "seq": 117,
+  "text": "Neval hoca anamnez üzerinden gitti hastam kbh idi 2013 yılında mide bulantısı karın ağrısıyla acile gitmiş kan ve idrar tetkikiyle böbrek yetmezliği tanısı konulmuş hangi değere göre bu tanıyı koymuş olabilirler dedi Serum kreatinin. Hastayı hemodiyalize almışlar. Neden diyalize almış olabilirler dedi metabolik asidoz bunun için neye bakarsın dedi bikarbonat değeri kaç olmalı dedi 12. Başka ne olmuş hastada? Üremik bulantı kusma. Hemodiyalize almak için asıl sebep? Dirençli",
+  "text_src": "D",
+  "hoca": "Neval",
+  "end": {
+   "page": 69,
+   "y": 251.22364
+  },
+  "segments": [
+   {
+    "page": 68,
+    "y0": 345.2,
+    "y1": 866.7
+   },
+   {
+    "page": 69,
+    "y0": 0,
+    "y1": 247.2
+   }
+  ],
+  "pages": [
+   68,
+   69
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-113"
+ },
+ {
+  "no": 114,
+  "page": 69,
+  "y": 251.22364,
+  "dup": 1,
+  "seq": 118,
+  "text": "hipovolemi fizik muayne bulgulari -hipovolemide böbrekten na atilimi nasil deisir (saglikli böbrek te na atilimi azalır değerini de sordu 10meq/lt. den dusuk olur)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 69,
+   "y": 460.786381
+  },
+  "segments": [
+   {
+    "page": 69,
+    "y0": 247.2,
+    "y1": 456.8
+   }
+  ],
+  "pages": [
+   69,
+   69
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-114"
+ },
+ {
+  "no": 115,
+  "page": 69,
+  "y": 460.786381,
+  "dup": 1,
+  "seq": 119,
+  "text": "5 ana bulgu Kbh düşünüyosun olmadığını kanıtlamak için hangi testleri yapmak gerekir",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 70,
+   "y": 76.209293
+  },
+  "segments": [
+   {
+    "page": 69,
+    "y0": 456.8,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   69,
+   69
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-115"
+ },
+ {
+  "no": 116,
+  "page": 70,
+  "y": 76.209293,
+  "dup": 1,
+  "seq": 120,
+  "text": "Şule hoca Hastamda sjogren olduğu için sjogren böbreğe ne yapar diye sordu Kronik böbrek hastalığı tanımı ve risk faktörlerini sordu(eksiksiz bekliyor",
+  "text_src": "D",
+  "hoca": "Şule Şengül",
+  "end": {
+   "page": 70,
+   "y": 440.057345
+  },
+  "segments": [
+   {
+    "page": 70,
+    "y0": 72.2,
+    "y1": 436.1
+   }
+  ],
+  "pages": [
+   70,
+   70
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-116"
+ },
+ {
+  "no": 117,
+  "page": 70,
+  "y": 440.057345,
+  "dup": 1,
+  "seq": 121,
+  "text": "Nefrotik sendrom soruldu kliniği komplikasyonları altın tuzlar! böbrekte nasıl bi hasar yapar kbh nin tanımı üzerinde de çok duruld",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 71,
+   "y": 144.103056
+  },
+  "segments": [
+   {
+    "page": 70,
+    "y0": 436.1,
+    "y1": 866.7
+   },
+   {
+    "page": 71,
+    "y0": 0,
+    "y1": 140.1
+   }
+  ],
+  "pages": [
+   70,
+   71
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-117"
+ },
+ {
+  "no": 118,
+  "page": 71,
+  "y": 144.103056,
+  "dup": 1,
+  "seq": 122,
+  "text": "Sim hoca renal arter stenozunu sordu( bilateral unilateral diyince gülümsüyor.) Bulguları nedir diye soruyor mutlaka dirençli hipertansiyon bekliyor ve başka diyor orda bilateral unilateral ayırmanızı bekliyor. Dirençli hipertansiyon tanı kriterleri(genç yaş, ani başlama, çok yüksek seyretme, en az biri diüretik olan 3 ilaca cevap vermeme, sekonder sebepleri ekarte etme.) Dirençli hipertansiyon sebepler diyor( feo, cushing, primer hiperaldosteronizm vs.) Raas sisteminden gitmeniz",
+  "text_src": "D",
+  "hoca": "Sim Kutlay",
+  "end": {
+   "page": 71,
+   "y": 309.986756
+  },
+  "segments": [
+   {
+    "page": 71,
+    "y0": 140.1,
+    "y1": 306.0
+   }
+  ],
+  "pages": [
+   71,
+   71
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-118"
+ },
+ {
+  "no": 119,
+  "page": 71,
+  "y": 309.986756,
+  "dup": 1,
+  "seq": 123,
+  "text": "ödemi olan hastaya yaklasim yaptird",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 72,
+   "y": 152.246606
+  },
+  "segments": [
+   {
+    "page": 71,
+    "y0": 306.0,
+    "y1": 866.7
+   },
+   {
+    "page": 72,
+    "y0": 0,
+    "y1": 148.2
+   }
+  ],
+  "pages": [
+   71,
+   72
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-119"
+ },
+ {
+  "no": 120,
+  "page": 72,
+  "y": 152.246606,
+  "dup": 1,
+  "seq": 124,
+  "text": "Ordan Kenan hoca gut artinin böbrek tutulumu ile alakalı soru sordu nereyi tutar vb. Diyabetik nefropatili hastayı nasıl takip edersin? Nelere bakarsin ?-spot idrarda albumin/kreatin orani-Hangi ilaçları vermen hastada neleri değiştirir?(acei arb vb.) Hastaya yaklaşımın nasıl olur nelere dikkat edersin gibi sorular sordu",
+  "text_src": "D",
+  "hoca": "Kenan (soyad belirtilmemiş)",
+  "end": {
+   "page": 73,
+   "y": 590.147494
+  },
+  "segments": [
+   {
+    "page": 72,
+    "y0": 148.2,
+    "y1": 866.7
+   },
+   {
+    "page": 73,
+    "y0": 0,
+    "y1": 586.1
+   }
+  ],
+  "pages": [
+   72,
+   73
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-120"
+ },
+ {
+  "no": 121,
+  "page": 73,
+  "y": 590.147494,
+  "dup": 1,
+  "seq": 125,
+  "text": "Kronik böbrek hastalığına nasıl tanı koyarsın .tansiyon ölçerken nelere dikkat edersin .",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 74,
+   "y": 475.119852
+  },
+  "segments": [
+   {
+    "page": 73,
+    "y0": 586.1,
+    "y1": 866.7
+   },
+   {
+    "page": 74,
+    "y0": 0,
+    "y1": 471.1
+   }
+  ],
+  "pages": [
+   73,
+   74
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-121"
+ },
+ {
+  "no": 122,
+  "page": 74,
+  "y": 475.119852,
+  "dup": 1,
+  "seq": 126,
+  "text": "kronik böbrek hastalığını tanımla dedi en son otozomal polikistik böbrek de en sık ekstra renal tutulumu sordu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 75,
+   "y": 76.456067
+  },
+  "segments": [
+   {
+    "page": 74,
+    "y0": 471.1,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   74,
+   74
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-122"
+ },
+ {
+  "no": 123,
+  "page": 75,
+  "y": 76.456067,
+  "dup": 1,
+  "seq": 127,
+  "text": "ABY ni herseyiyle anlat",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 75,
+   "y": 520.526312
+  },
+  "segments": [
+   {
+    "page": 75,
+    "y0": 72.5,
+    "y1": 516.5
+   }
+  ],
+  "pages": [
+   75,
+   75
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-123"
+ },
+ {
+  "no": 124,
+  "page": 75,
+  "y": 520.526312,
+  "dup": 1,
+  "seq": 128,
+  "text": "Soliter böbrek nedir,soliter bbrekli hastada hangi risk faktörleri artmistir",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 75,
+   "y": 642.977746
+  },
+  "segments": [
+   {
+    "page": 75,
+    "y0": 516.5,
+    "y1": 639.0
+   }
+  ],
+  "pages": [
+   75,
+   75
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-124"
+ },
+ {
+  "no": 125,
+  "page": 75,
+  "y": 642.977746,
+  "dup": 1,
+  "seq": 129,
+  "text": "Hiperurisemi hiperuremi farkı",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 76,
+   "y": 76.456067
+  },
+  "segments": [
+   {
+    "page": 75,
+    "y0": 639.0,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   75,
+   75
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-125"
+ },
+ {
+  "no": 126,
+  "page": 76,
+  "y": 76.456067,
+  "dup": 1,
+  "seq": 130,
+  "text": "Hematüri yapan hastalıkları say,herediter olanı.aklına geliyor mu dediler",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 76,
+   "y": 326.52063
+  },
+  "segments": [
+   {
+    "page": 76,
+    "y0": 72.5,
+    "y1": 322.5
+   }
+  ],
+  "pages": [
+   76,
+   76
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-126"
+ },
+ {
+  "no": 127,
+  "page": 76,
+  "y": 326.52063,
+  "dup": 1,
+  "seq": 131,
+  "text": "Kronik böbrek hastasını nasıl tanırsın?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 76,
+   "y": 474.626303
+  },
+  "segments": [
+   {
+    "page": 76,
+    "y0": 322.5,
+    "y1": 470.6
+   }
+  ],
+  "pages": [
+   76,
+   76
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-127"
+ },
+ {
+  "no": 128,
+  "page": 76,
+  "y": 474.626303,
+  "dup": 1,
+  "seq": 132,
+  "text": "Hastamda kola rengi idrar vardı hangi hastalıklar da gorulur niye böbrek duşundun?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 76,
+   "y": 573.860395
+  },
+  "segments": [
+   {
+    "page": 76,
+    "y0": 470.6,
+    "y1": 569.9
+   }
+  ],
+  "pages": [
+   76,
+   76
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-128"
+ },
+ {
+  "no": 129,
+  "page": 76,
+  "y": 573.860395,
+  "dup": 1,
+  "seq": 133,
+  "text": "norojenik mesaneye bagli böbrek yetmezliği vardi başka • neler olabilir,",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 77,
+   "y": 76.456067
+  },
+  "segments": [
+   {
+    "page": 76,
+    "y0": 569.9,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   76,
+   76
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-129"
+ },
+ {
+  "no": 130,
+  "page": 77,
+  "y": 76.456067,
+  "dup": 1,
+  "seq": 134,
+  "text": "aby yapan sebepler,",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 77,
+   "y": 380.091205
+  },
+  "segments": [
+   {
+    "page": 77,
+    "y0": 72.5,
+    "y1": 376.1
+   }
+  ],
+  "pages": [
+   77,
+   77
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-130"
+ },
+ {
+  "no": 131,
+  "page": 77,
+  "y": 380.091205,
+  "dup": 1,
+  "seq": 135,
+  "text": "hiperkaleminin tedavisi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 78,
+   "y": 76.456067
+  },
+  "segments": [
+   {
+    "page": 77,
+    "y0": 376.1,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   77,
+   77
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-131"
+ },
+ {
+  "no": 133,
+  "page": 78,
+  "y": 76.456067,
+  "dup": 1,
+  "seq": 136,
+  "text": "kretin klirensini hesaplamam için bir olgu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 78,
+   "y": 249.002672
+  },
+  "segments": [
+   {
+    "page": 78,
+    "y0": 72.5,
+    "y1": 245.0
+   }
+  ],
+  "pages": [
+   78,
+   78
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-133"
+ },
+ {
+  "no": 134,
+  "page": 78,
+  "y": 249.002672,
+  "dup": 1,
+  "seq": 137,
+  "text": "Hasta: romatoid artrit fizik muayene ve sistem sorguları Böbreği nasıl tutar Amiloidozis ne yapar: nefrotik sendrom Başka hangisi oto immun nefrotik sendrom yapar Lupus nefriti nasıl olur",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 79,
+   "y": 447.954121
+  },
+  "segments": [
+   {
+    "page": 78,
+    "y0": 245.0,
+    "y1": 866.7
+   },
+   {
+    "page": 79,
+    "y0": 0,
+    "y1": 444.0
+   }
+  ],
+  "pages": [
+   78,
+   79
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-134"
+ },
+ {
+  "no": 135,
+  "page": 79,
+  "y": 447.954121,
+  "dup": 1,
+  "seq": 138,
+  "text": "Başka nefrotik sendrom yapan hastalıklar",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 80,
+   "y": 76.121959
+  },
+  "segments": [
+   {
+    "page": 79,
+    "y0": 444.0,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   79,
+   79
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-135"
+ },
+ {
+  "no": 136,
+  "page": 80,
+  "y": 76.121959,
+  "dup": 1,
+  "seq": 139,
+  "text": "Nefrotik sendrom komplikasyonları",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 80,
+   "y": 378.72383
+  },
+  "segments": [
+   {
+    "page": 80,
+    "y0": 72.1,
+    "y1": 374.7
+   }
+  ],
+  "pages": [
+   80,
+   80
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-136"
+ },
+ {
+  "no": 137,
+  "page": 80,
+  "y": 378.72383,
+  "dup": 1,
+  "seq": 140,
+  "text": "polikistik böbrek anlat.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 81,
+   "y": 430.408377
+  },
+  "segments": [
+   {
+    "page": 80,
+    "y0": 374.7,
+    "y1": 866.7
+   },
+   {
+    "page": 81,
+    "y0": 0,
+    "y1": 426.4
+   }
+  ],
+  "pages": [
+   80,
+   81
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-137"
+ },
+ {
+  "no": 138,
+  "page": 81,
+  "y": 430.408377,
+  "dup": 1,
+  "seq": 141,
+  "text": "Transplantasyon için kontendike dürünlar +kby tanisi ve tedavisi +ace inh progresyon üzerine etkisi +ace inh verdiğin hastada kanda bakacagin kontrol paremetresi nedir [kreatinin değeri ve gfr] +kby hasta günde kac litre su icmeli içmezse ne olur [dehidratasyon ve kronik zeminde gelişen aby ]+kby diyet nasil olmali",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 82,
+   "y": 76.121959
+  },
+  "segments": [
+   {
+    "page": 81,
+    "y0": 426.4,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   81,
+   81
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-138"
+ },
+ {
+  "no": 139,
+  "page": 82,
+  "y": 76.121959,
+  "dup": 1,
+  "seq": 142,
+  "text": "Kronik böbrek yetmezliğinde yatkinlik yaratan durumlar nelerdir",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 82,
+   "y": 396.99386
+  },
+  "segments": [
+   {
+    "page": 82,
+    "y0": 72.1,
+    "y1": 393.0
+   }
+  ],
+  "pages": [
+   82,
+   82
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-139"
+ },
+ {
+  "no": 140,
+  "page": 82,
+  "y": 396.99386,
+  "dup": 1,
+  "seq": 143,
+  "text": "kronik böbrek yetmezliğiyle ilgili sorular sordu nasil anlarsin böbrek hastasi ne sorarsn hastaya dedi-idrar çikisiniz nasil?diye sorucakmisiz.oliguri-anuri tanimlari,anurik hastada ne olmasini beklersin,nelerden korkarsn.hangi değerler nasil deysiir.ilk neden korkmalisin.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 82,
+   "y": 610.651425
+  },
+  "segments": [
+   {
+    "page": 82,
+    "y0": 393.0,
+    "y1": 606.7
+   }
+  ],
+  "pages": [
+   82,
+   82
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-140"
+ },
+ {
+  "no": 141,
+  "page": 82,
+  "y": 610.651425,
+  "dup": 1,
+  "seq": 144,
+  "text": "Sjögrende hangi tip böbrek tutulumu olur,KTİN de hasta hangi şikayetlerle gelir,akut-kronik KTİN ayrımı",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 82,
+   "y": 747.949108
+  },
+  "segments": [
+   {
+    "page": 82,
+    "y0": 606.7,
+    "y1": 743.9
+   }
+  ],
+  "pages": [
+   82,
+   82
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-141"
+ },
+ {
+  "no": 142,
+  "page": 82,
+  "y": 747.949108,
+  "dup": 1,
+  "seq": 145,
+  "text": "inda kapidan giren hastada ne gibi böbrek hastaliklari olabilir. Herhangi bi yerinde herhangi bi kanseri olan hastada böbrekte ne olur.antihipertansifleri say",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 83,
+   "y": 76.121959
+  },
+  "segments": [
+   {
+    "page": 82,
+    "y0": 743.9,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   82,
+   82
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-142"
+ },
+ {
+  "no": 143,
+  "page": 83,
+  "y": 76.121959,
+  "dup": 1,
+  "seq": 146,
+  "text": "hiponatreminin semptomları, APSGNde kullanılacak antihipertansif ilaç,",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 83,
+   "y": 175.357936
+  },
+  "segments": [
+   {
+    "page": 83,
+    "y0": 72.1,
+    "y1": 171.4
+   }
+  ],
+  "pages": [
+   83,
+   83
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-143"
+ },
+ {
+  "no": 144,
+  "page": 83,
+  "y": 175.357936,
+  "dup": 1,
+  "seq": 147,
+  "text": "RA Bobregî nasil etkiler ve bunu nasil anlarsın ? Spot idrardaki normal değerler? Kby tahimi) Evreleri?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 83,
+   "y": 375.125343
+  },
+  "segments": [
+   {
+    "page": 83,
+    "y0": 171.4,
+    "y1": 371.1
+   }
+  ],
+  "pages": [
+   83,
+   83
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-144"
+ },
+ {
+  "no": 145,
+  "page": 83,
+  "y": 375.125343,
+  "dup": 1,
+  "seq": 148,
+  "text": "Neval hoca hasta üzerinden sorular sordu transplante hasta idrar yolu enfeksiyonu nedeniyle yatırılmış neden yatırmışız nasıl takip ederiz diye sordu hastada aby gelişmiş nerden anladın aby kaby farkı, metabolik alkaloz/ asidoz yapan nedenler.",
+  "text_src": "D",
+  "hoca": "Neval",
+  "end": {
+   "page": 83,
+   "y": 428.095065
+  },
+  "segments": [
+   {
+    "page": 83,
+    "y0": 371.1,
+    "y1": 424.1
+   }
+  ],
+  "pages": [
+   83,
+   83
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-145"
+ },
+ {
+  "no": 146,
+  "page": 83,
+  "y": 428.095065,
+  "dup": 1,
+  "seq": 149,
+  "text": "hasta son dönem böbrek yetmezliğine girmesin diye ne yaparsın? KBY tedavisi?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 83,
+   "y": 451.228192
+  },
+  "segments": [
+   {
+    "page": 83,
+    "y0": 424.1,
+    "y1": 447.2
+   }
+  ],
+  "pages": [
+   83,
+   83
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-146"
+ },
+ {
+  "no": 147,
+  "page": 83,
+  "y": 451.228192,
+  "dup": 1,
+  "seq": 150,
+  "text": "hiperkalsemi nedenleri, hiperkalsemi komplikasyonları, yetişkin erkek hasta hiperkalsemi ve nefrotik sendrom ile geliyorsa ilk ne düşünürsün,",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 83,
+   "y": 588.536156
+  },
+  "segments": [
+   {
+    "page": 83,
+    "y0": 447.2,
+    "y1": 584.5
+   }
+  ],
+  "pages": [
+   83,
+   83
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-147"
+ },
+ {
+  "no": 148,
+  "page": 83,
+  "y": 588.536156,
+  "dup": 1,
+  "seq": 151,
+  "text": "Nergizoglu; diyabet böbreğe napar? Nsaİd vucuda ne yan etki napar",
+  "text_src": "D",
+  "hoca": "Gökhan Nergizoğlu",
+  "end": {
+   "page": 84,
+   "y": 76.121959
+  },
+  "segments": [
+   {
+    "page": 83,
+    "y0": 584.5,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   83,
+   83
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-148"
+ },
+ {
+  "no": 149,
+  "page": 84,
+  "y": 76.121959,
+  "dup": 1,
+  "seq": 152,
+  "text": "böbrek yetmezliği gfr ne anlama gelir falan onları sordu diyaliz endikasyonlar",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 84,
+   "y": 397.250895
+  },
+  "segments": [
+   {
+    "page": 84,
+    "y0": 72.1,
+    "y1": 393.3
+   }
+  ],
+  "pages": [
+   84,
+   84
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-149"
+ },
+ {
+  "no": 150,
+  "page": 84,
+  "y": 397.250895,
+  "dup": 1,
+  "seq": 153,
+  "text": "Kenan Ateş-KBH nedir? 4. evredeki hastada neleri beklersin? Hepsinin tedavisinden sordu biraz biraz. En çok renal anemi üzerinde durdu",
+  "text_src": "D",
+  "hoca": "Kenan Ateş",
+  "end": {
+   "page": 85,
+   "y": 76.121959
+  },
+  "segments": [
+   {
+    "page": 84,
+    "y0": 393.3,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   84,
+   84
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-150"
+ },
+ {
+  "no": 151,
+  "page": 85,
+  "y": 76.121959,
+  "dup": 1,
+  "seq": 154,
+  "text": "Sim Kutlayan: periton ve hemodiyaliz avantajları dezavantajları birbirine üstünlükleri",
+  "text_src": "D",
+  "hoca": "Sim Kutlay",
+  "end": {
+   "page": 85,
+   "y": 394.680547
+  },
+  "segments": [
+   {
+    "page": 85,
+    "y0": 72.1,
+    "y1": 390.7
+   }
+  ],
+  "pages": [
+   85,
+   85
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-151"
+ },
+ {
+  "no": 152,
+  "page": 85,
+  "y": 394.680547,
+  "dup": 1,
+  "seq": 155,
+  "text": ". IgA; nefropatisi, KBHda kötü prognoz : faktörleri. Vezikoüretral reflü",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 86,
+   "y": 76.121959
+  },
+  "segments": [
+   {
+    "page": 85,
+    "y0": 390.7,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   85,
+   85
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-152"
+ },
+ {
+  "no": 153,
+  "page": 86,
+  "y": 76.121959,
+  "dup": 1,
+  "seq": 156,
+  "text": "Kenan keven sekonder nefrotik sendrom nedenleri, hiperpotasemi müdahale, ht siniflandirma, ht ilaçlan grupları",
+  "text_src": "D",
+  "hoca": "Kenan Keven",
+  "end": {
+   "page": 87,
+   "y": 122.408777
+  },
+  "segments": [
+   {
+    "page": 86,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 87,
+    "y0": 0,
+    "y1": 118.4
+   }
+  ],
+  "pages": [
+   86,
+   87
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-153"
+ },
+ {
+  "no": 154,
+  "page": 87,
+  "y": 122.408777,
+  "dup": 1,
+  "seq": 157,
+  "text": "Gökhan netgizoglu: diyabet nâsil kalp yetmezliği yapar, evre 4 hastaya neler yapilir, iga nefropatisi, sekonder hipertansiyondan kimlerde şüphelenirsin neler yaparsın",
+  "text_src": "D",
+  "hoca": "Gökhan Nergizoğlu",
+  "end": {
+   "page": 87,
+   "y": 476.705477
+  },
+  "segments": [
+   {
+    "page": 87,
+    "y0": 118.4,
+    "y1": 472.7
+   }
+  ],
+  "pages": [
+   87,
+   87
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-154"
+ },
+ {
+  "no": 155,
+  "page": 87,
+  "y": 476.705477,
+  "dup": 1,
+  "seq": 158,
+  "text": "Sim: primer hipertansiyonla sekonderi nasil ayirt edersin hipokalemi yapan şeyler primer aldosteronizmin tedavip",
+  "text_src": "D",
+  "hoca": "Sim Kutlay",
+  "end": {
+   "page": 87,
+   "y": 740.752135
+  },
+  "segments": [
+   {
+    "page": 87,
+    "y0": 472.7,
+    "y1": 736.8
+   }
+  ],
+  "pages": [
+   87,
+   87
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-155"
+ },
+ {
+  "no": 156,
+  "page": 87,
+  "y": 740.752135,
+  "dup": 1,
+  "seq": 159,
+  "text": "Şule şengül: overlap nedir en sik hangi bulgularla görülür ve sjniflamasi? Vaskülit Öyküsü veriyor böbrekte ne düşünürsün? (anca ilişkili yaskulitler ve good pasture olabilir) hastada neye bakarsin? (Anca, anti gbm, biyopsi) v/egenerde hangi anca? Elektrolitlerin ve kreatinin ; normal değerleri?",
+  "text_src": "D",
+  "hoca": "Şule Şengül",
+  "end": {
+   "page": 88,
+   "y": 129.091681
+  },
+  "segments": [
+   {
+    "page": 87,
+    "y0": 736.8,
+    "y1": 866.7
+   },
+   {
+    "page": 88,
+    "y0": 0,
+    "y1": 125.1
+   }
+  ],
+  "pages": [
+   87,
+   88
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-156"
+ },
+ {
+  "no": 157,
+  "page": 88,
+  "y": 129.091681,
+  "dup": 1,
+  "seq": 160,
+  "text": "asidoz kliniğine müdahale",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 88,
+   "y": 296.195112
+  },
+  "segments": [
+   {
+    "page": 88,
+    "y0": 125.1,
+    "y1": 292.2
+   }
+  ],
+  "pages": [
+   88,
+   88
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-157"
+ },
+ {
+  "no": 158,
+  "page": 88,
+  "y": 296.195112,
+  "dup": 1,
+  "seq": 161,
+  "text": "Gökhan nergizoğlu: Sekonder amiloidoz ve adrenokortikal yetmezlik İlişkisi nedir Multiple j myelom böbrek dışı komplikasyonlan nelerdir. Nefrotik sendromun en sık sebebi nedir. Nefrotik sendromun tüm sebepleri nelerdir Nefrotik sendrom H kliniği nasıldır Nefritik sendrom j : yapan hastalıklar nelerdir Nefritik sendromun olmazsa olmaz bulgusu nedir",
+  "text_src": "D",
+  "hoca": "Gökhan Nergizoğlu",
+  "end": {
+   "page": 89,
+   "y": 505.236334
+  },
+  "segments": [
+   {
+    "page": 88,
+    "y0": 292.2,
+    "y1": 866.7
+   },
+   {
+    "page": 89,
+    "y0": 0,
+    "y1": 501.2
+   }
+  ],
+  "pages": [
+   88,
+   89
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-158"
+ },
+ {
+  "no": 159,
+  "page": 89,
+  "y": 505.236334,
+  "dup": 1,
+  "seq": 162,
+  "text": "Kenan keven: hematuri proteinlin j albuminuri nedir? Albuminuri hangi f hastalıkta kullanılır? Diyabetik j nefropati evreleme? Takipte nelere bakarsın hangi değerleri hedeflersin?",
+  "text_src": "D",
+  "hoca": "Kenan Keven",
+  "end": {
+   "page": 90,
+   "y": 76.121959
+  },
+  "segments": [
+   {
+    "page": 89,
+    "y0": 501.2,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   89,
+   89
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-159"
+ },
+ {
+  "no": 160,
+  "page": 90,
+  "y": 76.121959,
+  "dup": 1,
+  "seq": 163,
+  "text": "Kenan ateş mustafa şahin, kbh i tedavisi hangi antihipertansifı i verirsin hipervolemi için ne verirsin anemiye nasıl tanı koyarsın, hipertansiyon+ hipokalemi ne ) düşünürsün(cushing feo ve kah de ; dememiz bekleniyormuş) primer hiperaldosteronizmde tanıyı nasıl koyarsın",
+  "text_src": "D",
+  "hoca": "Kenan Ateş",
+  "end": {
+   "page": 91,
+   "y": 39.370553
+  },
+  "segments": [
+   {
+    "page": 90,
+    "y0": 72.1,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   90,
+   90
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-160"
+ },
+ {
+  "no": 161,
+  "page": 91,
+  "y": 39.370553,
+  "dup": 1,
+  "seq": 164,
+  "text": "Kenan ateş 1 numaralı soru hiponatremi algoritması ve tedavile",
+  "text_src": "D",
+  "hoca": "Kenan Ateş",
+  "end": {
+   "page": 92,
+   "y": 39.370553
+  },
+  "segments": [
+   {
+    "page": 91,
+    "y0": 35.4,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   91,
+   91
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-161"
+ },
+ {
+  "no": 162,
+  "page": 92,
+  "y": 39.370553,
+  "dup": 1,
+  "seq": 165,
+  "text": "Kenan ateş: deri döküntüsü artı ; böbrek hasarı yapan hastalıklar. Akut intersitisyel nefrit vaka tarzında sordu. Akut intersitisyel nefrit lab bulgulan?",
+  "text_src": "D",
+  "hoca": "Kenan Ateş",
+  "end": {
+   "page": 92,
+   "y": 361.520867
+  },
+  "segments": [
+   {
+    "page": 92,
+    "y0": 35.4,
+    "y1": 357.5
+   }
+  ],
+  "pages": [
+   92,
+   92
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-162"
+ },
+ {
+  "no": 163,
+  "page": 92,
+  "y": 361.520867,
+  "dup": 1,
+  "seq": 166,
+  "text": "böbrek yetmezliği kanda değişen parametreler, idrarda değişen parametreler?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 92,
+   "y": 445.797864
+  },
+  "segments": [
+   {
+    "page": 92,
+    "y0": 357.5,
+    "y1": 441.8
+   }
+  ],
+  "pages": [
+   92,
+   92
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-163"
+ },
+ {
+  "no": 164,
+  "page": 92,
+  "y": 445.797864,
+  "dup": 1,
+  "seq": 167,
+  "text": "kronik böbrek risk faktörleri",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 93,
+   "y": 39.370553
+  },
+  "segments": [
+   {
+    "page": 92,
+    "y0": 441.8,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   92,
+   92
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-164"
+ },
+ {
+  "no": 165,
+  "page": 93,
+  "y": 39.370553,
+  "dup": 1,
+  "seq": 168,
+  "text": "nefrotik sendrom komponentleri,",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 93,
+   "y": 201.242424
+  },
+  "segments": [
+   {
+    "page": 93,
+    "y0": 35.4,
+    "y1": 197.2
+   }
+  ],
+  "pages": [
+   93,
+   93
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-165"
+ },
+ {
+  "no": 166,
+  "page": 93,
+  "y": 201.242424,
+  "dup": 1,
+  "seq": 169,
+  "text": "Sim: Pan böbreği nasii tutar; neresini : tutar? Böbrek tutulumu yapan vaskulitler nelerdir Glomerülonefrit idrar bulguları?",
+  "text_src": "D",
+  "hoca": "Sim Kutlay",
+  "end": {
+   "page": 93,
+   "y": 338.45212
+  },
+  "segments": [
+   {
+    "page": 93,
+    "y0": 197.2,
+    "y1": 334.5
+   }
+  ],
+  "pages": [
+   93,
+   93
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-166"
+ },
+ {
+  "no": 167,
+  "page": 93,
+  "y": 338.45212,
+  "dup": 1,
+  "seq": 170,
+  "text": "Kronik böbrek hastası tani kriterleri : Akut böbrek yetmezliği nedenleri i Evre 3 kby gfr kaç ? Evre 3 te hiperfosfatemi bekler misin? Varsa nedenleri ne olabilir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 94,
+   "y": 39.370553
+  },
+  "segments": [
+   {
+    "page": 93,
+    "y0": 334.5,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   93,
+   93
+  ],
+  "start_src": "KARISIK",
+  "konu": "Nefroloji",
+  "id": "N-167"
+ },
+ {
+  "no": 168,
+  "page": 94,
+  "y": 39.370553,
+  "dup": 1,
+  "seq": 171,
+  "text": "Neval hoca; hastanın hem böbrek hem akciğer hastaligi var aklina neler gelir? (Vaskulitlec post enfeksiyoz ’I glomerülonefrit) peki kronik bir j akciğer hastaligi var yillardir, sonrasında böbrek hastaligi cikmis? (Amiloidoz) hastânin pankreas ca var böbrek disfonksiyonu ortaya ; cikmis ne olmuş olabilir? (Metastaz#d membranoz nefropati) hasta son donem böbrek yetmezliği hastasi 1 cay bardağından az idrar cikariyor gfrsi-kactir? Son dönem böbrek hastaları evre 5 olur GFRleri <15 ml/dk/1.73m2",
+  "text_src": "D",
+  "hoca": "Neval",
+  "end": {
+   "page": 94,
+   "y": 122.043841
+  },
+  "segments": [
+   {
+    "page": 94,
+    "y0": 35.4,
+    "y1": 118.0
+   }
+  ],
+  "pages": [
+   94,
+   94
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-168"
+ },
+ {
+  "no": 169,
+  "page": 94,
+  "y": 122.043841,
+  "dup": 1,
+  "seq": 172,
+  "text": "lupus nefritinin klinik özellikleri?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 94,
+   "y": 866.73
+  },
+  "segments": [
+   {
+    "page": 94,
+    "y0": 118.0,
+    "y1": 862.7
+   }
+  ],
+  "pages": [
+   94,
+   94
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Nefroloji",
+  "id": "N-169"
+ }
+]

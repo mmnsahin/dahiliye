@@ -1,0 +1,37 @@
+[
+ {
+  "bas": 1,
+  "bit": 94,
+  "konu": "Nefroloji"
+ },
+ {
+  "bas": 95,
+  "bit": 196,
+  "konu": "Gastroenteroloji"
+ },
+ {
+  "bas": 197,
+  "bit": 275,
+  "konu": "Romatoloji"
+ },
+ {
+  "bas": 276,
+  "bit": 344,
+  "konu": "Hematoloji"
+ },
+ {
+  "bas": 345,
+  "bit": 418,
+  "konu": "Endokrinoloji"
+ },
+ {
+  "bas": 419,
+  "bit": 428,
+  "konu": "Onkoloji"
+ },
+ {
+  "bas": 429,
+  "bit": 433,
+  "konu": "İmmünoloji-Alerji"
+ }
+]
