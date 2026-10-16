@@ -67,3 +67,10 @@ Bu kural N-46'dan itibaren okurken baştan uygulanır.
   - N-68/N-69: kutu iki kayıtta da duruyor, N-69'a "> ⚠ bölge sınırında kutu, N-68 ile ortak" notu konuldu.
   - N-53 ve N-55 `text` alanları bolgeler.json'da zaten doğru ("Nefrotik Sendrom Tanı Kriterleri", "ABY'ni her şeyiyle anlat"; text_src "E"); önceki "yanlış" tespitim `textlayer.py` çıktısındaki metin katmanını JSON sanmamdandı. JSON değişmedi.
 - [?] ölçütü sadeleştirildi (yalnız okunuşu gerçekten iki türlü olabilen rakam/doz/birim/ilaç adı; net okunanlarda [?] yok). Kaldırılan [?]: N-37: 39 · N-39: 24 · N-40: 22 · N-48: 15 · N-52: 44 · N-55: 36 = 180; ayrıca aynı ölçütle N-51: 23 · N-58: 4 · N-59: 11 · N-61: 4 · N-63: 20 · N-64: 20 = 82. Toplam kaldırılan: 262. Bundan sonra aynı ölçüt kullanılıyor.
+
+## İlerleme günlüğü (otomatik)
+- N-73..N-110 bitti (s.28–67). Kâğıt fotoğrafı sayfaları: s.28 alt (N-74), s.29, s.30, s.31 üstü (slayt altında kısmen örtülü), s.36 üst (N-80). Fotoğraflar 240–300 dpi parçalarla okundu.
+- Tekrar eden slaytlar/taramalar (RPGN, Sekonder HT, Mogensen, Hiponatremi şeması vb.) farklı kayıtlarda aynı görsel olduğundan her kayıtta tekrar yazıldı (kaynakta tekrar).
+- N-101b: bölge yalnız soru satırı (y 72–96); altındaki "132- RPGN nedenleri" soru satırı başka bir kayda ait → (cevap yok).
+- N-82 düzeltildi: Ekzojen sebepler listesi (Kafein, Kokain, Alkol) ve son satır ("polisitemi ve hiperviskozite").
+- Araçlar: tools/tile.py (parça kes), tools/strip.py (sayfa şeridi), tools/imgs.py (bölgedeki görseller), tools/yaz.py (yazıcı), tools/dogrula.py (kontrol).
