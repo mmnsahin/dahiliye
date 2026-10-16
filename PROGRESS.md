@@ -13,10 +13,10 @@
 | N-1..N-10 | bitti (s.1–2, saf daktilo) | 0 | 0 |
 | N-11..N-20 | bitti (s.2–4, saf daktilo) | 1 | 0 |
 | N-21..N-30 | bitti (s.4–6, saf daktilo) | 0 | 0 |
-| N-31..N-40 | bitti (s.6–12; N-36..N-40 el yazısı/slayt/karışık) | 18 | 0 |
+| N-31..N-40 | bitti (s.6–12; N-36..N-40 el yazısı/slayt/karışık) | 16 | 0 |
 | N-41..N-45 | bitti (s.12–13; N-43 dosyada yok) | 3 | 0 |
 
-Toplam (N-1..N-45): [?] = 22, [OKUNAMADI] = 0. (N-36'dan itibaren kayıtlarda [?] özellikle N-37: 7, N-39: 7.)
+Toplam (N-1..N-45): [?] = 20, [OKUNAMADI] = 0. (N-36'dan itibaren kayıtlarda [?] özellikle N-37: 7, N-39: 7.)
 
 Güvenilirlik notları:
 - N-7: soru/cevap sayfa 1→2 geçişinde cümle ortasında bölünüyor; tek satıra birleştirildi.
