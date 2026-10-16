@@ -82,3 +82,9 @@ Bu kural N-46'dan itibaren okurken baştan uygulanır.
 - N-145, N-146: yalnız soru; (cevap yok). N-24, N-25, N-32, N-35, N-14, N-65: cevap başka bir soruya gönderme.
 - belirsiz sınır: N-160 (s.90) cevabı ile N-161 başlığı arasında bölge temiz; N-153 ve N-154 arasında "152. görsel" el yazısı notu sayfa üst kenarında (s.87 üst) N-153 bölgesinde değil N-154'e düşüyor; N-154'te not edildi.
 - N-157/N-158 sınırı s.88 y=292: "Unutmayalım primer…" kutusu ve "Primer:" paragrafı metin katmanında tek satıra karışmıştı; görsele göre ayrıldı.
+
+## Gastro (G-) — BAŞLADI, DURDU (kullanım limiti)
+- bolgeler.json'a G-1..G-15 eklendi (s.95–105, tools/ekle.py ile); yalnız G-1 okundu (data/okumalar/G-1.md). G-2..G-15 okuması bekliyor.
+- Belirsiz sınırlar: G-2 (s.96 başı → s.97 başındaki "kronik pankreatitin…" devamı dahil); G-5 ve G-7 (aynı hocanın ardışık yazılı paragrafları ayrı soru sayıldı); G-17/G-18 (s.105 y172 / y185: iki satırlık bitişik soru) henüz eklenmedi.
+- Sıradaki grup: s.105–114 (başlangıçlar: s105 y23, y172, y185, y252; s107 y12, y487, y673; s108 y12, y401, y610; s110 y144, y235; s111 y8, y89, y178, y565; s112 y20; s113 y17, y288; s114 y15, y339, y472…); ardından s.115–196, Romatoloji, Hematoloji, Endokrin, Onkoloji, İmmünoloji.
+- Araçlar: tools/ekle.py (bölge ekle), satirlar.py (görünür paragraf başları), tile.py, strip.py, imgs.py, yaz.py, dogrula.py.

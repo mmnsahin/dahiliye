@@ -5029,5 +5029,490 @@
   "start_src": "DAKTİLO",
   "konu": "Nefroloji",
   "id": "N-169"
+ },
+ {
+  "no": 1,
+  "page": 95,
+  "y": 77.4,
+  "dup": 1,
+  "seq": 1,
+  "text": "2)Kubi ALP, GGT, DirektBillirübini aitmiş hastada ne düşünürsün? Ekstrahepatik safra yolları nerde başlar? Bu tabloya ateş sarılık ve sağ üst kadran ağrısı eklenirse ismi ne olur ye bu üçlünün adı nedir? (Akut Kolanjit - Charcot Triadı) Hastaya yaklaşımı sordu USG çekip taşı ve taşın üstünde kalan alanda genişleme görürüz dedim tedavi içinERCPyle taşı çıkartırız ve antibiyotik veririz.",
+  "text_src": "D",
+  "hoca": "Kubilay (\"Kubi\")",
+  "end": {
+   "page": 96,
+   "y": 21.6
+  },
+  "segments": [
+   {
+    "page": 95,
+    "y0": 73.5,
+    "y1": 866.7
+   },
+   {
+    "page": 96,
+    "y0": 0.0,
+    "y1": 17.7
+   }
+  ],
+  "pages": [
+   95,
+   96
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-1",
+  "orijinal_no": "2"
+ },
+ {
+  "no": 2,
+  "page": 96,
+  "y": 21.6,
+  "dup": 1,
+  "seq": 2,
+  "text": "kubilay hoca alt gis kanama nedenlerini saydırdı divertikülitin yüzdesini sordu 40 dedim ama 70 i söyletene kadar uğraştı.60 yaşında yoğun rektal kanamada ilk hangi neden aklına gelir diye sordu",
+  "text_src": "D",
+  "hoca": "Kubilay",
+  "end": {
+   "page": 97,
+   "y": 446.9
+  },
+  "segments": [
+   {
+    "page": 96,
+    "y0": 17.7,
+    "y1": 866.7
+   },
+   {
+    "page": 97,
+    "y0": 0.0,
+    "y1": 443.0
+   }
+  ],
+  "pages": [
+   96,
+   97
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-2",
+  "orijinal_no": null
+ },
+ {
+  "no": 3,
+  "page": 97,
+  "y": 446.9,
+  "dup": 1,
+  "seq": 3,
+  "text": "Kubilay Çınar: akut pankreatit tanısı nasıl koyulur, radyolojik görüntülemede ne görürüz, bunun için kullanılan bir skorlama var biliyor musun dedi hatirlayamayinca içeriğini biliyor musun dedi onu da söyleyemedim soma akut, ve- ciddi pankreatitin bulguları nasıl olur sordu.",
+  "text_src": "D",
+  "hoca": "Kubilay Çınar",
+  "end": {
+   "page": 98,
+   "y": 19.4
+  },
+  "segments": [
+   {
+    "page": 97,
+    "y0": 443.0,
+    "y1": 866.7
+   },
+   {
+    "page": 98,
+    "y0": 0.0,
+    "y1": 15.5
+   }
+  ],
+  "pages": [
+   97,
+   98
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-3",
+  "orijinal_no": null
+ },
+ {
+  "no": 4,
+  "page": 98,
+  "y": 19.4,
+  "dup": 1,
+  "seq": 4,
+  "text": "Hasan Özkan: Post hepatik kolestaz nedenleri, lab bulguları, idrar bulgulan (idrarda ürobilinojen yoktur, bilirubin vardir gaitada sterkobilinojenyokturfeiiksizdir, kanda direkt bilirubin artar vb.)",
+  "text_src": "D",
+  "hoca": "Hasan Özkan",
+  "end": {
+   "page": 98,
+   "y": 105
+  },
+  "segments": [
+   {
+    "page": 98,
+    "y0": 15.5,
+    "y1": 101.1
+   }
+  ],
+  "pages": [
+   98,
+   98
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-4",
+  "orijinal_no": null
+ },
+ {
+  "no": 5,
+  "page": 98,
+  "y": 105,
+  "dup": 1,
+  "seq": 5,
+  "text": "Akalazya nedir, tanısı ne ile konur? (Endoskopi, baryumlu grafî, mânpmetri) Akalazya tedavisi, yaşa göre. (POEM gençlerde, heller myotolnisi (artik.kullanılmıyormuş), balon dilatasyonu, botoks uygulanması, medikal tedavi)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 99,
+   "y": 17.6
+  },
+  "segments": [
+   {
+    "page": 98,
+    "y0": 101.1,
+    "y1": 866.7
+   },
+   {
+    "page": 99,
+    "y0": 0.0,
+    "y1": 13.7
+   }
+  ],
+  "pages": [
+   98,
+   99
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-5",
+  "orijinal_no": null
+ },
+ {
+  "no": 6,
+  "page": 99,
+  "y": 17.6,
+  "dup": 1,
+  "seq": 6,
+  "text": "Hasan Özkan: Sana çok kolay bi soru sorucam dedi sonra dedi ki portal HT’de portal venin çapını ne beklersin? Normali 13mm sanırım ama emin değilim öyle bir şeyler söyledi",
+  "text_src": "D",
+  "hoca": "Hasan Özkan",
+  "end": {
+   "page": 99,
+   "y": 70
+  },
+  "segments": [
+   {
+    "page": 99,
+    "y0": 13.7,
+    "y1": 66.1
+   }
+  ],
+  "pages": [
+   99,
+   99
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-6",
+  "orijinal_no": null
+ },
+ {
+  "no": 7,
+  "page": 99,
+  "y": 70,
+  "dup": 1,
+  "seq": 7,
+  "text": "Dekompanze sirozlu portal hipertansiyonlu hastada USG ve MR yaptın ne beklersin? Assit, büyümüş dalak, atroﬁk kc, düzensiz kenarları kc, künt kenarlı kc vs. bakarsınız soruyolar dekompanze sirozu baya bi.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 99,
+   "y": 157.4
+  },
+  "segments": [
+   {
+    "page": 99,
+    "y0": 66.1,
+    "y1": 153.5
+   }
+  ],
+  "pages": [
+   99,
+   99
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-7",
+  "orijinal_no": null
+ },
+ {
+  "no": 8,
+  "page": 99,
+  "y": 157.4,
+  "dup": 1,
+  "seq": 8,
+  "text": "Hasan Özcan 1-GÖRH tanıda kullanılan yöntemler ve semptomlar 2-Akalazya tanı ve yaşa göre tedavi 3-Klepotaj bulgusu 4-Ranson kriterleri",
+  "text_src": "D",
+  "hoca": "Hasan Özcan",
+  "end": {
+   "page": 101,
+   "y": 17
+  },
+  "segments": [
+   {
+    "page": 99,
+    "y0": 153.5,
+    "y1": 866.7
+   },
+   {
+    "page": 100,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 101,
+    "y0": 0.0,
+    "y1": 13.1
+   }
+  ],
+  "pages": [
+   99,
+   101
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-8",
+  "orijinal_no": null
+ },
+ {
+  "no": 9,
+  "page": 101,
+  "y": 17,
+  "dup": 1,
+  "seq": 9,
+  "text": "H. Pylori tedavi endikasyonları nelerdir diye sordu.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 101,
+   "y": 205
+  },
+  "segments": [
+   {
+    "page": 101,
+    "y0": 13.1,
+    "y1": 201.1
+   }
+  ],
+  "pages": [
+   101,
+   101
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-9",
+  "orijinal_no": null
+ },
+ {
+  "no": 10,
+  "page": 101,
+  "y": 205,
+  "dup": 1,
+  "seq": 10,
+  "text": "Kronik karaciğer hastalığı yapan sebepler (buna benzer bir şeydi) Wilsonda kayserfâlscher halkasmın adını sordu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 101,
+   "y": 423.7
+  },
+  "segments": [
+   {
+    "page": 101,
+    "y0": 201.1,
+    "y1": 419.8
+   }
+  ],
+  "pages": [
+   101,
+   101
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-10",
+  "orijinal_no": null
+ },
+ {
+  "no": 11,
+  "page": 101,
+  "y": 423.7,
+  "dup": 1,
+  "seq": 11,
+  "text": "Taner Hoca transaminaz yüksekliğinin normalin 10-15 katma çıktığı bir durumda ne düşünürsün, idrarda kobalaminyoksa ne düşünürsün, hangi durumlarda olur, pernisiyöz anemi nedir, terminal ileumu tutan hastalıklar hangileri diye sordu.",
+  "text_src": "D",
+  "hoca": "Taner",
+  "end": {
+   "page": 102,
+   "y": 22
+  },
+  "segments": [
+   {
+    "page": 101,
+    "y0": 419.8,
+    "y1": 866.7
+   },
+   {
+    "page": 102,
+    "y0": 0.0,
+    "y1": 18.1
+   }
+  ],
+  "pages": [
+   101,
+   102
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-11",
+  "orijinal_no": null
+ },
+ {
+  "no": 12,
+  "page": 102,
+  "y": 22,
+  "dup": 1,
+  "seq": 12,
+  "text": "Crohn ve ülseratif kolit anlat. Mukuslu ishal hangisinde kanlı ishal hangisinde görülür?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 104,
+   "y": 15.8
+  },
+  "segments": [
+   {
+    "page": 102,
+    "y0": 18.1,
+    "y1": 866.7
+   },
+   {
+    "page": 103,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 104,
+    "y0": 0.0,
+    "y1": 11.9
+   }
+  ],
+  "pages": [
+   102,
+   104
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-12",
+  "orijinal_no": null
+ },
+ {
+  "no": 13,
+  "page": 104,
+  "y": 15.8,
+  "dup": 1,
+  "seq": 13,
+  "text": "1.Organik disfaji ve fonksiyonel disfajiyi nasıl ayırt ederiz?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 104,
+   "y": 194
+  },
+  "segments": [
+   {
+    "page": 104,
+    "y0": 11.9,
+    "y1": 190.1
+   }
+  ],
+  "pages": [
+   104,
+   104
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-13",
+  "orijinal_no": "1"
+ },
+ {
+  "no": 14,
+  "page": 104,
+  "y": 194,
+  "dup": 1,
+  "seq": 14,
+  "text": "Peptik ülser anlat saldırıcı koruyucu faktörler Gisten de h pilori için tanı testlerini sordu. Invaziv-endoskopik biyopsi ve ureaz testi,pcr,histoloji falan saydım. Invaziv olmayan-gaytada h pilori antijeni aranması, üre nefes testi, serolojik testler",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 104,
+   "y": 546
+  },
+  "segments": [
+   {
+    "page": 104,
+    "y0": 190.1,
+    "y1": 542.1
+   }
+  ],
+  "pages": [
+   104,
+   104
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-14",
+  "orijinal_no": null
+ },
+ {
+  "no": 15,
+  "page": 104,
+  "y": 546,
+  "dup": 1,
+  "seq": 15,
+  "text": "Gastroda eozinoﬁlik özofajit anlattırdı tanısı ayırıcı tanı tedavi her şeyini anlattırdı",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 105,
+   "y": 23.0
+  },
+  "segments": [
+   {
+    "page": 104,
+    "y0": 542.1,
+    "y1": 866.7
+   },
+   {
+    "page": 105,
+    "y0": 0.0,
+    "y1": 19.1
+   }
+  ],
+  "pages": [
+   104,
+   105
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-15",
+  "orijinal_no": null
  }
 ]
