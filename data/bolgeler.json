@@ -1361,13 +1361,13 @@
   "hoca": "—",
   "end": {
    "page": 15,
-   "y": 546.660137
+   "y": 550.0
   },
   "segments": [
    {
     "page": 15,
     "y0": 447.8,
-    "y1": 542.7
+    "y1": 546.0
    }
   ],
   "pages": [
@@ -1381,7 +1381,7 @@
  {
   "no": 50,
   "page": 15,
-  "y": 546.660137,
+  "y": 550.0,
   "dup": 1,
   "seq": 49,
   "text": "Renal stenoz sebepleri nelerdir? Risk faktörleri nelerdir? Muayene bulguları nelerdir? Tetkiklerde hangi değişiklikler olabilir",
@@ -1394,13 +1394,18 @@
   "segments": [
    {
     "page": 15,
-    "y0": 542.7,
+    "y0": 546.0,
     "y1": 866.7
+   },
+   {
+    "page": 16,
+    "y0": 0,
+    "y1": 18.2
    }
   ],
   "pages": [
    15,
-   15
+   16
   ],
   "start_src": "OCR-KATMANI",
   "konu": "Nefroloji",
@@ -1445,13 +1450,13 @@
   "hoca": "—",
   "end": {
    "page": 17,
-   "y": 609.0
+   "y": 623.0
   },
   "segments": [
    {
     "page": 17,
     "y0": 11.9,
-    "y1": 605.0
+    "y1": 619.0
    }
   ],
   "pages": [
@@ -1465,7 +1470,7 @@
  {
   "no": 53,
   "page": 17,
-  "y": 609.0,
+  "y": 623.0,
   "dup": 1,
   "seq": 52,
   "text": "Nefrotik Sendrom Tanı Kriterleri",
@@ -1478,7 +1483,7 @@
   "segments": [
    {
     "page": 17,
-    "y0": 605.0,
+    "y0": 619.0,
     "y1": 866.7
    }
   ],
@@ -1674,7 +1679,7 @@
   "hoca": "Sim Kutlay",
   "end": {
    "page": 21,
-   "y": 275.96441
+   "y": 259.0
   },
   "segments": [
    {
@@ -1685,7 +1690,7 @@
    {
     "page": 21,
     "y0": 0,
-    "y1": 272.0
+    "y1": 255.0
    }
   ],
   "pages": [
@@ -1699,7 +1704,7 @@
  {
   "no": 61,
   "page": 21,
-  "y": 275.96441,
+  "y": 259.0,
   "dup": 1,
   "seq": 60,
   "text": "Şehsuvar hoca-- creatinini 2 idi böbrek yetmezliğinde Hagi evredir dedi creatin den naşı hesaplarız dedi(basit formül olan gfr=l/creatinx(100) ü kullanıyoruz.diğer formülleri de sordu ve birim 1.73m2felan söylemeden kabul etmiyor",
@@ -1712,7 +1717,7 @@
   "segments": [
    {
     "page": 21,
-    "y0": 272.0,
+    "y0": 255.0,
     "y1": 325.3
    }
   ],

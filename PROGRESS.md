@@ -19,7 +19,7 @@
 | N-66..N-72 | bitti (s.23–27; N-70 s.24–26 taranmış/slayt) | 10 | 0 |
 | N-56..N-65 | bitti (s.19–23) | 86 | 1 |
 
-Toplam (N-1..N-72): [?] = 409, [OKUNAMADI] = 4.
+Toplam (N-1..N-72): [?] = 149, [OKUNAMADI] = 4 (aşağıdaki [?] sadeleştirmesi sonrası).
 
 Güvenilirlik notları:
 - N-7: soru/cevap sayfa 1→2 geçişinde cümle ortasında bölünüyor; tek satıra birleştirildi.
@@ -57,3 +57,13 @@ Bu kural N-46'dan itibaren okurken baştan uygulanır.
 - N-70: s.24 üst kısım DAKTİLO (katman), tablo ve Mogensen tarama görüntüsü [SLAYT]; s.25 örnek okumadaki ile aynı, s.26 tarama. Sayfa başı/sonu sınırları temiz.
 - N-72: soru satırındaki pembe oklar (ca ↓ p ↑ pth ↑) [EL YAZISI] olarak not edildi.
 - Sonraki: N-73 (s.28) ve N-74 (s.28–31) kâğıt fotoğrafı sayfaları; talimat gereği burada durdum.
+
+## Kararlar
+- Bölge sınırları bolgeler.json'a uygulandı (N-49/N-50, N-50/N-51, N-52/N-53, N-60/N-61); okumalar ve ⚠ notları güncellendi:
+  - N-49 sonu / N-50 başı: s.15 y=546.0 (N-50 y=550.0).
+  - N-50'ye ikinci segment eklendi: s.16 y0=0→18.2 (N-51 başlangıcı); "* Böbrekler hiperpotasemiye 12 saatte cevap verirler…" notu N-50'ye alındı. N-51'de "yukarıda ; (135-145 mEq/L" soru satırının üst notu olarak kaldı.
+  - N-52 sonu / N-53 başı: s.17 y=619.0 (N-53 y=623.0).
+  - N-60 sonu / N-61 başı: s.21 y=255.0 (N-61 y=259.0); "Cockcroft - Gault Formülü" başlığı artık N-61'de.
+  - N-68/N-69: kutu iki kayıtta da duruyor, N-69'a "> ⚠ bölge sınırında kutu, N-68 ile ortak" notu konuldu.
+  - N-53 ve N-55 `text` alanları bolgeler.json'da zaten doğru ("Nefrotik Sendrom Tanı Kriterleri", "ABY'ni her şeyiyle anlat"; text_src "E"); önceki "yanlış" tespitim `textlayer.py` çıktısındaki metin katmanını JSON sanmamdandı. JSON değişmedi.
+- [?] ölçütü sadeleştirildi (yalnız okunuşu gerçekten iki türlü olabilen rakam/doz/birim/ilaç adı; net okunanlarda [?] yok). Kaldırılan [?]: N-37: 39 · N-39: 24 · N-40: 22 · N-48: 15 · N-52: 44 · N-55: 36 = 180; ayrıca aynı ölçütle N-51: 23 · N-58: 4 · N-59: 11 · N-61: 4 · N-63: 20 · N-64: 20 = 82. Toplam kaldırılan: 262. Bundan sonra aynı ölçüt kullanılıyor.
