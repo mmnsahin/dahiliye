@@ -16,9 +16,10 @@
 | N-31..N-40 | bitti (s.6–12; N-36..N-40 el yazısı/slayt/karışık) | 16 | 0 |
 | N-41..N-45 | bitti (s.12–13; N-43 dosyada yok) | 3 | 0 |
 | N-46..N-55 | bitti (s.13–19; yoğun el yazısı/slayt) | 175 | 3 |
+| N-66..N-72 | bitti (s.23–27; N-70 s.24–26 taranmış/slayt) | 10 | 0 |
 | N-56..N-65 | bitti (s.19–23) | 86 | 1 |
 
-Toplam (N-1..N-65): [?] = 399, [OKUNAMADI] = 4.
+Toplam (N-1..N-72): [?] = 409, [OKUNAMADI] = 4.
 
 Güvenilirlik notları:
 - N-7: soru/cevap sayfa 1→2 geçişinde cümle ortasında bölünüyor; tek satıra birleştirildi.
@@ -50,3 +51,9 @@ Bu kural N-46'dan itibaren okurken baştan uygulanır.
 - N-58 / N-48: aynı "Hematüri Nedenleri" slaytı iki kayıtta da tam yazıldı (kaynakta tekrar).
 - N-59 / N-63 / N-52: KBH ve KDIGO notları sayfalar arasında birebir tekrar; her kayıt bağımsız okundu.
 - N-65: cevap yalnızca "⇒ bunu yukarıda anlatmıştım ben de".
+
+## N-66..N-72 notlar — DURDUM (N-73/N-74 kâğıt fotoğrafı, onay bekliyor)
+- ⚠ N-68/N-69 sınırı (s.23, y=615.6): hipokomplementemi listesi (yeşil kutu, y≈587-637) sınırı ortadan kesiyor; kutu iki kayıtta da yazıldı. Önerilen sınır ~y=585 (N-68 end / N-69 start) — N-69 sorusu ise y=615.6'da başlıyor, yani soru satırı kutunun altında; sınır düzeltmesi N-68/N-69'un soru başlangıcını değil kutuyu hangi kayda ait sayacağınıza bağlı (karar bekliyor).
+- N-70: s.24 üst kısım DAKTİLO (katman), tablo ve Mogensen tarama görüntüsü [SLAYT]; s.25 örnek okumadaki ile aynı, s.26 tarama. Sayfa başı/sonu sınırları temiz.
+- N-72: soru satırındaki pembe oklar (ca ↓ p ↑ pth ↑) [EL YAZISI] olarak not edildi.
+- Sonraki: N-73 (s.28) ve N-74 (s.28–31) kâğıt fotoğrafı sayfaları; talimat gereği burada durdum.
