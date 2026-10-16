@@ -16,7 +16,7 @@
 | N-31..N-40 | bitti (s.6–12; N-36..N-40 el yazısı/slayt/karışık) | 16 | 0 |
 | N-41..N-45 | bitti (s.12–13; N-43 dosyada yok) | 3 | 0 |
 
-Toplam (N-1..N-45): [?] = 20, [OKUNAMADI] = 0. (N-36'dan itibaren kayıtlarda [?] özellikle N-37: 7, N-39: 7.)
+Toplam (N-1..N-45): [?] = 138, [OKUNAMADI] = 0 (aşağıdaki ek [?] taraması dahil).
 
 Güvenilirlik notları:
 - N-7: soru/cevap sayfa 1→2 geçişinde cümle ortasında bölünüyor; tek satıra birleştirildi.
@@ -24,7 +24,12 @@ Güvenilirlik notları:
 - N-19, N-20, N-33: metin sayfalarındaki yeşil el yazısı notlar ("3 Aktif", "24 saat", soru işareti) `[EL YAZISI]` olarak eklendi; yeşil çarpı/tik işaretleri yazıya alınmadı.
 - N-24, N-25, N-32, N-35: cevap başka soruya gönderme ("8. soru", "13. soru", "10. Soru…"); olduğu gibi yazıldı.
 - N-36..N-40: gizli OCR katmanı dolu sayfalar; soru satırı yalnız görünür katmandan alındı, geri kalanı görselden okundu.
-- ⚠ N-41 bölge sınırı: sağ üstteki "→ 5 ve üzeri ; hafif… şiddetli >6.0" notu bölgenin üst kenarında yarım kesilmiş (N-40 bölgesinin son satırlarına taşıyor). bolgeler.json'daki N-41 `start.y` (424.8) ~10 pt yukarı alınmalı (karar bekliyor, JSON'a dokunulmadı).
+- N-41 bölge sınırı düzeltildi: N-41 `y` 428.8→420.5, N-40/N-41 segment sınırı 424.8→416.5 (sağ üstteki hiperkalemi notu artık N-41 bölgesinde); ⚠ notu kaldırıldı.
 - N-37: s.8 üst kenarında kesik 2 satırlık not ("ödem geçince ?…") ve tablo hizası belirsiz yerler; N-39: küçük slayt notları [?].
 - N-38 cevabı yalnız soru satırı yanındaki tek satırlık el yazısı not.
 - N-43 dosyada yok (bkz. başlangıç notu).
+
+## [?] kuralı (el yazısı/slayt): ek tarama
+Kural: el yazısında okunuşu iki türlü olabilen sayılar, her doz/birim, her ilaç adı ve ölçüm değeri `[?]`. Yalnız bu kategorilere bakıldı, başka bir şey değiştirilmedi.
+ek [?]: N-20: 1 · N-36: 10 · N-37: 43 · N-39: 24 · N-40: 22 · N-41: 10 · N-42: 1 · N-44: 3 · N-45: 4 (toplam 118). N-19, N-33: 0.
+Bu kural N-46'dan itibaren okurken baştan uygulanır.

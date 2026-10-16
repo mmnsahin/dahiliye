@@ -1127,7 +1127,7 @@
   "hoca": "Neval",
   "end": {
    "page": 12,
-   "y": 428.830026
+   "y": 420.5
   },
   "segments": [
    {
@@ -1138,7 +1138,7 @@
    {
     "page": 12,
     "y0": 0,
-    "y1": 424.8
+    "y1": 416.5
    }
   ],
   "pages": [
@@ -1152,7 +1152,7 @@
  {
   "no": 41,
   "page": 12,
-  "y": 428.830026,
+  "y": 420.5,
   "dup": 1,
   "seq": 41,
   "text": "\"Acil diyaliz kimlere yaparız?\". Nedenler arasında hiperkalemi diyince K+ değerlerini sordu. \"Diyalizi nasıl yaparız?\" juguler venden dedim, \"Kaç girişi vardır?\" dedi. Nasıl takarız tanımlamamı istedi.",
@@ -1165,7 +1165,7 @@
   "segments": [
    {
     "page": 12,
-    "y0": 424.8,
+    "y0": 416.5,
     "y1": 616.2
    }
   ],
