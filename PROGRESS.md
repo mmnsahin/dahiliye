@@ -15,8 +15,9 @@
 | N-21..N-30 | bitti (s.4–6, saf daktilo) | 0 | 0 |
 | N-31..N-40 | bitti (s.6–12; N-36..N-40 el yazısı/slayt/karışık) | 16 | 0 |
 | N-41..N-45 | bitti (s.12–13; N-43 dosyada yok) | 3 | 0 |
+| N-46..N-55 | bitti (s.13–19; yoğun el yazısı/slayt) | 175 | 3 |
 
-Toplam (N-1..N-45): [?] = 138, [OKUNAMADI] = 0 (aşağıdaki ek [?] taraması dahil).
+Toplam (N-1..N-55): [?] = 313, [OKUNAMADI] = 3.
 
 Güvenilirlik notları:
 - N-7: soru/cevap sayfa 1→2 geçişinde cümle ortasında bölünüyor; tek satıra birleştirildi.
@@ -33,3 +34,12 @@ Güvenilirlik notları:
 Kural: el yazısında okunuşu iki türlü olabilen sayılar, her doz/birim, her ilaç adı ve ölçüm değeri `[?]`. Yalnız bu kategorilere bakıldı, başka bir şey değiştirilmedi.
 ek [?]: N-20: 1 · N-36: 10 · N-37: 43 · N-39: 24 · N-40: 22 · N-41: 10 · N-42: 1 · N-44: 3 · N-45: 4 (toplam 118). N-19, N-33: 0.
 Bu kural N-46'dan itibaren okurken baştan uygulanır.
+
+## N-46..N-55 güvenilirlik / bölge notları
+- ⚠ N-49: cevap el yazısının son satırları bölge alt kenarında yarım kesik (N-50 üst kenarına taşıyor); tam sayfadan okundu. Önerilen düzeltme: N-49/N-50 sınırı (sayfa 15) y=542.7 → ~546.0 (N-50 `y` ~546.7 → ~550.0). JSON'a dokunulmadı.
+- ⚠ N-50: üst kenarda N-49'dan taşan çizgiler var (içerik değil). N-51: sayfa 16 üst kenarında (y<18) "… verirler , hipopotasemiye 7-14 günde yanıt)" satırı yarım kesik, hiçbir bölgeye girmiyor.
+- ⚠ N-52/N-53: sayfa 17'de N-52'nin slaytı (KBH Komplikasyonlar ve Tedavisi) ve üstüne eklenmiş Osteopeni metninin son satırı sınırda (y=605) kesiliyor; önerilen sınır ~y=616. N-53 kaydının `text` alanı ("osteoporozun tersine bir hastalık değildir.") yanlış: gerçek soru el yazısı başlık "53- Nefrotik Sendrom Tanı Kriterleri" (`text_src` "E" olmalı). JSON'a dokunulmadı.
+- N-47: bölgede yalnız soru var, cevap yok ("(cevap yok)"; sağ kenarda el yazısı ? işareti). N-55 de soru satırı el yazısı başlık ("55- ABY'ni her seviyle anlat"); bolgeler.json'daki `text` boş/uyumsuz olabilir.
+- N-52: sayfa 17 alt kısmında çok küçük el yazısı notlar; okunamayanlar [OKUNAMADI], şüpheliler [?]. Bu kayıtta ve N-55 s.19'da slayt üzerindeki küçük el yazısı notların bir kısmı tam okunamadı.
+- N-46: sayfa 13 üst kenardaki "(8.? – 10.5 mg/dL)" notunda "8."den sonraki rakam yazılmamış.
+- [?] kuralı (sayı/doz/birim/ilaç) N-46'dan itibaren baştan uygulandı.
