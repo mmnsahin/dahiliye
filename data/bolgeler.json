@@ -7985,5 +7985,1817 @@
   "konu": "Gastroenteroloji",
   "id": "G-94",
   "orijinal_no": "8"
+ },
+ {
+  "no": 95,
+  "page": 141,
+  "y": 76,
+  "dup": 1,
+  "seq": 95,
+  "text": "9)Cihan hoca: akut pankreatitin etyolojisinde neler vardır? Prehepatik sarılık nedenleri nelerdir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 142,
+   "y": 215
+  },
+  "segments": [
+   {
+    "page": 141,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 142,
+    "y0": 0.0,
+    "y1": 211.1
+   }
+  ],
+  "pages": [
+   141,
+   142
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-95",
+  "orijinal_no": "9"
+ },
+ {
+  "no": 96,
+  "page": 142,
+  "y": 215,
+  "dup": 1,
+  "seq": 96,
+  "text": "10)İrfan’ Hoca: Primersklerozankolanjit için ayirici neye bakarız? Refrakterreflü nedenleri, ülseratif kolon da kolon ca taraması? Hasta hbsag+ se neler düşünürüz?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 144,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 142,
+    "y0": 211.1,
+    "y1": 866.7
+   },
+   {
+    "page": 143,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 144,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   142,
+   144
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-96",
+  "orijinal_no": "10"
+ },
+ {
+  "no": 97,
+  "page": 144,
+  "y": 76,
+  "dup": 1,
+  "seq": 97,
+  "text": "11)Kubılay hoca akut pankreatit ve özofagus CA da risk faktörleri",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 145,
+   "y": 369
+  },
+  "segments": [
+   {
+    "page": 144,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 145,
+    "y0": 0.0,
+    "y1": 365.1
+   }
+  ],
+  "pages": [
+   144,
+   145
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-97",
+  "orijinal_no": "11"
+ },
+ {
+  "no": 98,
+  "page": 145,
+  "y": 369,
+  "dup": 1,
+  "seq": 98,
+  "text": "12)Kubilay hocar Steatohepatit nedir nasıl tanısı konar? Yağlı karaciğerle ikisipi.nasıl ayırt edebılirsin?Steatohepatitte öyle bi şey söyle ki hemen tanı koyayım dedi? Kc biyopsisinde enfeksiyon bulguları ve:yağlanmanın birlikte olmasıymış. 2; Soru Kronik Pankreatit'te neler olur? Tedavisi nedir?:Neler olduğunu ayrı ayrı nedenleriyle birlikte sorguladı.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 148,
+   "y": 438
+  },
+  "segments": [
+   {
+    "page": 145,
+    "y0": 365.1,
+    "y1": 866.7
+   },
+   {
+    "page": 146,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 147,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 148,
+    "y0": 0.0,
+    "y1": 434.1
+   }
+  ],
+  "pages": [
+   145,
+   148
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-98",
+  "orijinal_no": "12"
+ },
+ {
+  "no": 99,
+  "page": 148,
+  "y": 438,
+  "dup": 1,
+  "seq": 99,
+  "text": "13)Meral hoca ve kubilay hoca: kan alınacak olan donörden istenen testler( ancak hbvhcv demek yetmiyor hangi markerlara bakıldığını ayrıntılı istiyor;:semptomlu ve semptomsuzmultiplemiyelomlu, hastanın klinik patolojik lab ve tedavi açışından karşılaştırılması, ekstra ve intrakelestazın sebepleri tanımı klinik ye patolojik sınıflandırılması,malabsorbsiyon yapan ince bağırsak'kaynaklı sebepler.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 149,
+   "y": 415
+  },
+  "segments": [
+   {
+    "page": 148,
+    "y0": 434.1,
+    "y1": 866.7
+   },
+   {
+    "page": 149,
+    "y0": 0.0,
+    "y1": 411.1
+   }
+  ],
+  "pages": [
+   148,
+   149
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-99",
+  "orijinal_no": "13"
+ },
+ {
+  "no": 100,
+  "page": 149,
+  "y": 415,
+  "dup": 1,
+  "seq": 100,
+  "text": "15)ulseratif kolit ve Crohri un klinik histolojik endoskopik ve radyolojik farkları, peptik ülser tanımı tedavisi, h. Pylorinin Türkiye de ki tadavisinde kaçıncı basamaktan başlanır sebebi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 151,
+   "y": 644.0
+  },
+  "segments": [
+   {
+    "page": 149,
+    "y0": 411.1,
+    "y1": 866.7
+   },
+   {
+    "page": 150,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 151,
+    "y0": 0.0,
+    "y1": 640.1
+   }
+  ],
+  "pages": [
+   149,
+   151
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-100",
+  "orijinal_no": "15"
+ },
+ {
+  "no": 101,
+  "page": 151,
+  "y": 644,
+  "dup": 1,
+  "seq": 101,
+  "text": "16)pankreas kanseri semptom ve bulgular! nelerdir .pankreas bas kismindaki kanserlerle kuyruktakileri karsilastir .biluribinmetabolizmasini anlat",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 152,
+   "y": 715
+  },
+  "segments": [
+   {
+    "page": 151,
+    "y0": 640.1,
+    "y1": 866.7
+   },
+   {
+    "page": 152,
+    "y0": 0.0,
+    "y1": 711.1
+   }
+  ],
+  "pages": [
+   151,
+   152
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-101",
+  "orijinal_no": "16"
+ },
+ {
+  "no": 102,
+  "page": 152,
+  "y": 715,
+  "dup": 1,
+  "seq": 102,
+  "text": "17) Akalazya nedir, etyolojisi, tedavi yöntemleri hangi yaş grubunda hangi tedavi yöntemleri daha çok tercih edilir, ayırıcı tanıda hangi hastalıklar var karışabilecek, radyoloji vs bulguları",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 155,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 152,
+    "y0": 711.1,
+    "y1": 866.7
+   },
+   {
+    "page": 153,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 154,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 155,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   152,
+   155
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-102",
+  "orijinal_no": "17"
+ },
+ {
+  "no": 103,
+  "page": 155,
+  "y": 76,
+  "dup": 1,
+  "seq": 103,
+  "text": "18)Pankreas kanserinde en duyarlı dört tumhaşaor belirteci say",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 156,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 155,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 156,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   155,
+   156
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-103",
+  "orijinal_no": "18"
+ },
+ {
+  "no": 104,
+  "page": 156,
+  "y": 76,
+  "dup": 1,
+  "seq": 104,
+  "text": "İrfan’ Hoca: Primersklerozankolanjit için ayirici neye bakarız?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 156,
+   "y": 541
+  },
+  "segments": [
+   {
+    "page": 156,
+    "y0": 72.1,
+    "y1": 537.1
+   }
+  ],
+  "pages": [
+   156,
+   156
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-104",
+  "orijinal_no": null
+ },
+ {
+  "no": 105,
+  "page": 156,
+  "y": 541,
+  "dup": 1,
+  "seq": 105,
+  "text": "Kubilay: Akut pankreatit nedir, bulgulan nelerdir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 159,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 156,
+    "y0": 537.1,
+    "y1": 866.7
+   },
+   {
+    "page": 157,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 158,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 159,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   156,
+   159
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-105",
+  "orijinal_no": null
+ },
+ {
+  "no": 106,
+  "page": 159,
+  "y": 76,
+  "dup": 1,
+  "seq": 106,
+  "text": "Kubilay hocar Steatohepatit nedir nasıl tanısı konar? Yağlı karaciğerle ikisipi.nasıl ayırt edebılirsin?Steatohepatitte öyle bi şey söyle ki hemen tanı koyayım dedi? Kc biyopsisinde enfeksiyon bulguları ve:yağlanmanın birlikte olmasıymış. 2; Soru Kronik Pankreatit'te neler olur? Tedavisi nedir?:Neler olduğunu ayrı ayrı nedenleriyle birlikte sorguladı.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 160,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 159,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 160,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   159,
+   160
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-106",
+  "orijinal_no": null
+ },
+ {
+  "no": 107,
+  "page": 160,
+  "y": 76,
+  "dup": 1,
+  "seq": 107,
+  "text": "Meral hoca ve kubilay hoca: kan alınacak olan donörden istenen testler( ancak hbvhcv demek yetmiyor hangi markerlara bakıldığını ayrıntılı istiyor;:semptomlu ve semptomsuzmultiplemiyelomlu, hastanın klinik patolojik lab ve tedavi açışından karşılaştırılması, ekstra ve intrakelestazın sebepleri tanımı klinik ye patolojik sınıflandırılması,malabsorbsiyon yapan ince bağırsak'kaynaklı sebepler.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 161,
+   "y": 82
+  },
+  "segments": [
+   {
+    "page": 160,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 161,
+    "y0": 0.0,
+    "y1": 78.1
+   }
+  ],
+  "pages": [
+   160,
+   161
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-107",
+  "orijinal_no": null
+ },
+ {
+  "no": 108,
+  "page": 161,
+  "y": 82,
+  "dup": 1,
+  "seq": 108,
+  "text": "Gastrodan da ülseratif kolit kliniği sordu Gökhan nergizoğlu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 164,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 161,
+    "y0": 78.1,
+    "y1": 866.7
+   },
+   {
+    "page": 162,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 163,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 164,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   161,
+   164
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-108",
+  "orijinal_no": null
+ },
+ {
+  "no": 109,
+  "page": 164,
+  "y": 76,
+  "dup": 1,
+  "seq": 109,
+  "text": "pankreas kanseri semptom ve bulgular! nelerdir .pankreas bas kismindaki kanserlerle kuyruktakileri karsilastir .biluribinmetabolizmasini anlat",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 165,
+   "y": 406
+  },
+  "segments": [
+   {
+    "page": 164,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 165,
+    "y0": 0.0,
+    "y1": 402.1
+   }
+  ],
+  "pages": [
+   164,
+   165
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-109",
+  "orijinal_no": null
+ },
+ {
+  "no": 110,
+  "page": 165,
+  "y": 406,
+  "dup": 1,
+  "seq": 110,
+  "text": "Gastro Mehmet hoca: -Pankreas Ca Tümör Markerlarıülser",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 166,
+   "y": 99
+  },
+  "segments": [
+   {
+    "page": 165,
+    "y0": 402.1,
+    "y1": 866.7
+   },
+   {
+    "page": 166,
+    "y0": 0.0,
+    "y1": 95.1
+   }
+  ],
+  "pages": [
+   165,
+   166
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-110",
+  "orijinal_no": null
+ },
+ {
+  "no": 111,
+  "page": 166,
+  "y": 99,
+  "dup": 1,
+  "seq": 111,
+  "text": "Pankress ca evrelemesi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 166,
+   "y": 434
+  },
+  "segments": [
+   {
+    "page": 166,
+    "y0": 95.1,
+    "y1": 430.1
+   }
+  ],
+  "pages": [
+   166,
+   166
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-111",
+  "orijinal_no": null
+ },
+ {
+  "no": 112,
+  "page": 166,
+  "y": 434,
+  "dup": 1,
+  "seq": 112,
+  "text": "Gastroenteroloji^ pankreatitte ranson kriterleri",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 167,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 166,
+    "y0": 430.1,
+    "y1": 866.7
+   },
+   {
+    "page": 167,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   166,
+   167
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-112",
+  "orijinal_no": null
+ },
+ {
+  "no": 113,
+  "page": 167,
+  "y": 76,
+  "dup": 1,
+  "seq": 113,
+  "text": "Hasan hocadan 2 soru çektim;.. 2- akalazyanın tanısını hangi tetkiklerle koyarsın, tedavisi? Baryumlu özefagus grafisi, manometrik inceleme ve endoskopi. Tedavide medikal no salgılatın ajanlar, heller myotomisijbu artık eskide kaldı yapılmıyor dedi), botulinum toksin enjeksiyonu dedim. Poem dememi bekledi ben diyemeyince o söyleyip açılımını sordu.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 167,
+   "y": 144
+  },
+  "segments": [
+   {
+    "page": 167,
+    "y0": 72.1,
+    "y1": 140.1
+   }
+  ],
+  "pages": [
+   167,
+   167
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-113",
+  "orijinal_no": null
+ },
+ {
+  "no": 114,
+  "page": 167,
+  "y": 144,
+  "dup": 1,
+  "seq": 114,
+  "text": "akalazya nedir tedavisi nasıl yapılır, tedavide kullanılan myotominin özel ismi nedir,",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 167,
+   "y": 167
+  },
+  "segments": [
+   {
+    "page": 167,
+    "y0": 140.1,
+    "y1": 163.1
+   }
+  ],
+  "pages": [
+   167,
+   167
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-114",
+  "orijinal_no": null
+ },
+ {
+  "no": 115,
+  "page": 167,
+  "y": 167,
+  "dup": 1,
+  "seq": 115,
+  "text": "Akalazya nedir, etyolojisi, tedavi yöntemleri hangi yaş grubunda hangi tedavi yöntemleri daha çok tercih edilir, ayırıcı tanıda hangi hastalıklar var karışabilecek, radyoloji vs bulguları",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 167,
+   "y": 205
+  },
+  "segments": [
+   {
+    "page": 167,
+    "y0": 163.1,
+    "y1": 201.1
+   }
+  ],
+  "pages": [
+   167,
+   167
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-115",
+  "orijinal_no": null
+ },
+ {
+  "no": 116,
+  "page": 167,
+  "y": 205,
+  "dup": 1,
+  "seq": 116,
+  "text": "Akalazya nedir,paradox disfaji,midenin premalign lezyonları,menetrier hastalığı nedir ne kaybı olur,bikarbonat tedavi endikasyonu ve etkisi(oşteoklast inhibisyonu)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 169,
+   "y": 146
+  },
+  "segments": [
+   {
+    "page": 167,
+    "y0": 201.1,
+    "y1": 866.7
+   },
+   {
+    "page": 168,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 169,
+    "y0": 0.0,
+    "y1": 142.1
+   }
+  ],
+  "pages": [
+   167,
+   169
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-116",
+  "orijinal_no": null
+ },
+ {
+  "no": 117,
+  "page": 169,
+  "y": 146,
+  "dup": 1,
+  "seq": 117,
+  "text": "Kc benign neoplazmları ve etyolojileri, sirozla ilgili birkaç soru, portal ven trombozu, portal hipertansiyon, portal vene dökülen venler, özofagus varisinin tedavileri",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 173,
+   "y": 122
+  },
+  "segments": [
+   {
+    "page": 169,
+    "y0": 142.1,
+    "y1": 866.7
+   },
+   {
+    "page": 170,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 171,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 172,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 173,
+    "y0": 0.0,
+    "y1": 118.1
+   }
+  ],
+  "pages": [
+   169,
+   173
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-117",
+  "orijinal_no": null
+ },
+ {
+  "no": 118,
+  "page": 173,
+  "y": 122,
+  "dup": 1,
+  "seq": 118,
+  "text": "irfan Soykan: reflü belirti tanı ted",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 175,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 173,
+    "y0": 118.1,
+    "y1": 866.7
+   },
+   {
+    "page": 174,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 175,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   173,
+   175
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-118",
+  "orijinal_no": null
+ },
+ {
+  "no": 119,
+  "page": 175,
+  "y": 76,
+  "dup": 1,
+  "seq": 119,
+  "text": "malabsorbsiyon nedir malabsorbsiyona yol açan pankreas hastaliklari neler,",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 177,
+   "y": 615
+  },
+  "segments": [
+   {
+    "page": 175,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 176,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 177,
+    "y0": 0.0,
+    "y1": 611.1
+   }
+  ],
+  "pages": [
+   175,
+   177
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-119",
+  "orijinal_no": null
+ },
+ {
+  "no": 120,
+  "page": 177,
+  "y": 615,
+  "dup": 1,
+  "seq": 120,
+  "text": "polisitemia vera komplikasyonlari nelerdir,",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 178,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 177,
+    "y0": 611.1,
+    "y1": 866.7
+   },
+   {
+    "page": 178,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   177,
+   178
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-120",
+  "orijinal_no": null
+ },
+ {
+  "no": 121,
+  "page": 178,
+  "y": 76,
+  "dup": 1,
+  "seq": 121,
+  "text": ":PPI verdiğin hastada cevap yoksa ne düşünürsün?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 178,
+   "y": 487
+  },
+  "segments": [
+   {
+    "page": 178,
+    "y0": 72.1,
+    "y1": 483.1
+   }
+  ],
+  "pages": [
+   178,
+   178
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-121",
+  "orijinal_no": null
+ },
+ {
+  "no": 122,
+  "page": 178,
+  "y": 487,
+  "dup": 1,
+  "seq": 122,
+  "text": "..ERCP komplikasyonları..",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 178,
+   "y": 744
+  },
+  "segments": [
+   {
+    "page": 178,
+    "y0": 483.1,
+    "y1": 740.1
+   }
+  ],
+  "pages": [
+   178,
+   178
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-122",
+  "orijinal_no": null
+ },
+ {
+  "no": 123,
+  "page": 178,
+  "y": 744,
+  "dup": 1,
+  "seq": 123,
+  "text": "hepatit c eredike edilebilir mi diye sordu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 179,
+   "y": 99
+  },
+  "segments": [
+   {
+    "page": 178,
+    "y0": 740.1,
+    "y1": 866.7
+   },
+   {
+    "page": 179,
+    "y0": 0.0,
+    "y1": 95.1
+   }
+  ],
+  "pages": [
+   178,
+   179
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-123",
+  "orijinal_no": null
+ },
+ {
+  "no": 124,
+  "page": 179,
+  "y": 99,
+  "dup": 1,
+  "seq": 124,
+  "text": "Primer Slderozan kolanjit kliniği",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 180,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 179,
+    "y0": 95.1,
+    "y1": 866.7
+   },
+   {
+    "page": 180,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   179,
+   180
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-124",
+  "orijinal_no": null
+ },
+ {
+  "no": 125,
+  "page": 180,
+  "y": 76,
+  "dup": 1,
+  "seq": 125,
+  "text": "charcot triadı..",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 180,
+   "y": 335
+  },
+  "segments": [
+   {
+    "page": 180,
+    "y0": 72.1,
+    "y1": 331.1
+   }
+  ],
+  "pages": [
+   180,
+   180
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-125",
+  "orijinal_no": null
+ },
+ {
+  "no": 126,
+  "page": 180,
+  "y": 335,
+  "dup": 1,
+  "seq": 126,
+  "text": "hasan hoca posthepatik sarılık örnekver dedi sonra kan idrarda ne görürsün dedi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 180,
+   "y": 358
+  },
+  "segments": [
+   {
+    "page": 180,
+    "y0": 331.1,
+    "y1": 354.1
+   }
+  ],
+  "pages": [
+   180,
+   180
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-126",
+  "orijinal_no": null
+ },
+ {
+  "no": 127,
+  "page": 180,
+  "y": 358,
+  "dup": 1,
+  "seq": 127,
+  "text": "Karaciğer biyopsisi yapıcaksm.Yapmadan önce neye bakarız",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 180,
+   "y": 404
+  },
+  "segments": [
+   {
+    "page": 180,
+    "y0": 354.1,
+    "y1": 400.1
+   }
+  ],
+  "pages": [
+   180,
+   180
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-127",
+  "orijinal_no": null
+ },
+ {
+  "no": 128,
+  "page": 180,
+  "y": 404,
+  "dup": 1,
+  "seq": 128,
+  "text": "hasan hoca prehepatik hepatik posthepatik sanlıkta idrar bulgularım sordu,",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 181,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 180,
+    "y0": 400.1,
+    "y1": 866.7
+   },
+   {
+    "page": 181,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   180,
+   181
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-128",
+  "orijinal_no": null
+ },
+ {
+  "no": 129,
+  "page": 181,
+  "y": 76,
+  "dup": 1,
+  "seq": 129,
+  "text": "Usume titreme ateşle gelen ulseratifkolitli hastada ne dusunürsun? Cevap: psk onkoloji",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 181,
+   "y": 182
+  },
+  "segments": [
+   {
+    "page": 181,
+    "y0": 72.1,
+    "y1": 178.1
+   }
+  ],
+  "pages": [
+   181,
+   181
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-129",
+  "orijinal_no": null
+ },
+ {
+  "no": 130,
+  "page": 181,
+  "y": 182,
+  "dup": 1,
+  "seq": 130,
+  "text": "1 yildir demir eksiklgi tedavisi olan bi kadin var tedavi etkili olmamis sebepleri neler olabilir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 181,
+   "y": 205
+  },
+  "segments": [
+   {
+    "page": 181,
+    "y0": 178.1,
+    "y1": 201.1
+   }
+  ],
+  "pages": [
+   181,
+   181
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-130",
+  "orijinal_no": null
+ },
+ {
+  "no": 131,
+  "page": 181,
+  "y": 205,
+  "dup": 1,
+  "seq": 131,
+  "text": "gep tümörleri neler, vücuttaki değişiklikler",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 181,
+   "y": 523
+  },
+  "segments": [
+   {
+    "page": 181,
+    "y0": 201.1,
+    "y1": 519.1
+   }
+  ],
+  "pages": [
+   181,
+   181
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-131",
+  "orijinal_no": null
+ },
+ {
+  "no": 132,
+  "page": 181,
+  "y": 523,
+  "dup": 1,
+  "seq": 132,
+  "text": "İrfan’ Hoca Refrakterreflü nedenleri,",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 181,
+   "y": 599
+  },
+  "segments": [
+   {
+    "page": 181,
+    "y0": 519.1,
+    "y1": 595.1
+   }
+  ],
+  "pages": [
+   181,
+   181
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-132",
+  "orijinal_no": null
+ },
+ {
+  "no": 133,
+  "page": 181,
+  "y": 599,
+  "dup": 1,
+  "seq": 133,
+  "text": "Hasta hbsag+ se neler düşünürüz?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 182,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 181,
+    "y0": 595.1,
+    "y1": 866.7
+   },
+   {
+    "page": 182,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   181,
+   182
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-133",
+  "orijinal_no": null
+ },
+ {
+  "no": 134,
+  "page": 182,
+  "y": 76,
+  "dup": 1,
+  "seq": 134,
+  "text": "İrfan hoca - çölyak hastalığı kliniği tanısı tedavisi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 184,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 182,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 183,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 184,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   182,
+   184
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-134",
+  "orijinal_no": null
+ },
+ {
+  "no": 135,
+  "page": 184,
+  "y": 76,
+  "dup": 1,
+  "seq": 135,
+  "text": "Hasan hocadan 2 soru çektim; 1-ülseratif kolitte kansere yatkınlık yapan sebepler",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 184,
+   "y": 99
+  },
+  "segments": [
+   {
+    "page": 184,
+    "y0": 72.1,
+    "y1": 95.1
+   }
+  ],
+  "pages": [
+   184,
+   184
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-135",
+  "orijinal_no": null
+ },
+ {
+  "no": 136,
+  "page": 184,
+  "y": 99,
+  "dup": 1,
+  "seq": 136,
+  "text": "hasan Özkan: ulseratifkolitli hastayi kolon kanseri acisindan nasil takip edersin?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 184,
+   "y": 313
+  },
+  "segments": [
+   {
+    "page": 184,
+    "y0": 95.1,
+    "y1": 309.1
+   }
+  ],
+  "pages": [
+   184,
+   184
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-136",
+  "orijinal_no": null
+ },
+ {
+  "no": 137,
+  "page": 184,
+  "y": 313,
+  "dup": 1,
+  "seq": 137,
+  "text": "gastro- inaktif hepatit nedir? aile hekimisin inaktif hepatitli hasta geldi neye bakarsın? neden inaktif hepatitli hastayı takip ederiz?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 185,
+   "y": 361
+  },
+  "segments": [
+   {
+    "page": 184,
+    "y0": 309.1,
+    "y1": 866.7
+   },
+   {
+    "page": 185,
+    "y0": 0.0,
+    "y1": 357.1
+   }
+  ],
+  "pages": [
+   184,
+   185
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-137",
+  "orijinal_no": null
+ },
+ {
+  "no": 138,
+  "page": 185,
+  "y": 361,
+  "dup": 1,
+  "seq": 138,
+  "text": "Kubilay hoca karaciğer pankreas ağırlıklı soruyor",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 185,
+   "y": 407
+  },
+  "segments": [
+   {
+    "page": 185,
+    "y0": 357.1,
+    "y1": 403.1
+   }
+  ],
+  "pages": [
+   185,
+   185
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-138",
+  "orijinal_no": null
+ },
+ {
+  "no": 139,
+  "page": 185,
+  "y": 407,
+  "dup": 1,
+  "seq": 139,
+  "text": "Gastro Mehmet hoca: -Kolestazdan etkilenen etkilenmeyenler -Psk Pbk farkları, hangisinde transplant lazım, tanısı ve tedavisi nasıl -Ercp de ne görürüz neler-.yaparız",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 186,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 185,
+    "y0": 403.1,
+    "y1": 866.7
+   },
+   {
+    "page": 186,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   185,
+   186
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-139",
+  "orijinal_no": null
+ },
+ {
+  "no": 140,
+  "page": 186,
+  "y": 76,
+  "dup": 1,
+  "seq": 140,
+  "text": "Assit etyolojisi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 187,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 186,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 187,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   186,
+   187
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-140",
+  "orijinal_no": null
+ },
+ {
+  "no": 141,
+  "page": 187,
+  "y": 76,
+  "dup": 1,
+  "seq": 141,
+  "text": "hepatit c",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 188,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 187,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 188,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   187,
+   188
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-141",
+  "orijinal_no": null
+ },
+ {
+  "no": 142,
+  "page": 188,
+  "y": 76,
+  "dup": 1,
+  "seq": 142,
+  "text": "Hasan Özkan: Krepitasyon bulgusuyla pilor stenozu ve peptik ülser komplikasyonları",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 189,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 188,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 189,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   188,
+   189
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-142",
+  "orijinal_no": null
+ },
+ {
+  "no": 143,
+  "page": 189,
+  "y": 76,
+  "dup": 1,
+  "seq": 143,
+  "text": "disfajiyle gelen hastaya yaklaşım",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 190,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 189,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 190,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   189,
+   190
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-143",
+  "orijinal_no": null
+ },
+ {
+  "no": 144,
+  "page": 190,
+  "y": 76,
+  "dup": 1,
+  "seq": 144,
+  "text": "HepBye sekonder dekompanse sirozu kontrol edilemeyen özofagus varisleri assiti olan hasta TIPS uygular misin TIPS nedir bu hastada başka neler görmeyi beklersin",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 190,
+   "y": 314
+  },
+  "segments": [
+   {
+    "page": 190,
+    "y0": 72.1,
+    "y1": 310.1
+   }
+  ],
+  "pages": [
+   190,
+   190
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-144",
+  "orijinal_no": null
+ },
+ {
+  "no": 145,
+  "page": 190,
+  "y": 314,
+  "dup": 1,
+  "seq": 145,
+  "text": "Kubilay hoca başladı. Delta superenfeksiyonu koenfeksiyonu nedir, sana iki hasta geldi hangisini tercih edersin neden, tedavileri nasıldır ne fark var, aşılama nasıl, hepatit D tedavisi, akut karaciğer yetmezliği tanımla, belli bir süre kriteri var mı, akut kc yetmezliği yapan ilaç (asetaminofen), hangi dozlarda toksiktir",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 192,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 190,
+    "y0": 310.1,
+    "y1": 866.7
+   },
+   {
+    "page": 191,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 192,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   190,
+   192
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-145",
+  "orijinal_no": null
+ },
+ {
+  "no": 146,
+  "page": 192,
+  "y": 76,
+  "dup": 1,
+  "seq": 146,
+  "text": "İrfan hoca: Alt Ast değerleri verdi 90 küsürlerde ne düşünürsün, hangi durumlarda olur, sirozda muayene bulguları, karaciğerin radyolojik incelemesi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 193,
+   "y": 184
+  },
+  "segments": [
+   {
+    "page": 192,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 193,
+    "y0": 0.0,
+    "y1": 180.1
+   }
+  ],
+  "pages": [
+   192,
+   193
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-146",
+  "orijinal_no": null
+ },
+ {
+  "no": 147,
+  "page": 193,
+  "y": 184,
+  "dup": 1,
+  "seq": 147,
+  "text": "Hale Gökcan: Ast-Alt artmış bir kadın hasta. Neden artmıştır? İshaller kaça ayrılır. Ayırıcı tanıda ne yaparsın? Hbv taşıyıcısında serolojide ne beklersin?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 196,
+   "y": 866.7
+  },
+  "segments": [
+   {
+    "page": 193,
+    "y0": 180.1,
+    "y1": 866.7
+   },
+   {
+    "page": 194,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 195,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 196,
+    "y0": 0.0,
+    "y1": 862.8
+   }
+  ],
+  "pages": [
+   193,
+   196
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-147",
+  "orijinal_no": null
  }
 ]

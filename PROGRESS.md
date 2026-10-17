@@ -116,3 +116,9 @@ Bu kural N-46'dan itibaren okurken baştan uygulanır.
 - G-86..G-94: ikinci öğrencinin listesi (s.131–141; orijinal_no 1, 14, 2..8). Slayt/fotoğraf görselleri 200–300 dpi parçalarla okundu.
 - belirsiz sınır: G-86/G-87 ("1)…" ve "14) üst gis hastasına yaklaşım" bitişik iki satır; altındaki GİS kanama slaytları G-87'ye verildi, G-86 (cevap yok)); "Alt gis kanama yaklaşım" başlığı ve akış şeması G-87'de; G-92 soru satırı kaynakta bozuk daktilo ("kölitİsüTsFrozâ.kansef'yâp") olduğu gibi bırakıldı; G-89 metin katmanında "karaci¤ere" → "karaciğere" düzeltildi (yazı tipi kodlama sorunu).
 - G-87 slayt el yazısı notlarının sağ kenarı görsel sınırında kesik → [OKUNAMADI].
+
+## Gastro bitti (G-1..G-147; s.95–196)
+- G-95..G-147 (s.141–196): bölge başlıkları metin katmanındaki koyu mavi (0,0.1,0.4) soru satırlarından (tools/renkli.py) + görselden bulundu. Çoğu kayıtta soru satırı daktilo, cevap ise Word içine yapıştırılmış görseller/taramalar → [SLAYT] olarak okundu; metin katmanındaki paragraflar [DAKTİLO] olarak alındı.
+- belirsiz sınır: G-103 (s.155 "18)" ile s.156 "İrfan' Hoca" arası), G-105/G-106/G-107 (s.156–160 aynı sorular ikinci öğrenci listesinde tekrar: G-104=G-96 benzeri, G-105=G-97, G-106=G-98, G-107=G-99 kopya); G-108 (s.161 y82: "Gastrodan da ülseratif kolit kliniği" + devamı s.162 y81'e taşan soru, tek kayıt); G-113/G-114/G-115 (s.167: "Hasan hocadan 2 soru" altındaki üç akalazya sorusu ayrı kayıt, cevabı G-116'daki akalazya metni → G-113..G-115 (cevap yok)); G-126 (cevap yok; cevap G-128'de) ; G-143 (disfaji; slayt metni taranmış).
+- Kopya numaralar: orijinal_no 9..13 (G-95..G-99) ve 15..18 (G-100..G-103) ilk listede; s.156'dan itibaren aynı soruların ikinci kopyası (numarasız). Okunuş bağımsız yapıldı.
+- G-12 sonrası kalite kontrol: G-96 (PSK/PBK tablosu, s.142) ve G-119 (malabsorbsiyon tabloları) görselle karşılaştırıldı; fark yok. Gastro toplam [?]=50, [OKUNAMADI]=5.
