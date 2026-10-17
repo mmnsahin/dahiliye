@@ -88,3 +88,8 @@ Bu kural N-46'dan itibaren okurken baştan uygulanır.
 - Belirsiz sınırlar: G-2 (s.96 başı → s.97 başındaki "kronik pankreatitin…" devamı dahil); G-5 ve G-7 (aynı hocanın ardışık yazılı paragrafları ayrı soru sayıldı); G-17/G-18 (s.105 y172 / y185: iki satırlık bitişik soru) henüz eklenmedi.
 - Sıradaki grup: s.105–114 (başlangıçlar: s105 y23, y172, y185, y252; s107 y12, y487, y673; s108 y12, y401, y610; s110 y144, y235; s111 y8, y89, y178, y565; s112 y20; s113 y17, y288; s114 y15, y339, y472…); ardından s.115–196, Romatoloji, Hematoloji, Endokrin, Onkoloji, İmmünoloji.
 - Araçlar: tools/ekle.py (bölge ekle), satirlar.py (görünür paragraf başları), tile.py, strip.py, imgs.py, yaz.py, dogrula.py.
+
+## Gastro ilerleme (güncel)
+- G-1..G-27 okundu (s.95–110; bolge: G-27 sonu s.111 y8'e kadar). [?]=36, [OKUNAMADI]=4 (Gastro, şimdilik).
+- Belirsiz sınır: G-4/G-5/G-6/G-7 (aynı hocanın bitişik kısa soruları ayrı sayıldı); G-17 yalnızca "Yukarıda anlattım hepsini"; G-18 s.105–106 el yazısı ishal şeması.
+- Sıradaki: s.111 başı (y8, 89, 178, 565) → s.112 y20 → s.113 y17, y288 → s.114 (y15, 339, 472…).
