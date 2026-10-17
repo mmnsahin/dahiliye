@@ -15034,7 +15034,7 @@
   "hoca": "—",
   "end": {
    "page": 318,
-   "y": 346.9
+   "y": 102
   },
   "segments": [
    {
@@ -15055,7 +15055,7 @@
    {
     "page": 318,
     "y0": 0.0,
-    "y1": 343.0
+    "y1": 98.1
    }
   ],
   "pages": [
@@ -15136,7 +15136,7 @@
   "hoca": "—",
   "end": {
    "page": 321,
-   "y": 531
+   "y": 76
   },
   "segments": [
    {
@@ -15157,7 +15157,7 @@
    {
     "page": 321,
     "y0": 0.0,
-    "y1": 527.1
+    "y1": 72.1
    }
   ],
   "pages": [
@@ -15891,6 +15891,64 @@
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
   "id": "H-57",
+  "orijinal_no": null
+ },
+ {
+  "no": 9001,
+  "page": 318,
+  "y": 102,
+  "dup": 1,
+  "seq": 9001,
+  "text": "epistaksis ve diş eti kanamasıyla gelen hastadan nasıl anamnez alırsın ? ne düşünürsün",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 318,
+   "y": 346.9
+  },
+  "segments": [
+   {
+    "page": 318,
+    "y0": 98.1,
+    "y1": 343.0
+   }
+  ],
+  "pages": [
+   318,
+   318
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Hematoloji",
+  "id": "H-9001",
+  "orijinal_no": null
+ },
+ {
+  "no": 9002,
+  "page": 321,
+  "y": 76,
+  "dup": 1,
+  "seq": 9002,
+  "text": " LTaner Demirer: tam kandan elde edilen süspansiyonlar saklama koşulları ve süresi .akciğer kanserinin paraneoplastik sendromları hiponatremiye sebep olan durum ne ?HLA tipleri? 4 kardeşi olan bir kişinin HLA su tam uygun donör bulma olasılığı kaçtır?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 321,
+   "y": 531
+  },
+  "segments": [
+   {
+    "page": 321,
+    "y0": 72.1,
+    "y1": 527.1
+   }
+  ],
+  "pages": [
+   321,
+   321
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Hematoloji",
+  "id": "H-9002",
   "orijinal_no": null
  }
 ]
