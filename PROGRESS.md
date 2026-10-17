@@ -105,3 +105,8 @@ Bu kural N-46'dan itibaren okurken baştan uygulanır.
   - N-167: (c) "idrar miktarı artabilir. [?]" ve "DM [?]" kaldırıldı; kalan içerik görselle uyumlu.
   - G-12: (a) fotoğraf 1'deki Ü.Kolit | Crohn tablosu satır-satır eşleşmiş gibi yazılmıştı → iki ayrı sütun olarak yeniden yazıldı; (c) "%60-70 [?]" kaldırıldı; "İshal ikinden [?]" → "İshal ikveren [?]"; "Faktör 13 [?]", "Posit (%10-60) [?]", "Fertilitede Azalma (%50-98) [?]", "Gaita dethline [?]" tıbben şüpheli/rakam belirsiz olduğundan korundu. Foto 5–7 (sayfa 103) görselle uyumlu.
   - N-120 ve N-160 (rastgele): N-120 görselle birebir uyumlu, fark yok. N-160: (c) son el yazısı satırdaki iki [?] kaldırıldı ("Olgu sorusunu tersten sormuş aklında bulunsun.").
+
+## Gastro grup s.111–121 (G-28..G-49)
+- G-28..G-49 okundu (s.111–121 y207). Numaralı daktilo soru listesi (5..11) G-43..G-49 (orijinal_no 5–11); devamı s.121 y207'de (12. soru) başlıyor.
+- belirsiz sınır: G-28 (s.111 y8 ile y89 tek soru sayıldı: "Hastanın ALP ve GGT'si yüksek?" ve "sadece sarılığı ve ALP;GGT…" aynı olgunun alt soruları, kırmızı elmas imleri); G-29..G-32 ("1.–4." numaralı portal HT soruları ayrı kayıt); G-41/G-42 sınırı s.118 y≈356 (tablonun son satırı G-41'de, el yazısı "Gastrektomi" başlığı yarı kesik halde G-42'de); G-36 (s.114 y472 ile y628/y692/y782 alt başlıkları tek soru).
+- Kopya slayt: PBK/PSK slaytı G-36 ve G-41'de; her ikisinde yeniden yazıldı.

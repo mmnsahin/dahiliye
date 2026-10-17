@@ -5892,5 +5892,693 @@
   "konu": "Gastroenteroloji",
   "id": "G-27",
   "orijinal_no": null
+ },
+ {
+  "no": 28,
+  "page": 111,
+  "y": 8,
+  "dup": 1,
+  "seq": 28,
+  "text": "•Bir hasta 2 gündür sarılık şikayetiyle geliyor ne sorarsın? (Ağrısı var mı? Ateşi var mı?) Hastanın ağrısı yok, ateşi var. Hangi testleri istersin? (ALT, AST, GGT**, ALP**)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 111,
+   "y": 178
+  },
+  "segments": [
+   {
+    "page": 111,
+    "y0": 4.1,
+    "y1": 174.1
+   }
+  ],
+  "pages": [
+   111,
+   111
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-28",
+  "orijinal_no": null
+ },
+ {
+  "no": 29,
+  "page": 111,
+  "y": 178,
+  "dup": 1,
+  "seq": 29,
+  "text": "1. Portal ht nedir, sebepleri, semptomları",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 111,
+   "y": 565
+  },
+  "segments": [
+   {
+    "page": 111,
+    "y0": 174.1,
+    "y1": 561.1
+   }
+  ],
+  "pages": [
+   111,
+   111
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-29",
+  "orijinal_no": null
+ },
+ {
+  "no": 30,
+  "page": 111,
+  "y": 565,
+  "dup": 1,
+  "seq": 30,
+  "text": "2. Portal ht şiddet evrelemesi (hepatik vedge basıncı üzerinden)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 112,
+   "y": 20
+  },
+  "segments": [
+   {
+    "page": 111,
+    "y0": 561.1,
+    "y1": 866.7
+   },
+   {
+    "page": 112,
+    "y0": 0.0,
+    "y1": 16.1
+   }
+  ],
+  "pages": [
+   111,
+   112
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-30",
+  "orijinal_no": null
+ },
+ {
+  "no": 31,
+  "page": 112,
+  "y": 20,
+  "dup": 1,
+  "seq": 31,
+  "text": "3. Dekompanse hastada bilirubin yüksek, asit var, durdurulamayan varis kanaması var. Ne yapalım?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 113,
+   "y": 17
+  },
+  "segments": [
+   {
+    "page": 112,
+    "y0": 16.1,
+    "y1": 866.7
+   },
+   {
+    "page": 113,
+    "y0": 0.0,
+    "y1": 13.1
+   }
+  ],
+  "pages": [
+   112,
+   113
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-31",
+  "orijinal_no": null
+ },
+ {
+  "no": 32,
+  "page": 113,
+  "y": 17,
+  "dup": 1,
+  "seq": 32,
+  "text": "4. Portal htolan dekompanse KC hastalarında BT'de ne görürüz?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 113,
+   "y": 288
+  },
+  "segments": [
+   {
+    "page": 113,
+    "y0": 13.1,
+    "y1": 284.1
+   }
+  ],
+  "pages": [
+   113,
+   113
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-32",
+  "orijinal_no": null
+ },
+ {
+  "no": 33,
+  "page": 113,
+  "y": 288,
+  "dup": 1,
+  "seq": 33,
+  "text": "Karaciğer transplantasyonu için değerlendirme(dekompanse siroz belirtileri). Meld ve child skorlaması",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 114,
+   "y": 15
+  },
+  "segments": [
+   {
+    "page": 113,
+    "y0": 284.1,
+    "y1": 866.7
+   },
+   {
+    "page": 114,
+    "y0": 0.0,
+    "y1": 11.1
+   }
+  ],
+  "pages": [
+   113,
+   114
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-33",
+  "orijinal_no": null
+ },
+ {
+  "no": 34,
+  "page": 114,
+  "y": 15,
+  "dup": 1,
+  "seq": 34,
+  "text": "Kubilay Çınar: Pankreas endokrin tümörleri (bir tümör de bunların hepsini engelliyor hangi tümör?)",
+  "text_src": "D",
+  "hoca": "Kubilay Çınar",
+  "end": {
+   "page": 114,
+   "y": 339
+  },
+  "segments": [
+   {
+    "page": 114,
+    "y0": 11.1,
+    "y1": 335.1
+   }
+  ],
+  "pages": [
+   114,
+   114
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-34",
+  "orijinal_no": null
+ },
+ {
+  "no": 35,
+  "page": 114,
+  "y": 339,
+  "dup": 1,
+  "seq": 35,
+  "text": "Ülseratif kolit tamlı hastanın kontrolleri nasıl yapılır? Hangi tetkikler hangi aralıklarla yapılır ve eğer radyolojide darlık tespit edilirse ne yapılır?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 114,
+   "y": 472
+  },
+  "segments": [
+   {
+    "page": 114,
+    "y0": 335.1,
+    "y1": 468.1
+   }
+  ],
+  "pages": [
+   114,
+   114
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-35",
+  "orijinal_no": null
+ },
+ {
+  "no": 36,
+  "page": 114,
+  "y": 472,
+  "dup": 1,
+  "seq": 36,
+  "text": "“■ Pbk dismotilite benzeri dispepsi sordu gastroda",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 115,
+   "y": 13
+  },
+  "segments": [
+   {
+    "page": 114,
+    "y0": 468.1,
+    "y1": 866.7
+   },
+   {
+    "page": 115,
+    "y0": 0.0,
+    "y1": 9.1
+   }
+  ],
+  "pages": [
+   114,
+   115
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-36",
+  "orijinal_no": null
+ },
+ {
+  "no": 37,
+  "page": 115,
+  "y": 13,
+  "dup": 1,
+  "seq": 37,
+  "text": "* Gastroda Menetrier hastalığı nedir?... Bilemeyince Hasan Hoca kurtarmak için midenin bölümlerini ve peptik ülser komplikasyonlarını sordu :D Gastroda maltoma nedir? GİS'te nereyi tutar?",
+  "text_src": "D",
+  "hoca": "Hasan",
+  "end": {
+   "page": 115,
+   "y": 432
+  },
+  "segments": [
+   {
+    "page": 115,
+    "y0": 9.1,
+    "y1": 428.1
+   }
+  ],
+  "pages": [
+   115,
+   115
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-37",
+  "orijinal_no": null
+ },
+ {
+  "no": 38,
+  "page": 115,
+  "y": 432,
+  "dup": 1,
+  "seq": 38,
+  "text": "Ahmet Demirkazık - Kubilay Çınar GASTROENTEROLOJİ 1) Sık görülen herediter karaciğer hastalıkları? 2) Hepatit c'de kalıcı viral yanıt?",
+  "text_src": "D",
+  "hoca": "Ahmet Demirkazık - Kubilay Çınar",
+  "end": {
+   "page": 116,
+   "y": 410
+  },
+  "segments": [
+   {
+    "page": 115,
+    "y0": 428.1,
+    "y1": 866.7
+   },
+   {
+    "page": 116,
+    "y0": 0.0,
+    "y1": 406.1
+   }
+  ],
+  "pages": [
+   115,
+   116
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-38",
+  "orijinal_no": null
+ },
+ {
+  "no": 39,
+  "page": 116,
+  "y": 410,
+  "dup": 1,
+  "seq": 39,
+  "text": "Gastroenteroloji: Kubilay Çınar: NASH nedir? Etyoloji vs her şeyi sordu. Akut pankreatit nedir? Etyolojisi? (Safra taşı, kronik pankreatit, alkol, travma vs. saydım. Başka başka diye sordu sürekli.) Bir de mesela bir çocuk düşün; taş, alkol, travma hiçbirşey yok ama etyolojisi ne olabilir dedi. lgG4 ilişkili pankreatit olacak cevap.",
+  "text_src": "D",
+  "hoca": "Kubilay Çınar",
+  "end": {
+   "page": 117,
+   "y": 15
+  },
+  "segments": [
+   {
+    "page": 116,
+    "y0": 406.1,
+    "y1": 866.7
+   },
+   {
+    "page": 117,
+    "y0": 0.0,
+    "y1": 11.1
+   }
+  ],
+  "pages": [
+   116,
+   117
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-39",
+  "orijinal_no": null
+ },
+ {
+  "no": 40,
+  "page": 117,
+  "y": 15,
+  "dup": 1,
+  "seq": 40,
+  "text": "1. Soru: peptik ülser ve safra taşı ağrılarının farkı Oradan akut kolesistiti sordu 2. Soru: disfajili hastadan anamnez al, ne sorarsın?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 118,
+   "y": 14
+  },
+  "segments": [
+   {
+    "page": 117,
+    "y0": 11.1,
+    "y1": 866.7
+   },
+   {
+    "page": 118,
+    "y0": 0.0,
+    "y1": 10.1
+   }
+  ],
+  "pages": [
+   117,
+   118
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-40",
+  "orijinal_no": null
+ },
+ {
+  "no": 41,
+  "page": 118,
+  "y": 14,
+  "dup": 1,
+  "seq": 41,
+  "text": "2. Hasan hoca: Primer biliyer kolanjit nedir, ayırıcı tanısı, psk ile ayrımı, nasıl bir hastalık (otoimmün). Neden siroz denirken kolanjit deniyor artık? (hastayı korkutmamak için)",
+  "text_src": "D",
+  "hoca": "Hasan",
+  "end": {
+   "page": 118,
+   "y": 360
+  },
+  "segments": [
+   {
+    "page": 118,
+    "y0": 10.1,
+    "y1": 356.1
+   }
+  ],
+  "pages": [
+   118,
+   118
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-41",
+  "orijinal_no": null
+ },
+ {
+  "no": 42,
+  "page": 118,
+  "y": 360,
+  "dup": 1,
+  "seq": 42,
+  "text": "Gastrotomi sonrası anemi neden olur?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 119,
+   "y": 78
+  },
+  "segments": [
+   {
+    "page": 118,
+    "y0": 356.1,
+    "y1": 866.7
+   },
+   {
+    "page": 119,
+    "y0": 0.0,
+    "y1": 74.1
+   }
+  ],
+  "pages": [
+   118,
+   119
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-42",
+  "orijinal_no": null
+ },
+ {
+  "no": 43,
+  "page": 119,
+  "y": 78,
+  "dup": 1,
+  "seq": 43,
+  "text": "5. ÜK nedir, ciddi-orta-hafiftedavisi (ANLATILDI)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 119,
+   "y": 102
+  },
+  "segments": [
+   {
+    "page": 119,
+    "y0": 74.1,
+    "y1": 98.1
+   }
+  ],
+  "pages": [
+   119,
+   119
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-43",
+  "orijinal_no": "5"
+ },
+ {
+  "no": 44,
+  "page": 119,
+  "y": 102,
+  "dup": 1,
+  "seq": 44,
+  "text": "6. Crohn nedir, ÜK ile farkları (ANLATILDI)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 119,
+   "y": 126
+  },
+  "segments": [
+   {
+    "page": 119,
+    "y0": 98.1,
+    "y1": 122.1
+   }
+  ],
+  "pages": [
+   119,
+   119
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-44",
+  "orijinal_no": "6"
+ },
+ {
+  "no": 45,
+  "page": 119,
+  "y": 126,
+  "dup": 1,
+  "seq": 45,
+  "text": "7. Kolorektal ca azaltan-arttıran riskler (ulusal standartlara göre) (ANLATILDI)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 119,
+   "y": 175
+  },
+  "segments": [
+   {
+    "page": 119,
+    "y0": 122.1,
+    "y1": 171.1
+   }
+  ],
+  "pages": [
+   119,
+   119
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-45",
+  "orijinal_no": "7"
+ },
+ {
+  "no": 46,
+  "page": 119,
+  "y": 175,
+  "dup": 1,
+  "seq": 46,
+  "text": "8. FAP takip, risk faktörleri",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 119,
+   "y": 499
+  },
+  "segments": [
+   {
+    "page": 119,
+    "y0": 171.1,
+    "y1": 495.1
+   }
+  ],
+  "pages": [
+   119,
+   119
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-46",
+  "orijinal_no": "8"
+ },
+ {
+  "no": 47,
+  "page": 119,
+  "y": 499,
+  "dup": 1,
+  "seq": 47,
+  "text": "9. Lynch 1-2 sendromları anlatınız. Amsterdam kriterlerine göre nasıl değerlendiririz?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 120,
+   "y": 102
+  },
+  "segments": [
+   {
+    "page": 119,
+    "y0": 495.1,
+    "y1": 866.7
+   },
+   {
+    "page": 120,
+    "y0": 0.0,
+    "y1": 98.1
+   }
+  ],
+  "pages": [
+   119,
+   120
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-47",
+  "orijinal_no": "9"
+ },
+ {
+  "no": 48,
+  "page": 120,
+  "y": 102,
+  "dup": 1,
+  "seq": 48,
+  "text": "10. Peutz-Jeghers sendromu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 120,
+   "y": 264
+  },
+  "segments": [
+   {
+    "page": 120,
+    "y0": 98.1,
+    "y1": 260.1
+   }
+  ],
+  "pages": [
+   120,
+   120
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-48",
+  "orijinal_no": "10"
+ },
+ {
+  "no": 49,
+  "page": 120,
+  "y": 264,
+  "dup": 1,
+  "seq": 49,
+  "text": "11. GÖRH tanı, tedavi, cevapsız hastalara ne yapalım, GÖRH belirtileri",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 121,
+   "y": 207.0
+  },
+  "segments": [
+   {
+    "page": 120,
+    "y0": 260.1,
+    "y1": 866.7
+   },
+   {
+    "page": 121,
+    "y0": 0.0,
+    "y1": 203.1
+   }
+  ],
+  "pages": [
+   120,
+   121
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-49",
+  "orijinal_no": "11"
  }
 ]
