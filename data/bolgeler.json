@@ -18462,5 +18462,3300 @@
   "konu": "Endokrinoloji",
   "id": "E-83",
   "orijinal_no": "83"
+ },
+ {
+  "no": 84,
+  "page": 367,
+  "y": 48,
+  "dup": 1,
+  "seq": 84,
+  "text": "Obezite komplikasyonları nelerdir ?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 367,
+   "y": 256
+  },
+  "segments": [
+   {
+    "page": 367,
+    "y0": 44.1,
+    "y1": 252.1
+   }
+  ],
+  "pages": [
+   367,
+   367
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-84",
+  "orijinal_no": "84"
+ },
+ {
+  "no": 85,
+  "page": 367,
+  "y": 256,
+  "dup": 1,
+  "seq": 85,
+  "text": "Hipofiz adenomları nelerdir ?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 367,
+   "y": 347
+  },
+  "segments": [
+   {
+    "page": 367,
+    "y0": 252.1,
+    "y1": 343.1
+   }
+  ],
+  "pages": [
+   367,
+   367
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-85",
+  "orijinal_no": "85"
+ },
+ {
+  "no": 86,
+  "page": 367,
+  "y": 347,
+  "dup": 1,
+  "seq": 86,
+  "text": "Hiperosmolar nonketotik diabetik koşul nedir ?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 367,
+   "y": 485
+  },
+  "segments": [
+   {
+    "page": 367,
+    "y0": 343.1,
+    "y1": 481.1
+   }
+  ],
+  "pages": [
+   367,
+   367
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-86",
+  "orijinal_no": "86"
+ },
+ {
+  "no": 87,
+  "page": 367,
+  "y": 485,
+  "dup": 1,
+  "seq": 87,
+  "text": "Hipotiroidizmde klinik bulgu ve belirtiler nelerdir ?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 367,
+   "y": 567
+  },
+  "segments": [
+   {
+    "page": 367,
+    "y0": 481.1,
+    "y1": 563.1
+   }
+  ],
+  "pages": [
+   367,
+   367
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-87",
+  "orijinal_no": "87"
+ },
+ {
+  "no": 88,
+  "page": 367,
+  "y": 567,
+  "dup": 1,
+  "seq": 88,
+  "text": "Diabetik hasta koma halinde geldi şekerini ölçemiyorsun ne yaparsın ?(cvp kesn değil.)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 367,
+   "y": 611
+  },
+  "segments": [
+   {
+    "page": 367,
+    "y0": 563.1,
+    "y1": 607.1
+   }
+  ],
+  "pages": [
+   367,
+   367
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-88",
+  "orijinal_no": "88"
+ },
+ {
+  "no": 89,
+  "page": 367,
+  "y": 611,
+  "dup": 1,
+  "seq": 89,
+  "text": "89-)DM'lü hastada immün sistem neden baskılanır ve en sık görülen enfeksiyonlar nelerdir ?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 367,
+   "y": 866.7
+  },
+  "segments": [
+   {
+    "page": 367,
+    "y0": 607.1,
+    "y1": 866.7
+   }
+  ],
+  "pages": [
+   367,
+   367
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-89",
+  "orijinal_no": "89"
+ },
+ {
+  "no": 90,
+  "page": 368,
+  "y": 90.6,
+  "dup": 1,
+  "seq": 90,
+  "text": "Endokrinden de glikozillenmis hemoglobin nedir, normal değer aralığı, ne için bakılır, en sık kullanılan OAD, metforminin en sık görülen yan etkileri nelerdir ?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 368,
+   "y": 227.7
+  },
+  "segments": [
+   {
+    "page": 368,
+    "y0": 86.7,
+    "y1": 223.8
+   }
+  ],
+  "pages": [
+   368,
+   368
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-90",
+  "orijinal_no": null
+ },
+ {
+  "no": 91,
+  "page": 368,
+  "y": 227.7,
+  "dup": 1,
+  "seq": 91,
+  "text": "3. Tip 1 ile Tip 2 Dm hastasinin farklar (yaş, obezite, ek hastalıklar , genetik vb.)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 368,
+   "y": 376.0
+  },
+  "segments": [
+   {
+    "page": 368,
+    "y0": 223.8,
+    "y1": 372.1
+   }
+  ],
+  "pages": [
+   368,
+   368
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-91",
+  "orijinal_no": "3"
+ },
+ {
+  "no": 92,
+  "page": 368,
+  "y": 376.0,
+  "dup": 1,
+  "seq": 92,
+  "text": "Tip 1 dm için hangi test? (otoantikorlar : Anti GAD , Anti",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 368,
+   "y": 450.2
+  },
+  "segments": [
+   {
+    "page": 368,
+    "y0": 372.1,
+    "y1": 446.3
+   }
+  ],
+  "pages": [
+   368,
+   368
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-92",
+  "orijinal_no": null
+ },
+ {
+  "no": 93,
+  "page": 368,
+  "y": 450.2,
+  "dup": 1,
+  "seq": 93,
+  "text": "7. TSH değerleri söyledi yüksek, T4 değerleri söyledi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 369,
+   "y": 50.4
+  },
+  "segments": [
+   {
+    "page": 368,
+    "y0": 446.3,
+    "y1": 534.5
+   },
+   {
+    "page": 369,
+    "y0": 0.0,
+    "y1": 46.5
+   }
+  ],
+  "pages": [
+   368,
+   369
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-93",
+  "orijinal_no": "7"
+ },
+ {
+  "no": 94,
+  "page": 369,
+  "y": 50.4,
+  "dup": 1,
+  "seq": 94,
+  "text": "Primer hipotiroidi, hashimato tedavisi:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 369,
+   "y": 258.1
+  },
+  "segments": [
+   {
+    "page": 369,
+    "y0": 46.5,
+    "y1": 254.2
+   }
+  ],
+  "pages": [
+   369,
+   369
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-94",
+  "orijinal_no": null
+ },
+ {
+  "no": 95,
+  "page": 369,
+  "y": 258.1,
+  "dup": 1,
+  "seq": 95,
+  "text": "65 yaş komorbidite durumları olanda doz nedir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 369,
+   "y": 361.9
+  },
+  "segments": [
+   {
+    "page": 369,
+    "y0": 254.2,
+    "y1": 358.0
+   }
+  ],
+  "pages": [
+   369,
+   369
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-95",
+  "orijinal_no": null
+ },
+ {
+  "no": 96,
+  "page": 369,
+  "y": 361.9,
+  "dup": 1,
+  "seq": 96,
+  "text": "GRAVES hastalığının tedavisi nedir ? vs",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 369,
+   "y": 480.6
+  },
+  "segments": [
+   {
+    "page": 369,
+    "y0": 358.0,
+    "y1": 476.7
+   }
+  ],
+  "pages": [
+   369,
+   369
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-96",
+  "orijinal_no": null
+ },
+ {
+  "no": 97,
+  "page": 369,
+  "y": 480.6,
+  "dup": 1,
+  "seq": 97,
+  "text": "Boğaz + kulak ağrısı NSAİİ içmiş, şikayet geçmemiş, boyunda ağrısı var ne düşünürsün?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 370,
+   "y": 94.9
+  },
+  "segments": [
+   {
+    "page": 369,
+    "y0": 476.7,
+    "y1": 534.5
+   },
+   {
+    "page": 370,
+    "y0": 0.0,
+    "y1": 91.0
+   }
+  ],
+  "pages": [
+   369,
+   370
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-97",
+  "orijinal_no": null
+ },
+ {
+  "no": 98,
+  "page": 370,
+  "y": 94.9,
+  "dup": 1,
+  "seq": 98,
+  "text": "Diabet  tanısı:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 370,
+   "y": 198.7
+  },
+  "segments": [
+   {
+    "page": 370,
+    "y0": 91.0,
+    "y1": 194.8
+   }
+  ],
+  "pages": [
+   370,
+   370
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-98",
+  "orijinal_no": null
+ },
+ {
+  "no": 99,
+  "page": 370,
+  "y": 198.7,
+  "dup": 1,
+  "seq": 99,
+  "text": "Antitiroid ilaçlar ve major 2 yan etkisi:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 370,
+   "y": 243.2
+  },
+  "segments": [
+   {
+    "page": 370,
+    "y0": 194.8,
+    "y1": 239.3
+   }
+  ],
+  "pages": [
+   370,
+   370
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-99",
+  "orijinal_no": null
+ },
+ {
+  "no": 100,
+  "page": 370,
+  "y": 243.2,
+  "dup": 1,
+  "seq": 100,
+  "text": "Primer hiperparatiroidi ve etiyolojisi:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 370,
+   "y": 361.9
+  },
+  "segments": [
+   {
+    "page": 370,
+    "y0": 239.3,
+    "y1": 358.0
+   }
+  ],
+  "pages": [
+   370,
+   370
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-100",
+  "orijinal_no": null
+ },
+ {
+  "no": 101,
+  "page": 370,
+  "y": 361.9,
+  "dup": 1,
+  "seq": 101,
+  "text": "Diyabette kullanılan ilaçlar ve yan etkileri neden ille de metformin kullanılır?:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 376,
+   "y": 20.7
+  },
+  "segments": [
+   {
+    "page": 370,
+    "y0": 358.0,
+    "y1": 534.5
+   },
+   {
+    "page": 371,
+    "y0": 0.0,
+    "y1": 534.5
+   },
+   {
+    "page": 372,
+    "y0": 0.0,
+    "y1": 534.5
+   },
+   {
+    "page": 373,
+    "y0": 0.0,
+    "y1": 534.5
+   },
+   {
+    "page": 374,
+    "y0": 0.0,
+    "y1": 534.5
+   },
+   {
+    "page": 375,
+    "y0": 0.0,
+    "y1": 534.5
+   },
+   {
+    "page": 376,
+    "y0": 0.0,
+    "y1": 16.8
+   }
+  ],
+  "pages": [
+   370,
+   376
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-101",
+  "orijinal_no": null
+ },
+ {
+  "no": 102,
+  "page": 376,
+  "y": 20.7,
+  "dup": 1,
+  "seq": 102,
+  "text": "Akromegali:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 376,
+   "y": 243.2
+  },
+  "segments": [
+   {
+    "page": 376,
+    "y0": 16.8,
+    "y1": 239.3
+   }
+  ],
+  "pages": [
+   376,
+   376
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-102",
+  "orijinal_no": null
+ },
+ {
+  "no": 103,
+  "page": 376,
+  "y": 243.2,
+  "dup": 1,
+  "seq": 103,
+  "text": "Ketoasidoza yaklaşım: Hiperglisemik aciller tedavi hedefleri:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 377,
+   "y": 458.7
+  },
+  "segments": [
+   {
+    "page": 376,
+    "y0": 239.3,
+    "y1": 534.5
+   },
+   {
+    "page": 377,
+    "y0": 0.0,
+    "y1": 454.8
+   }
+  ],
+  "pages": [
+   376,
+   377
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-103",
+  "orijinal_no": null
+ },
+ {
+  "no": 104,
+  "page": 377,
+  "y": 458.7,
+  "dup": 1,
+  "seq": 104,
+  "text": "Hiperosmolar Hiperglisemik durumu durumu ve tedavisini sormuş üstteki tablo onu da gösteriyor.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 378,
+   "y": 20.7
+  },
+  "segments": [
+   {
+    "page": 377,
+    "y0": 454.8,
+    "y1": 534.5
+   },
+   {
+    "page": 378,
+    "y0": 0.0,
+    "y1": 16.8
+   }
+  ],
+  "pages": [
+   377,
+   378
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-104",
+  "orijinal_no": null
+ },
+ {
+  "no": 105,
+  "page": 378,
+  "y": 20.7,
+  "dup": 1,
+  "seq": 105,
+  "text": "Non fonksiyone hipofiz adenomu olan hasta, ani başlangıçlı çok şiddetli baş ağrısı, görme alanında kayıp, deride pigment kaybı, hipotansiyon ve ateş ile geliyor. Bu tablonun adı nedir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 378,
+   "y": 154.2
+  },
+  "segments": [
+   {
+    "page": 378,
+    "y0": 16.8,
+    "y1": 150.3
+   }
+  ],
+  "pages": [
+   378,
+   378
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-105",
+  "orijinal_no": null
+ },
+ {
+  "no": 106,
+  "page": 378,
+  "y": 154.2,
+  "dup": 1,
+  "seq": 106,
+  "text": "Diyabetik ketoasidoz olduğunu nasıl anlarsın, hangi tahlilleri istersin? Nasıl tedavi uygulayalım izotonik NaCl, İnsülini nasıl verelim (infüzyon mu puşe mi) ne kadar uygulayalım, ne kadar süreyle uygulayalım?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 378,
+   "y": 391.6
+  },
+  "segments": [
+   {
+    "page": 378,
+    "y0": 150.3,
+    "y1": 387.7
+   }
+  ],
+  "pages": [
+   378,
+   378
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-106",
+  "orijinal_no": null
+ },
+ {
+  "no": 107,
+  "page": 378,
+  "y": 391.6,
+  "dup": 1,
+  "seq": 107,
+  "text": "68 yaşında kadın hasta APG:128, OGTT 2. Saat 208 tedavi planı:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 378,
+   "y": 450.9
+  },
+  "segments": [
+   {
+    "page": 378,
+    "y0": 387.7,
+    "y1": 447.0
+   }
+  ],
+  "pages": [
+   378,
+   378
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-107",
+  "orijinal_no": null
+ },
+ {
+  "no": 108,
+  "page": 378,
+  "y": 450.9,
+  "dup": 1,
+  "seq": 108,
+  "text": "Primer ve sekonder hiperparatiroidizm nedir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 379,
+   "y": 50.4
+  },
+  "segments": [
+   {
+    "page": 378,
+    "y0": 447.0,
+    "y1": 534.5
+   },
+   {
+    "page": 379,
+    "y0": 0.0,
+    "y1": 46.5
+   }
+  ],
+  "pages": [
+   378,
+   379
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-108",
+  "orijinal_no": null
+ },
+ {
+  "no": 109,
+  "page": 379,
+  "y": 50.4,
+  "dup": 1,
+  "seq": 109,
+  "text": "Osteoporoz ve tedavisi:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 380,
+   "y": 214.3
+  },
+  "segments": [
+   {
+    "page": 379,
+    "y0": 46.5,
+    "y1": 534.5
+   },
+   {
+    "page": 380,
+    "y0": 0.0,
+    "y1": 210.4
+   }
+  ],
+  "pages": [
+   379,
+   380
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-109",
+  "orijinal_no": null
+ },
+ {
+  "no": 110,
+  "page": 380,
+  "y": 214.3,
+  "dup": 1,
+  "seq": 110,
+  "text": "Cushing hastalığı FM, Tanı ve bulguları:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 381,
+   "y": 231.9
+  },
+  "segments": [
+   {
+    "page": 380,
+    "y0": 210.4,
+    "y1": 534.5
+   },
+   {
+    "page": 381,
+    "y0": 0.0,
+    "y1": 228.0
+   }
+  ],
+  "pages": [
+   380,
+   381
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-110",
+  "orijinal_no": null
+ },
+ {
+  "no": 111,
+  "page": 381,
+  "y": 231.9,
+  "dup": 1,
+  "seq": 111,
+  "text": "Hashimato tanı tedavi, USG kesin yapılır mı ? Hashimoto Riedel Tiroiditi Tiroiditi(fibrotik)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 382,
+   "y": 281
+  },
+  "segments": [
+   {
+    "page": 381,
+    "y0": 228.0,
+    "y1": 534.5
+   },
+   {
+    "page": 382,
+    "y0": 0.0,
+    "y1": 277.1
+   }
+  ],
+  "pages": [
+   381,
+   382
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-111",
+  "orijinal_no": null
+ },
+ {
+  "no": 112,
+  "page": 382,
+  "y": 281,
+  "dup": 1,
+  "seq": 112,
+  "text": "Feokromasitomayı sordu (adrenal medullanın kromaffin",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 383,
+   "y": 340.7
+  },
+  "segments": [
+   {
+    "page": 382,
+    "y0": 277.1,
+    "y1": 534.5
+   },
+   {
+    "page": 383,
+    "y0": 0.0,
+    "y1": 336.8
+   }
+  ],
+  "pages": [
+   382,
+   383
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-112",
+  "orijinal_no": null
+ },
+ {
+  "no": 113,
+  "page": 383,
+  "y": 340.7,
+  "dup": 1,
+  "seq": 113,
+  "text": "Diabetes insipitus nedir, ayırıcı tanısı Tanım",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 386,
+   "y": 183.9
+  },
+  "segments": [
+   {
+    "page": 383,
+    "y0": 336.8,
+    "y1": 534.5
+   },
+   {
+    "page": 384,
+    "y0": 0.0,
+    "y1": 534.5
+   },
+   {
+    "page": 385,
+    "y0": 0.0,
+    "y1": 534.5
+   },
+   {
+    "page": 386,
+    "y0": 0.0,
+    "y1": 180.0
+   }
+  ],
+  "pages": [
+   383,
+   386
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-113",
+  "orijinal_no": null
+ },
+ {
+  "no": 114,
+  "page": 386,
+  "y": 183.9,
+  "dup": 1,
+  "seq": 114,
+  "text": "32 yaşında erkek, hipotansiyon hiponatremi, hiperkalemi ve bilinç kaybı ile acile gelmiş. Ne düşünürsün, majör etken nedir? Hastaya ne yapılır?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 386,
+   "y": 480.6
+  },
+  "segments": [
+   {
+    "page": 386,
+    "y0": 180.0,
+    "y1": 476.7
+   }
+  ],
+  "pages": [
+   386,
+   386
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-114",
+  "orijinal_no": null
+ },
+ {
+  "no": 115,
+  "page": 386,
+  "y": 480.6,
+  "dup": 1,
+  "seq": 115,
+  "text": "Adrenal insidentoloma hastasına yaklaşım:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 387,
+   "y": 291.3
+  },
+  "segments": [
+   {
+    "page": 386,
+    "y0": 476.7,
+    "y1": 534.5
+   },
+   {
+    "page": 387,
+    "y0": 0.0,
+    "y1": 287.4
+   }
+  ],
+  "pages": [
+   386,
+   387
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-115",
+  "orijinal_no": null
+ },
+ {
+  "no": 116,
+  "page": 387,
+  "y": 291.3,
+  "dup": 1,
+  "seq": 116,
+  "text": "İnsülinin yan etkileri nelerdir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 387,
+   "y": 350.6
+  },
+  "segments": [
+   {
+    "page": 387,
+    "y0": 287.4,
+    "y1": 346.7
+   }
+  ],
+  "pages": [
+   387,
+   387
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-116",
+  "orijinal_no": null
+ },
+ {
+  "no": 117,
+  "page": 387,
+  "y": 350.6,
+  "dup": 1,
+  "seq": 117,
+  "text": "Tip 2 diyabet nefropati tanısı nasıl konulur?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 387,
+   "y": 409.9
+  },
+  "segments": [
+   {
+    "page": 387,
+    "y0": 346.7,
+    "y1": 406.0
+   }
+  ],
+  "pages": [
+   387,
+   387
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-117",
+  "orijinal_no": null
+ },
+ {
+  "no": 118,
+  "page": 387,
+  "y": 409.9,
+  "dup": 1,
+  "seq": 118,
+  "text": "Diyabette insülin kullanım endikasyonları nelerdir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 388,
+   "y": 65.2
+  },
+  "segments": [
+   {
+    "page": 387,
+    "y0": 406.0,
+    "y1": 534.5
+   },
+   {
+    "page": 388,
+    "y0": 0.0,
+    "y1": 61.3
+   }
+  ],
+  "pages": [
+   387,
+   388
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-118",
+  "orijinal_no": null
+ },
+ {
+  "no": 119,
+  "page": 388,
+  "y": 65.2,
+  "dup": 1,
+  "seq": 119,
+  "text": "Toksik nodüler guatr ve GRAVES (toksik diffüz guatr) tanısı ?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 388,
+   "y": 169.1
+  },
+  "segments": [
+   {
+    "page": 388,
+    "y0": 61.3,
+    "y1": 165.2
+   }
+  ],
+  "pages": [
+   388,
+   388
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-119",
+  "orijinal_no": null
+ },
+ {
+  "no": 120,
+  "page": 388,
+  "y": 169.1,
+  "dup": 1,
+  "seq": 120,
+  "text": "Trousseau belirtisi, manşon kaç dk tutulur?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 388,
+   "y": 243.2
+  },
+  "segments": [
+   {
+    "page": 388,
+    "y0": 165.2,
+    "y1": 239.3
+   }
+  ],
+  "pages": [
+   388,
+   388
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-120",
+  "orijinal_no": null
+ },
+ {
+  "no": 121,
+  "page": 388,
+  "y": 243.2,
+  "dup": 1,
+  "seq": 121,
+  "text": "Genç yaş dirençli Ht ne düşünürsün?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 388,
+   "y": 347.1
+  },
+  "segments": [
+   {
+    "page": 388,
+    "y0": 239.3,
+    "y1": 343.2
+   }
+  ],
+  "pages": [
+   388,
+   388
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-121",
+  "orijinal_no": null
+ },
+ {
+  "no": 122,
+  "page": 388,
+  "y": 347.1,
+  "dup": 1,
+  "seq": 122,
+  "text": "Primer hiperaldesteronizm için yapılması gereken testler:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 389,
+   "y": 154.2
+  },
+  "segments": [
+   {
+    "page": 388,
+    "y0": 343.2,
+    "y1": 534.5
+   },
+   {
+    "page": 389,
+    "y0": 0.0,
+    "y1": 150.3
+   }
+  ],
+  "pages": [
+   388,
+   389
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-122",
+  "orijinal_no": null
+ },
+ {
+  "no": 123,
+  "page": 389,
+  "y": 154.2,
+  "dup": 1,
+  "seq": 123,
+  "text": "Diyabetik nefropati ve non diyabetik nefropati ayrımı nasıl yapılır?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 389,
+   "y": 287.7
+  },
+  "segments": [
+   {
+    "page": 389,
+    "y0": 150.3,
+    "y1": 283.8
+   }
+  ],
+  "pages": [
+   389,
+   389
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-123",
+  "orijinal_no": null
+ },
+ {
+  "no": 124,
+  "page": 389,
+  "y": 287.7,
+  "dup": 1,
+  "seq": 124,
+  "text": "Hipotiroidi anlamak için hangi tetkikler, hangi antikorlar, hashimato tedavisinde ne yaparız, gebelerde ne yaparız, ilacı ne zaman ne dozda aç mı tok mu verelim?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 390,
+   "y": 379
+  },
+  "segments": [
+   {
+    "page": 389,
+    "y0": 283.8,
+    "y1": 534.5
+   },
+   {
+    "page": 390,
+    "y0": 0.0,
+    "y1": 375.1
+   }
+  ],
+  "pages": [
+   389,
+   390
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-124",
+  "orijinal_no": null
+ },
+ {
+  "no": 125,
+  "page": 390,
+  "y": 379,
+  "dup": 1,
+  "seq": 125,
+  "text": "Oral antidiyabetikler kaç gruptur(4 gruptur yukarıda var bak)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 390,
+   "y": 423.4
+  },
+  "segments": [
+   {
+    "page": 390,
+    "y0": 375.1,
+    "y1": 419.5
+   }
+  ],
+  "pages": [
+   390,
+   390
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-125",
+  "orijinal_no": null
+ },
+ {
+  "no": 126,
+  "page": 390,
+  "y": 423.4,
+  "dup": 1,
+  "seq": 126,
+  "text": "Graves hastalığı bulguları nelerdir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 390,
+   "y": 482.7
+  },
+  "segments": [
+   {
+    "page": 390,
+    "y0": 419.5,
+    "y1": 478.8
+   }
+  ],
+  "pages": [
+   390,
+   390
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-126",
+  "orijinal_no": null
+ },
+ {
+  "no": 127,
+  "page": 390,
+  "y": 482.7,
+  "dup": 1,
+  "seq": 127,
+  "text": "Hipogonadizm klinini söyle, hipofiz kanaması,",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 391,
+   "y": 347.1
+  },
+  "segments": [
+   {
+    "page": 390,
+    "y0": 478.8,
+    "y1": 534.5
+   },
+   {
+    "page": 391,
+    "y0": 0.0,
+    "y1": 343.2
+   }
+  ],
+  "pages": [
+   390,
+   391
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-127",
+  "orijinal_no": null
+ },
+ {
+  "no": 128,
+  "page": 391,
+  "y": 347.1,
+  "dup": 1,
+  "seq": 128,
+  "text": "Hipertiroidili hasta nasıl gelir nasıl tedavi edersin Belirtiler Bulgular",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 393,
+   "y": 262.3
+  },
+  "segments": [
+   {
+    "page": 391,
+    "y0": 343.2,
+    "y1": 534.5
+   },
+   {
+    "page": 392,
+    "y0": 0.0,
+    "y1": 534.5
+   },
+   {
+    "page": 393,
+    "y0": 0.0,
+    "y1": 258.4
+   }
+  ],
+  "pages": [
+   391,
+   393
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-128",
+  "orijinal_no": null
+ },
+ {
+  "no": 129,
+  "page": 393,
+  "y": 262.3,
+  "dup": 1,
+  "seq": 129,
+  "text": "Hiperaldesteronizm tanı tedavi:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 394,
+   "y": 340
+  },
+  "segments": [
+   {
+    "page": 393,
+    "y0": 258.4,
+    "y1": 534.5
+   },
+   {
+    "page": 394,
+    "y0": 0.0,
+    "y1": 336.1
+   }
+  ],
+  "pages": [
+   393,
+   394
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-129",
+  "orijinal_no": null
+ },
+ {
+  "no": 130,
+  "page": 394,
+  "y": 340,
+  "dup": 1,
+  "seq": 130,
+  "text": "Feo kliniği olan hasta, hasta ne ile gelir, hangi hastalıklar ile karışır",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 395,
+   "y": 267.2
+  },
+  "segments": [
+   {
+    "page": 394,
+    "y0": 336.1,
+    "y1": 534.5
+   },
+   {
+    "page": 395,
+    "y0": 0.0,
+    "y1": 263.3
+   }
+  ],
+  "pages": [
+   394,
+   395
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-130",
+  "orijinal_no": null
+ },
+ {
+  "no": 131,
+  "page": 395,
+  "y": 267.2,
+  "dup": 1,
+  "seq": 131,
+  "text": "Diyabetin makrovasküler komplikasyonları nelerdir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 395,
+   "y": 385.9
+  },
+  "segments": [
+   {
+    "page": 395,
+    "y0": 263.3,
+    "y1": 382.0
+   }
+  ],
+  "pages": [
+   395,
+   395
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-131",
+  "orijinal_no": null
+ },
+ {
+  "no": 132,
+  "page": 395,
+  "y": 385.9,
+  "dup": 1,
+  "seq": 132,
+  "text": "Prolaktini yüksek kadında aklına neler gelir neleri sorgularsın?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 395,
+   "y": 475.0
+  },
+  "segments": [
+   {
+    "page": 395,
+    "y0": 382.0,
+    "y1": 471.1
+   }
+  ],
+  "pages": [
+   395,
+   395
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-132",
+  "orijinal_no": null
+ },
+ {
+  "no": 133,
+  "page": 395,
+  "y": 475.0,
+  "dup": 1,
+  "seq": 133,
+  "text": "Böbrek üstü bezi HT sebepleri:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 396,
+   "y": 36
+  },
+  "segments": [
+   {
+    "page": 395,
+    "y0": 471.1,
+    "y1": 534.5
+   },
+   {
+    "page": 396,
+    "y0": 0.0,
+    "y1": 32.1
+   }
+  ],
+  "pages": [
+   395,
+   396
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-133",
+  "orijinal_no": null
+ },
+ {
+  "no": 134,
+  "page": 396,
+  "y": 36,
+  "dup": 1,
+  "seq": 134,
+  "text": "Osteoporoz için kimleri tararız:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 397,
+   "y": 199.4
+  },
+  "segments": [
+   {
+    "page": 396,
+    "y0": 32.1,
+    "y1": 534.5
+   },
+   {
+    "page": 397,
+    "y0": 0.0,
+    "y1": 195.5
+   }
+  ],
+  "pages": [
+   396,
+   397
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-134",
+  "orijinal_no": null
+ },
+ {
+  "no": 135,
+  "page": 397,
+  "y": 199.4,
+  "dup": 1,
+  "seq": 135,
+  "text": "Sekonder HT düşündüren",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 397,
+   "y": 409.9
+  },
+  "segments": [
+   {
+    "page": 397,
+    "y0": 195.5,
+    "y1": 406.0
+   }
+  ],
+  "pages": [
+   397,
+   397
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-135",
+  "orijinal_no": null
+ },
+ {
+  "no": 136,
+  "page": 397,
+  "y": 409.9,
+  "dup": 1,
+  "seq": 136,
+  "text": "Cushing taraması, Düşük doz dxm supp testi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 399,
+   "y": 243.2
+  },
+  "segments": [
+   {
+    "page": 397,
+    "y0": 406.0,
+    "y1": 534.5
+   },
+   {
+    "page": 398,
+    "y0": 0.0,
+    "y1": 534.5
+   },
+   {
+    "page": 399,
+    "y0": 0.0,
+    "y1": 239.3
+   }
+  ],
+  "pages": [
+   397,
+   399
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-136",
+  "orijinal_no": null
+ },
+ {
+  "no": 137,
+  "page": 399,
+  "y": 243.2,
+  "dup": 1,
+  "seq": 137,
+  "text": "Subakut tiroidit:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 399,
+   "y": 347.1
+  },
+  "segments": [
+   {
+    "page": 399,
+    "y0": 239.3,
+    "y1": 343.2
+   }
+  ],
+  "pages": [
+   399,
+   399
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-137",
+  "orijinal_no": null
+ },
+ {
+  "no": 138,
+  "page": 399,
+  "y": 347.1,
+  "dup": 1,
+  "seq": 138,
+  "text": "DKA ve HHD tedavisi sorulmuş çok fazla, üstte var orayı iyi oku.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 399,
+   "y": 391.6
+  },
+  "segments": [
+   {
+    "page": 399,
+    "y0": 343.2,
+    "y1": 387.7
+   }
+  ],
+  "pages": [
+   399,
+   399
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-138",
+  "orijinal_no": null
+ },
+ {
+  "no": 139,
+  "page": 399,
+  "y": 391.6,
+  "dup": 1,
+  "seq": 139,
+  "text": "Diyabetik ayak muayenesi:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 399,
+   "y": 476.3
+  },
+  "segments": [
+   {
+    "page": 399,
+    "y0": 387.7,
+    "y1": 472.4
+   }
+  ],
+  "pages": [
+   399,
+   399
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-139",
+  "orijinal_no": null
+ },
+ {
+  "no": 140,
+  "page": 399,
+  "y": 476.3,
+  "dup": 1,
+  "seq": 140,
+  "text": "Cushingli ve DM li bir hastanın FM’sinde nelere bakılır ?( cushing bulguları üstte var)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 400,
+   "y": 205.1
+  },
+  "segments": [
+   {
+    "page": 399,
+    "y0": 472.4,
+    "y1": 534.5
+   },
+   {
+    "page": 400,
+    "y0": 0.0,
+    "y1": 201.2
+   }
+  ],
+  "pages": [
+   399,
+   400
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-140",
+  "orijinal_no": null
+ },
+ {
+  "no": 141,
+  "page": 400,
+  "y": 205.1,
+  "dup": 1,
+  "seq": 141,
+  "text": "Cushingteki proximal kaç güçsüzlüğü muayenesi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 400,
+   "y": 234.8
+  },
+  "segments": [
+   {
+    "page": 400,
+    "y0": 201.2,
+    "y1": 230.9
+   }
+  ],
+  "pages": [
+   400,
+   400
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-141",
+  "orijinal_no": null
+ },
+ {
+  "no": 142,
+  "page": 400,
+  "y": 234.8,
+  "dup": 1,
+  "seq": 142,
+  "text": "Endokrin DM yapan nedenleri sordu:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 400,
+   "y": 298.0
+  },
+  "segments": [
+   {
+    "page": 400,
+    "y0": 230.9,
+    "y1": 294.1
+   }
+  ],
+  "pages": [
+   400,
+   400
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-142",
+  "orijinal_no": null
+ },
+ {
+  "no": 143,
+  "page": 400,
+  "y": 298.0,
+  "dup": 1,
+  "seq": 143,
+  "text": "Lipohipertrofi neden istenmez (İnsülin emilimini bozduğu için,) peki nasıl tedavi edilir",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 400,
+   "y": 360.5
+  },
+  "segments": [
+   {
+    "page": 400,
+    "y0": 294.1,
+    "y1": 356.6
+   }
+  ],
+  "pages": [
+   400,
+   400
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-143",
+  "orijinal_no": null
+ },
+ {
+  "no": 144,
+  "page": 400,
+  "y": 360.5,
+  "dup": 1,
+  "seq": 144,
+  "text": "İnsülin tedavilerinin çeşitleri nelerdir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 402,
+   "y": 259.5
+  },
+  "segments": [
+   {
+    "page": 400,
+    "y0": 356.6,
+    "y1": 534.5
+   },
+   {
+    "page": 401,
+    "y0": 0.0,
+    "y1": 534.5
+   },
+   {
+    "page": 402,
+    "y0": 0.0,
+    "y1": 255.6
+   }
+  ],
+  "pages": [
+   400,
+   402
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-144",
+  "orijinal_no": null
+ },
+ {
+  "no": 145,
+  "page": 402,
+  "y": 259.5,
+  "dup": 1,
+  "seq": 145,
+  "text": "Gode bırakmayan ödem yapan endokrinolojik bir hastalık",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 402,
+   "y": 304
+  },
+  "segments": [
+   {
+    "page": 402,
+    "y0": 255.6,
+    "y1": 300.1
+   }
+  ],
+  "pages": [
+   402,
+   402
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-145",
+  "orijinal_no": null
+ },
+ {
+  "no": 146,
+  "page": 402,
+  "y": 304,
+  "dup": 1,
+  "seq": 146,
+  "text": "Poliüri, pollaküri ve noktüri ile gelen hastada ile gelen hastanın idrarında ilk ne bakmak istersin, (idrar dansitesi) Normal idrar dansitesi ve osmalitesi kaçtır? (ciddi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 402,
+   "y": 408
+  },
+  "segments": [
+   {
+    "page": 402,
+    "y0": 300.1,
+    "y1": 404.1
+   }
+  ],
+  "pages": [
+   402,
+   402
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-146",
+  "orijinal_no": null
+ },
+ {
+  "no": 147,
+  "page": 402,
+  "y": 408,
+  "dup": 1,
+  "seq": 147,
+  "text": "İnsülin tipleri (çok kısa, kısa, orta, uzun) kristalize insülin hangisi, NPH hangisi, kristalize regüler insülin nerede kullanılır, karşışımda ne olur? Types of insulin Duration Insulin type (trade name) Onset Peak BOLUS (prandial or mealtime) insulins",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 403,
+   "y": 444
+  },
+  "segments": [
+   {
+    "page": 402,
+    "y0": 404.1,
+    "y1": 534.5
+   },
+   {
+    "page": 403,
+    "y0": 0.0,
+    "y1": 440.1
+   }
+  ],
+  "pages": [
+   402,
+   403
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-147",
+  "orijinal_no": null
+ },
+ {
+  "no": 148,
+  "page": 403,
+  "y": 444,
+  "dup": 1,
+  "seq": 148,
+  "text": "Tirotoksikoz yapan en sık nedenler: Graves ve toksik",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 403,
+   "y": 474
+  },
+  "segments": [
+   {
+    "page": 403,
+    "y0": 440.1,
+    "y1": 470.1
+   }
+  ],
+  "pages": [
+   403,
+   403
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-148",
+  "orijinal_no": null
+ },
+ {
+  "no": 149,
+  "page": 403,
+  "y": 474,
+  "dup": 1,
+  "seq": 149,
+  "text": "Antitiroid ilaç kullanan bir hasta acile ateş+ boğaz ağrısı ile geldi ne düşünülür? Febril nötropeni",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 404,
+   "y": 33.0
+  },
+  "segments": [
+   {
+    "page": 403,
+    "y0": 470.1,
+    "y1": 534.5
+   },
+   {
+    "page": 404,
+    "y0": 0.0,
+    "y1": 29.1
+   }
+  ],
+  "pages": [
+   403,
+   404
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-149",
+  "orijinal_no": null
+ },
+ {
+  "no": 150,
+  "page": 404,
+  "y": 33.0,
+  "dup": 1,
+  "seq": 150,
+  "text": "Tiroid bası semptomları:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 404,
+   "y": 80
+  },
+  "segments": [
+   {
+    "page": 404,
+    "y0": 29.1,
+    "y1": 76.1
+   }
+  ],
+  "pages": [
+   404,
+   404
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-150",
+  "orijinal_no": null
+ },
+ {
+  "no": 151,
+  "page": 404,
+  "y": 80,
+  "dup": 1,
+  "seq": 151,
+  "text": "Tiroid kanserlerini anlat, medüller tiroid kanserlerinde neler yaparsın ? Meduller tiroid kanserinde genetik ?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 405,
+   "y": 303
+  },
+  "segments": [
+   {
+    "page": 404,
+    "y0": 76.1,
+    "y1": 534.5
+   },
+   {
+    "page": 405,
+    "y0": 0.0,
+    "y1": 299.1
+   }
+  ],
+  "pages": [
+   404,
+   405
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-151",
+  "orijinal_no": null
+ },
+ {
+  "no": 152,
+  "page": 405,
+  "y": 303,
+  "dup": 1,
+  "seq": 152,
+  "text": "40 yaşında kadın hasta TSH’ı düşük ne tetkik istersin ne yaparsın ?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 406,
+   "y": 125
+  },
+  "segments": [
+   {
+    "page": 405,
+    "y0": 299.1,
+    "y1": 534.5
+   },
+   {
+    "page": 406,
+    "y0": 0.0,
+    "y1": 121.1
+   }
+  ],
+  "pages": [
+   405,
+   406
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-152",
+  "orijinal_no": null
+ },
+ {
+  "no": 153,
+  "page": 406,
+  "y": 125,
+  "dup": 1,
+  "seq": 153,
+  "text": "Diyabetik ayakta neden nöropati gelişir? (soru böyle olmayabilir)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 406,
+   "y": 347.1
+  },
+  "segments": [
+   {
+    "page": 406,
+    "y0": 121.1,
+    "y1": 343.2
+   }
+  ],
+  "pages": [
+   406,
+   406
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-153",
+  "orijinal_no": null
+ },
+ {
+  "no": 154,
+  "page": 406,
+  "y": 347.1,
+  "dup": 1,
+  "seq": 154,
+  "text": "Hastanın tam idrar toplayıp toplamadığını nasıl anlarsın ?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 406,
+   "y": 392
+  },
+  "segments": [
+   {
+    "page": 406,
+    "y0": 343.2,
+    "y1": 388.1
+   }
+  ],
+  "pages": [
+   406,
+   406
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-154",
+  "orijinal_no": null
+ },
+ {
+  "no": 155,
+  "page": 406,
+  "y": 392,
+  "dup": 1,
+  "seq": 155,
+  "text": "Adrenal yetmezlikte ne bakarsın",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 407,
+   "y": 151
+  },
+  "segments": [
+   {
+    "page": 406,
+    "y0": 388.1,
+    "y1": 534.5
+   },
+   {
+    "page": 407,
+    "y0": 0.0,
+    "y1": 147.1
+   }
+  ],
+  "pages": [
+   406,
+   407
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-155",
+  "orijinal_no": null
+ },
+ {
+  "no": 156,
+  "page": 407,
+  "y": 151,
+  "dup": 1,
+  "seq": 156,
+  "text": "MEN2a veMEN2b bileşenleri, MEN2b de neler görürsün",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 407,
+   "y": 226
+  },
+  "segments": [
+   {
+    "page": 407,
+    "y0": 147.1,
+    "y1": 222.1
+   }
+  ],
+  "pages": [
+   407,
+   407
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-156",
+  "orijinal_no": null
+ },
+ {
+  "no": 157,
+  "page": 407,
+  "y": 226,
+  "dup": 1,
+  "seq": 157,
+  "text": "DKA Ve NKHOD çok fazla sorulmuş.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 407,
+   "y": 255
+  },
+  "segments": [
+   {
+    "page": 407,
+    "y0": 222.1,
+    "y1": 251.1
+   }
+  ],
+  "pages": [
+   407,
+   407
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-157",
+  "orijinal_no": null
+ },
+ {
+  "no": 158,
+  "page": 407,
+  "y": 255,
+  "dup": 1,
+  "seq": 158,
+  "text": "Metformini hangi hastalara vermeyelim? Yan etkileri ?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 407,
+   "y": 374
+  },
+  "segments": [
+   {
+    "page": 407,
+    "y0": 251.1,
+    "y1": 370.1
+   }
+  ],
+  "pages": [
+   407,
+   407
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-158",
+  "orijinal_no": null
+ },
+ {
+  "no": 159,
+  "page": 407,
+  "y": 374,
+  "dup": 1,
+  "seq": 159,
+  "text": "Total tiroidektomi komplikasyonları nelerdir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 407,
+   "y": 478
+  },
+  "segments": [
+   {
+    "page": 407,
+    "y0": 370.1,
+    "y1": 474.1
+   }
+  ],
+  "pages": [
+   407,
+   407
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-159",
+  "orijinal_no": null
+ },
+ {
+  "no": 160,
+  "page": 407,
+  "y": 478,
+  "dup": 1,
+  "seq": 160,
+  "text": "Cushing tanısı nasıl konulur ayırıcı tanısı nasıl yapılır?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 408,
+   "y": 413
+  },
+  "segments": [
+   {
+    "page": 407,
+    "y0": 474.1,
+    "y1": 534.5
+   },
+   {
+    "page": 408,
+    "y0": 0.0,
+    "y1": 409.1
+   }
+  ],
+  "pages": [
+   407,
+   408
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-160",
+  "orijinal_no": null
+ },
+ {
+  "no": 161,
+  "page": 408,
+  "y": 413,
+  "dup": 1,
+  "seq": 161,
+  "text": "Gravesi tedavisi yan etkileri süresi vs bu konu da çok sorulmuş Medikal tedavi (anti-tiroid ajanlar)(12-24 ay)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 409,
+   "y": 399
+  },
+  "segments": [
+   {
+    "page": 408,
+    "y0": 409.1,
+    "y1": 534.5
+   },
+   {
+    "page": 409,
+    "y0": 0.0,
+    "y1": 395.1
+   }
+  ],
+  "pages": [
+   408,
+   409
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-161",
+  "orijinal_no": null
+ },
+ {
+  "no": 162,
+  "page": 409,
+  "y": 399,
+  "dup": 1,
+  "seq": 162,
+  "text": "DM hastası tanı kriterleri verilen ilaçlar yan etkiler (son iki kısım üstte var muhakkak bak)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 410,
+   "y": 211
+  },
+  "segments": [
+   {
+    "page": 409,
+    "y0": 395.1,
+    "y1": 534.5
+   },
+   {
+    "page": 410,
+    "y0": 0.0,
+    "y1": 207.1
+   }
+  ],
+  "pages": [
+   409,
+   410
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-162",
+  "orijinal_no": null
+ },
+ {
+  "no": 163,
+  "page": 410,
+  "y": 211,
+  "dup": 1,
+  "seq": 163,
+  "text": "Tiroid nodülünün ayırıcı tanısı ve yapılacak tetkikler",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 410,
+   "y": 463
+  },
+  "segments": [
+   {
+    "page": 410,
+    "y0": 207.1,
+    "y1": 459.1
+   }
+  ],
+  "pages": [
+   410,
+   410
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-163",
+  "orijinal_no": null
+ },
+ {
+  "no": 164,
+  "page": 410,
+  "y": 463,
+  "dup": 1,
+  "seq": 164,
+  "text": "Oral antidiyabetikleri sistematik sıra ile ve mekanizmaları ile say:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 411,
+   "y": 332
+  },
+  "segments": [
+   {
+    "page": 410,
+    "y0": 459.1,
+    "y1": 534.5
+   },
+   {
+    "page": 411,
+    "y0": 0.0,
+    "y1": 328.1
+   }
+  ],
+  "pages": [
+   410,
+   411
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-164",
+  "orijinal_no": null
+ },
+ {
+  "no": 165,
+  "page": 411,
+  "y": 332,
+  "dup": 1,
+  "seq": 165,
+  "text": "Tip 2 diyabette kesin insülin kullanımının gerektiği durumlar:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 411,
+   "y": 481
+  },
+  "segments": [
+   {
+    "page": 411,
+    "y0": 328.1,
+    "y1": 477.1
+   }
+  ],
+  "pages": [
+   411,
+   411
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-165",
+  "orijinal_no": null
+ },
+ {
+  "no": 166,
+  "page": 411,
+  "y": 481,
+  "dup": 1,
+  "seq": 166,
+  "text": "Diyabetik ayak yaklaşım, en önemli sebebi (kan şekeri",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 412,
+   "y": 362
+  },
+  "segments": [
+   {
+    "page": 411,
+    "y0": 477.1,
+    "y1": 534.5
+   },
+   {
+    "page": 412,
+    "y0": 0.0,
+    "y1": 358.1
+   }
+  ],
+  "pages": [
+   411,
+   412
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-166",
+  "orijinal_no": null
+ },
+ {
+  "no": 167,
+  "page": 412,
+  "y": 362,
+  "dup": 1,
+  "seq": 167,
+  "text": "Obezite tedavisi, diyetten ameliyata kadar:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 413,
+   "y": 498
+  },
+  "segments": [
+   {
+    "page": 412,
+    "y0": 358.1,
+    "y1": 534.5
+   },
+   {
+    "page": 413,
+    "y0": 0.0,
+    "y1": 494.1
+   }
+  ],
+  "pages": [
+   412,
+   413
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-167",
+  "orijinal_no": null
+ },
+ {
+  "no": 168,
+  "page": 413,
+  "y": 498,
+  "dup": 1,
+  "seq": 168,
+  "text": "İnsülin bazal bolus ve pompa tedavisi nasıl verilir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 414,
+   "y": 315
+  },
+  "segments": [
+   {
+    "page": 413,
+    "y0": 494.1,
+    "y1": 534.5
+   },
+   {
+    "page": 414,
+    "y0": 0.0,
+    "y1": 311.1
+   }
+  ],
+  "pages": [
+   413,
+   414
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-168",
+  "orijinal_no": null
+ },
+ {
+  "no": 169,
+  "page": 414,
+  "y": 315,
+  "dup": 1,
+  "seq": 169,
+  "text": "Ameliyata girecek hastaya insülin nasıl verilir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 414,
+   "y": 360
+  },
+  "segments": [
+   {
+    "page": 414,
+    "y0": 311.1,
+    "y1": 356.1
+   }
+  ],
+  "pages": [
+   414,
+   414
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-169",
+  "orijinal_no": null
+ },
+ {
+  "no": 170,
+  "page": 414,
+  "y": 360,
+  "dup": 1,
+  "seq": 170,
+  "text": "Obezitede sık görülen kanserler:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 414,
+   "y": 434
+  },
+  "segments": [
+   {
+    "page": 414,
+    "y0": 356.1,
+    "y1": 430.1
+   }
+  ],
+  "pages": [
+   414,
+   414
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-170",
+  "orijinal_no": null
+ },
+ {
+  "no": 171,
+  "page": 414,
+  "y": 434,
+  "dup": 1,
+  "seq": 171,
+  "text": "Tiroid kanserinde kötü prognoz kriterleri ve palpasyonda kötü prognoz:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 415,
+   "y": 50.4
+  },
+  "segments": [
+   {
+    "page": 414,
+    "y0": 430.1,
+    "y1": 534.5
+   },
+   {
+    "page": 415,
+    "y0": 0.0,
+    "y1": 46.5
+   }
+  ],
+  "pages": [
+   414,
+   415
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-171",
+  "orijinal_no": null
+ },
+ {
+  "no": 172,
+  "page": 415,
+  "y": 50.4,
+  "dup": 1,
+  "seq": 172,
+  "text": "Prolaktinoma kliniği ve tedavisi:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 415,
+   "y": 297
+  },
+  "segments": [
+   {
+    "page": 415,
+    "y0": 46.5,
+    "y1": 293.1
+   }
+  ],
+  "pages": [
+   415,
+   415
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-172",
+  "orijinal_no": null
+ },
+ {
+  "no": 173,
+  "page": 415,
+  "y": 297,
+  "dup": 1,
+  "seq": 173,
+  "text": "Subakut tirotoksikoz tedavisi nasıldır:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 415,
+   "y": 341
+  },
+  "segments": [
+   {
+    "page": 415,
+    "y0": 293.1,
+    "y1": 337.1
+   }
+  ],
+  "pages": [
+   415,
+   415
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-173",
+  "orijinal_no": null
+ },
+ {
+  "no": 174,
+  "page": 415,
+  "y": 341,
+  "dup": 1,
+  "seq": 174,
+  "text": "Polikistik over tanı semptom, tedavi, PKOS hastaya",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 417,
+   "y": 110
+  },
+  "segments": [
+   {
+    "page": 415,
+    "y0": 337.1,
+    "y1": 534.5
+   },
+   {
+    "page": 416,
+    "y0": 0.0,
+    "y1": 534.5
+   },
+   {
+    "page": 417,
+    "y0": 0.0,
+    "y1": 106.1
+   }
+  ],
+  "pages": [
+   415,
+   417
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-174",
+  "orijinal_no": null
+ },
+ {
+  "no": 175,
+  "page": 417,
+  "y": 110,
+  "dup": 1,
+  "seq": 175,
+  "text": "Kolesterolü düşüren ilaçlar nelerdir",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 417,
+   "y": 154
+  },
+  "segments": [
+   {
+    "page": 417,
+    "y0": 106.1,
+    "y1": 150.1
+   }
+  ],
+  "pages": [
+   417,
+   417
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-175",
+  "orijinal_no": null
+ },
+ {
+  "no": 176,
+  "page": 417,
+  "y": 154,
+  "dup": 1,
+  "seq": 176,
+  "text": "Tiroidektomi endikasyonları:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 417,
+   "y": 214
+  },
+  "segments": [
+   {
+    "page": 417,
+    "y0": 150.1,
+    "y1": 210.1
+   }
+  ],
+  "pages": [
+   417,
+   417
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-176",
+  "orijinal_no": null
+ },
+ {
+  "no": 177,
+  "page": 417,
+  "y": 214,
+  "dup": 1,
+  "seq": 177,
+  "text": "Glukokortikoidlerin hiperglisemi yapma mekanizmaları:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 417,
+   "y": 258
+  },
+  "segments": [
+   {
+    "page": 417,
+    "y0": 210.1,
+    "y1": 254.1
+   }
+  ],
+  "pages": [
+   417,
+   417
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-177",
+  "orijinal_no": null
+ },
+ {
+  "no": 178,
+  "page": 417,
+  "y": 258,
+  "dup": 1,
+  "seq": 178,
+  "text": "Diyabette nefropati bulguları: Proteinüri, Ht, GFR azalır,",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 417,
+   "y": 288
+  },
+  "segments": [
+   {
+    "page": 417,
+    "y0": 254.1,
+    "y1": 284.1
+   }
+  ],
+  "pages": [
+   417,
+   417
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-178",
+  "orijinal_no": null
+ },
+ {
+  "no": 179,
+  "page": 417,
+  "y": 288,
+  "dup": 1,
+  "seq": 179,
+  "text": "Panhipopituitarizm tedavisi: Kitle varsa cerrahi ya da",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 417,
+   "y": 332
+  },
+  "segments": [
+   {
+    "page": 417,
+    "y0": 284.1,
+    "y1": 328.1
+   }
+  ],
+  "pages": [
+   417,
+   417
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-179",
+  "orijinal_no": null
+ },
+ {
+  "no": 180,
+  "page": 417,
+  "y": 332,
+  "dup": 1,
+  "seq": 180,
+  "text": "Pankreatektomi yapılan hastada dm tedavisi nasıl olur?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 417,
+   "y": 377
+  },
+  "segments": [
+   {
+    "page": 417,
+    "y0": 328.1,
+    "y1": 373.1
+   }
+  ],
+  "pages": [
+   417,
+   417
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-180",
+  "orijinal_no": null
+ },
+ {
+  "no": 181,
+  "page": 417,
+  "y": 377,
+  "dup": 1,
+  "seq": 181,
+  "text": "İyot uptake’ine göre tirotoksikoz sınıflaması:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 417,
+   "y": 436
+  },
+  "segments": [
+   {
+    "page": 417,
+    "y0": 373.1,
+    "y1": 432.1
+   }
+  ],
+  "pages": [
+   417,
+   417
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-181",
+  "orijinal_no": null
+ },
+ {
+  "no": 182,
+  "page": 417,
+  "y": 436,
+  "dup": 1,
+  "seq": 182,
+  "text": "Subakut tiroidit klinik bulguları ağrı nasıl bir ağrıdır:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 417,
+   "y": 495
+  },
+  "segments": [
+   {
+    "page": 417,
+    "y0": 432.1,
+    "y1": 491.1
+   }
+  ],
+  "pages": [
+   417,
+   417
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-182",
+  "orijinal_no": null
+ },
+ {
+  "no": 183,
+  "page": 417,
+  "y": 495,
+  "dup": 1,
+  "seq": 183,
+  "text": "Diyabetik nöropatik komplikasyon sorulmuş tedavide ne",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 418,
+   "y": 50
+  },
+  "segments": [
+   {
+    "page": 417,
+    "y0": 491.1,
+    "y1": 534.5
+   },
+   {
+    "page": 418,
+    "y0": 0.0,
+    "y1": 46.1
+   }
+  ],
+  "pages": [
+   417,
+   418
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-183",
+  "orijinal_no": null
+ },
+ {
+  "no": 184,
+  "page": 418,
+  "y": 50,
+  "dup": 1,
+  "seq": 184,
+  "text": "Gebede prolaktinoma takibi nasıl yapılır nasıl anlarız?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 418,
+   "y": 95
+  },
+  "segments": [
+   {
+    "page": 418,
+    "y0": 46.1,
+    "y1": 91.1
+   }
+  ],
+  "pages": [
+   418,
+   418
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-184",
+  "orijinal_no": null
+ },
+ {
+  "no": 185,
+  "page": 418,
+  "y": 95,
+  "dup": 1,
+  "seq": 185,
+  "text": "Boynunda büyümüş bir kitle ile gelen hastaya ne yaparsın FM, ayırıcı tanılar vs:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 418,
+   "y": 154
+  },
+  "segments": [
+   {
+    "page": 418,
+    "y0": 91.1,
+    "y1": 150.1
+   }
+  ],
+  "pages": [
+   418,
+   418
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-185",
+  "orijinal_no": null
+ },
+ {
+  "no": 186,
+  "page": 418,
+  "y": 154,
+  "dup": 1,
+  "seq": 186,
+  "text": "Psödocushing sebepleri, poliüri ve polidipsi demek için sınırlar: • Cushing Sendromu’nun bazı klinik özellikleri ile birlikte olanlar",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 418,
+   "y": 417
+  },
+  "segments": [
+   {
+    "page": 418,
+    "y0": 150.1,
+    "y1": 413.1
+   }
+  ],
+  "pages": [
+   418,
+   418
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-186",
+  "orijinal_no": null
+ },
+ {
+  "no": 187,
+  "page": 418,
+  "y": 417,
+  "dup": 1,
+  "seq": 187,
+  "text": "Diyabet yapan endokrin sebepler (üstte cevabı var)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 418,
+   "y": 446
+  },
+  "segments": [
+   {
+    "page": 418,
+    "y0": 413.1,
+    "y1": 442.1
+   }
+  ],
+  "pages": [
+   418,
+   418
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-187",
+  "orijinal_no": null
+ },
+ {
+  "no": 188,
+  "page": 418,
+  "y": 446,
+  "dup": 1,
+  "seq": 188,
+  "text": "riedel tiroidi nedir diye söylüyor( invaziv tahta gibi sert tiroid, hemoptizi ses kısıklığı vs yapabilir) Hastamın tiroid tanısını aldığında ne dememiz gerektiğini sordu( olsun tiroid herkeste var rahat olunu söylememizi bekliyor)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 418,
+   "y": 535.0
+  },
+  "segments": [
+   {
+    "page": 418,
+    "y0": 442.1,
+    "y1": 531.1
+   }
+  ],
+  "pages": [
+   418,
+   418
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Endokrinoloji",
+  "id": "E-188",
+  "orijinal_no": null
  }
 ]

@@ -6,7 +6,7 @@ import sys, json, pathlib, pymupdf
 root = pathlib.Path(__file__).resolve().parent.parent
 P = root/'data/bolgeler.json'; H = 866.7
 spec = json.loads(pathlib.Path(sys.argv[1]).read_text(encoding='utf-8'))
-son = (spec[-1]['page'], H)
+son = (spec[-1]['page'], round(pymupdf.open(root/'kaynak.pdf')[spec[-1]['page']-1].rect.height, 1) if spec[-1]['page'] >= 368 else H)
 if '--son' in sys.argv: i = sys.argv.index('--son'); son = (int(sys.argv[i+1]), float(sys.argv[i+2]))
 E = json.loads(P.read_text(encoding='utf-8')); doc = pymupdf.open(root/'kaynak.pdf')
 konu = {'N': 'Nefroloji', 'G': 'Gastroenteroloji', 'R': 'Romatoloji', 'H': 'Hematoloji', 'E': 'Endokrinoloji', 'O': 'Onkoloji', 'I': 'İmmünoloji-Alerji'}
@@ -37,7 +37,7 @@ for k, s in enumerate(spec):
     segs = []
     for pg in range(p0, p1+1):
         a = max(y0-3.9, 0) if pg == p0 else 0.0
-        b = max(y1-3.9, a) if pg == p1 else H
+        b = max(y1-3.9, a) if pg == p1 else round(doc[pg-1].rect.height, 1) if doc[pg-1].rect.height < 860 and pg >= 368 else H
         if pg == p1 and p1 > p0 and y1 <= 5: continue
         segs.append({'page': pg, 'y0': round(a, 1), 'y1': round(b, 1)})
     pre = s['id'].split('-')[0]; no = int(''.join(c for c in s['id'].split('-')[1] if c.isdigit()))
