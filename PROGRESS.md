@@ -136,3 +136,6 @@ Bu kural N-46'dan itibaren okurken baştan uygulanır.
 - ÖNEMLİ: Tüm H okumaları bittikten SONRA `python tools/renumber.py H` çalıştırılmalı (H-9001/H-9002 sıraya girip id'ler kayacak, dosyalar yeniden adlanır; dosya içi id güncellenir). Ondan önce yeni H-id eklemeyin; "orijinal_no" alanı bolgeler.json'da korunur.
 - Yöntem: tools/textlayer.py H-n → tmp/tl_H-n.txt + tmp/ty_H-n.json (y'li paragraflar); görseller tools/tile.py ile okunup tmp/h3.py içindeki DI(rid,[(sayfa,y,metin)]) ile y sırasına göre daktilo paragraflara karıştırılır; w() ile yazılır.
 - Sonra: Endokrin (E-, s345–418), Onkoloji (O-, 419–428), İmmünoloji (I-, 429–433); en sonda PROGRESS.md başına özet.
+
+## Emin olunamayan yerler dosyası
+- `data/emin_degil.md`: tüm `[?]` / `[OKUNAMADI]` yerleri id+sayfa+bağlamla listeler (kullanıcı sonra kontrol edecek). Her grup sonunda `python tools/belirsiz.py` ile yeniden üretilecek ve commit'lenecek. Tahmin yürütülen/emin olunamayan el yazısı okumaları her zaman `[?]` ile işaretlenir.
