@@ -21757,5 +21757,195 @@
   "konu": "Endokrinoloji",
   "id": "E-188",
   "orijinal_no": null
+ },
+ {
+  "no": 1,
+  "page": 419,
+  "y": 12,
+  "dup": 1,
+  "seq": 1,
+  "text": "KANSERDEN KORUNMA VE ERKEN TANI",
+  "text_src": "E",
+  "hoca": "—",
+  "end": {
+   "page": 421,
+   "y": 238
+  },
+  "segments": [
+   {
+    "page": 419,
+    "y0": 8.1,
+    "y1": 588.5
+   },
+   {
+    "page": 420,
+    "y0": 0.0,
+    "y1": 588.5
+   },
+   {
+    "page": 421,
+    "y0": 0.0,
+    "y1": 234.1
+   }
+  ],
+  "pages": [
+   419,
+   421
+  ],
+  "start_src": "EL YAZISI",
+  "konu": "Onkoloji",
+  "id": "O-1",
+  "orijinal_no": null
+ },
+ {
+  "no": 2,
+  "page": 421,
+  "y": 238,
+  "dup": 1,
+  "seq": 2,
+  "text": "KANSERDE TEDAVİ PRENSİPLERİ",
+  "text_src": "E",
+  "hoca": "—",
+  "end": {
+   "page": 422,
+   "y": 12
+  },
+  "segments": [
+   {
+    "page": 421,
+    "y0": 234.1,
+    "y1": 588.5
+   },
+   {
+    "page": 422,
+    "y0": 0.0,
+    "y1": 8.1
+   }
+  ],
+  "pages": [
+   421,
+   422
+  ],
+  "start_src": "EL YAZISI",
+  "konu": "Onkoloji",
+  "id": "O-2",
+  "orijinal_no": null
+ },
+ {
+  "no": 3,
+  "page": 422,
+  "y": 12,
+  "dup": 1,
+  "seq": 3,
+  "text": "ONKOLOJİK ACİLLER",
+  "text_src": "E",
+  "hoca": "—",
+  "end": {
+   "page": 425,
+   "y": 12
+  },
+  "segments": [
+   {
+    "page": 422,
+    "y0": 8.1,
+    "y1": 588.5
+   },
+   {
+    "page": 423,
+    "y0": 0.0,
+    "y1": 588.5
+   },
+   {
+    "page": 424,
+    "y0": 0.0,
+    "y1": 588.5
+   },
+   {
+    "page": 425,
+    "y0": 0.0,
+    "y1": 8.1
+   }
+  ],
+  "pages": [
+   422,
+   425
+  ],
+  "start_src": "EL YAZISI",
+  "konu": "Onkoloji",
+  "id": "O-3",
+  "orijinal_no": null
+ },
+ {
+  "no": 4,
+  "page": 425,
+  "y": 12,
+  "dup": 1,
+  "seq": 4,
+  "text": "FİLİZ HOCA – ERKEN EVRE / METASTATİK EVRE",
+  "text_src": "E",
+  "hoca": "Filiz",
+  "end": {
+   "page": 427,
+   "y": 12
+  },
+  "segments": [
+   {
+    "page": 425,
+    "y0": 8.1,
+    "y1": 588.5
+   },
+   {
+    "page": 426,
+    "y0": 0.0,
+    "y1": 588.5
+   },
+   {
+    "page": 427,
+    "y0": 0.0,
+    "y1": 8.1
+   }
+  ],
+  "pages": [
+   425,
+   427
+  ],
+  "start_src": "EL YAZISI",
+  "konu": "Onkoloji",
+  "id": "O-4",
+  "orijinal_no": null
+ },
+ {
+  "no": 5,
+  "page": 427,
+  "y": 12,
+  "dup": 1,
+  "seq": 5,
+  "text": "METASTATİK HASTA",
+  "text_src": "E",
+  "hoca": "Filiz",
+  "end": {
+   "page": 428,
+   "y": 588.0
+  },
+  "segments": [
+   {
+    "page": 427,
+    "y0": 8.1,
+    "y1": 588.5
+   },
+   {
+    "page": 428,
+    "y0": 0.0,
+    "y1": 584.1
+   }
+  ],
+  "pages": [
+   427,
+   428
+  ],
+  "start_src": "EL YAZISI",
+  "konu": "Onkoloji",
+  "id": "O-5",
+  "orijinal_no": null
  }
 ]
