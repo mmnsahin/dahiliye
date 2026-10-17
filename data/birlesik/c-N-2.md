@@ -1,7 +1,7 @@
 ### Acil endikasyonlar
-- Perikardit / plörit (acil) [A, E] [B, D·el yazısı]
-- Ensefalopati / nöropati / asteriksis / nöbet (acil) [E] [B, D·el yazısı]. [A] yalnızca “ensefalopati”yi sayıyor.
-- Ciddi kanama diyatezi (acil) [E] [B, D·el yazısı]
+- Perikardit / plörit (acil) [A, E] [B] [D·el yazısı]
+- Ensefalopati / nöropati / asteriksis / nöbet (acil) [E] [B] [D·el yazısı]. [A] yalnızca “ensefalopati”yi sayıyor.
+- Ciddi kanama diyatezi (acil) [E] [B] [D·el yazısı]
 
 ### Diğer endikasyonlar
 - Son dönem böbrek yetmezliği, GFH < 8 [A]
