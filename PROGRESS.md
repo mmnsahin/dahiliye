@@ -122,3 +122,9 @@ Bu kural N-46'dan itibaren okurken baştan uygulanır.
 - belirsiz sınır: G-103 (s.155 "18)" ile s.156 "İrfan' Hoca" arası), G-105/G-106/G-107 (s.156–160 aynı sorular ikinci öğrenci listesinde tekrar: G-104=G-96 benzeri, G-105=G-97, G-106=G-98, G-107=G-99 kopya); G-108 (s.161 y82: "Gastrodan da ülseratif kolit kliniği" + devamı s.162 y81'e taşan soru, tek kayıt); G-113/G-114/G-115 (s.167: "Hasan hocadan 2 soru" altındaki üç akalazya sorusu ayrı kayıt, cevabı G-116'daki akalazya metni → G-113..G-115 (cevap yok)); G-126 (cevap yok; cevap G-128'de) ; G-143 (disfaji; slayt metni taranmış).
 - Kopya numaralar: orijinal_no 9..13 (G-95..G-99) ve 15..18 (G-100..G-103) ilk listede; s.156'dan itibaren aynı soruların ikinci kopyası (numarasız). Okunuş bağımsız yapıldı.
 - G-12 sonrası kalite kontrol: G-96 (PSK/PBK tablosu, s.142) ve G-119 (malabsorbsiyon tabloları) görselle karşılaştırıldı; fark yok. Gastro toplam [?]=50, [OKUNAMADI]=5.
+
+## Romatoloji bitti (R-1..R-128; s.197–275)
+- 128 kayıt (bölge başlangıçları: numaralı "N)" daktilo satırları + koyu mavi/mor soru satırları, tools/qstart.py; R-21'in içindeki "100 üstü CRP" sorusu ayrı kayıt olarak eklenip tools/renumber.py ile id'ler yeniden numaralandı).
+- Kâğıt/dijital el yazısı: s.260–273 (öğrencinin dijital el yazısı notları, ekran görüntüleri) 110–230 dpi parçalarla okundu; s.28–31 tarzı ok/parantez yapıları ağaç olarak yazıldı. Slayt/ekran görüntüleri [SLAYT], dijital el yazısı [EL YAZISI].
+- belirsiz sınır: R-1..R-19 numaralı liste (15. numara kaynakta yok); R-20/R-21 (s.202); R-110..R-120 (s.264–273 dijital not sayfaları: soru satırları üstte, cevap notları altında, cevap-kayma olasılığı); R-113 (s.267 "Akut eklem romatizması" sorusunun cevabı s.267'de slayt parçaları); R-122/R-123 (cevap yok: "yukarıda anlattım").
+- Toplam [?] (Romatoloji) = ~70, [OKUNAMADI] = 1.
