@@ -9797,5 +9797,4107 @@
   "konu": "Gastroenteroloji",
   "id": "G-147",
   "orijinal_no": null
+ },
+ {
+  "no": 1,
+  "page": 197,
+  "y": 62.4,
+  "dup": 1,
+  "seq": 1,
+  "text": "1) Akut Romatizmal Ateş için laboratuar ve ek hangi tetkikleri istersin?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 197,
+   "y": 108.7
+  },
+  "segments": [
+   {
+    "page": 197,
+    "y0": 58.5,
+    "y1": 104.8
+   }
+  ],
+  "pages": [
+   197,
+   197
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-1",
+  "orijinal_no": "1"
+ },
+ {
+  "no": 2,
+  "page": 197,
+  "y": 108.7,
+  "dup": 1,
+  "seq": 2,
+  "text": "2) Alerjik Rinite .sebep olan mediatörleri sordu?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 197,
+   "y": 155.0
+  },
+  "segments": [
+   {
+    "page": 197,
+    "y0": 104.8,
+    "y1": 151.1
+   }
+  ],
+  "pages": [
+   197,
+   197
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-2",
+  "orijinal_no": "2"
+ },
+ {
+  "no": 3,
+  "page": 197,
+  "y": 155.0,
+  "dup": 1,
+  "seq": 3,
+  "text": "3) Akut monoartrit yapan hastalıklar, otoinflamatuvar hastalıkların ortak özellikleri?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 197,
+   "y": 354.9
+  },
+  "segments": [
+   {
+    "page": 197,
+    "y0": 151.1,
+    "y1": 351.0
+   }
+  ],
+  "pages": [
+   197,
+   197
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-3",
+  "orijinal_no": "3"
+ },
+ {
+  "no": 4,
+  "page": 197,
+  "y": 354.9,
+  "dup": 1,
+  "seq": 4,
+  "text": "4) Romatolojiden romatizmal hastalığı olduğu bilinen biri pansitopeniyle geliyor hangi hastalık olabilir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 197,
+   "y": 447.4
+  },
+  "segments": [
+   {
+    "page": 197,
+    "y0": 351.0,
+    "y1": 443.5
+   }
+  ],
+  "pages": [
+   197,
+   197
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-4",
+  "orijinal_no": "4"
+ },
+ {
+  "no": 5,
+  "page": 197,
+  "y": 447.4,
+  "dup": 1,
+  "seq": 5,
+  "text": "5) Anca pozitif vaskülitleri say",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 197,
+   "y": 539.9
+  },
+  "segments": [
+   {
+    "page": 197,
+    "y0": 443.5,
+    "y1": 536.0
+   }
+  ],
+  "pages": [
+   197,
+   197
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-5",
+  "orijinal_no": "5"
+ },
+ {
+  "no": 6,
+  "page": 197,
+  "y": 539.9,
+  "dup": 1,
+  "seq": 6,
+  "text": "6) Lupustaki antikorları say",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 197,
+   "y": 724.9
+  },
+  "segments": [
+   {
+    "page": 197,
+    "y0": 536.0,
+    "y1": 721.0
+   }
+  ],
+  "pages": [
+   197,
+   197
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-6",
+  "orijinal_no": "6"
+ },
+ {
+  "no": 7,
+  "page": 197,
+  "y": 724.9,
+  "dup": 1,
+  "seq": 7,
+  "text": "7) Ra özellikleri?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 198,
+   "y": 39.4
+  },
+  "segments": [
+   {
+    "page": 197,
+    "y0": 721.0,
+    "y1": 866.7
+   },
+   {
+    "page": 198,
+    "y0": 0.0,
+    "y1": 35.5
+   }
+  ],
+  "pages": [
+   197,
+   198
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-7",
+  "orijinal_no": "7"
+ },
+ {
+  "no": 8,
+  "page": 198,
+  "y": 39.4,
+  "dup": 1,
+  "seq": 8,
+  "text": "8) Lupus nefrit evreleri ve özellikleri?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 198,
+   "y": 308.6
+  },
+  "segments": [
+   {
+    "page": 198,
+    "y0": 35.5,
+    "y1": 304.7
+   }
+  ],
+  "pages": [
+   198,
+   198
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-8",
+  "orijinal_no": "8"
+ },
+ {
+  "no": 9,
+  "page": 198,
+  "y": 308.6,
+  "dup": 1,
+  "seq": 9,
+  "text": "9) Romatoid artritte eklem tutulumu nasıl olur eklem deformitelerine nasıl bakarsın, tedavisi nasıl olur diye sordu?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 198,
+   "y": 416.0
+  },
+  "segments": [
+   {
+    "page": 198,
+    "y0": 304.7,
+    "y1": 412.1
+   }
+  ],
+  "pages": [
+   198,
+   198
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-9",
+  "orijinal_no": "9"
+ },
+ {
+  "no": 10,
+  "page": 198,
+  "y": 416.0,
+  "dup": 1,
+  "seq": 10,
+  "text": "10) Behçet hastalığı tanısını nasıl koyarız, tedavisinde hangi ilaç diye sordu?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 198,
+   "y": 625.9
+  },
+  "segments": [
+   {
+    "page": 198,
+    "y0": 412.1,
+    "y1": 622.0
+   }
+  ],
+  "pages": [
+   198,
+   198
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-10",
+  "orijinal_no": "10"
+ },
+ {
+  "no": 11,
+  "page": 198,
+  "y": 625.9,
+  "dup": 1,
+  "seq": 11,
+  "text": "11) Glomerülonefritlerden pauici immün olanları sordu?(ANCA +)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 198,
+   "y": 672.1
+  },
+  "segments": [
+   {
+    "page": 198,
+    "y0": 622.0,
+    "y1": 668.2
+   }
+  ],
+  "pages": [
+   198,
+   198
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-11",
+  "orijinal_no": "11"
+ },
+ {
+  "no": 12,
+  "page": 198,
+  "y": 672.1,
+  "dup": 1,
+  "seq": 12,
+  "text": "12) Şule hocaya geçtik. Kağıttan immünoloji sormaya başladı bir hastada immün yetmezlik",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 199,
+   "y": 316.9
+  },
+  "segments": [
+   {
+    "page": 198,
+    "y0": 668.2,
+    "y1": 866.7
+   },
+   {
+    "page": 199,
+    "y0": 0.0,
+    "y1": 313.0
+   }
+  ],
+  "pages": [
+   198,
+   199
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-12",
+  "orijinal_no": "12"
+ },
+ {
+  "no": 13,
+  "page": 199,
+  "y": 316.9,
+  "dup": 1,
+  "seq": 13,
+  "text": "13) Sistemik skleroz ve sle organ tutulumlar! neler?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 199,
+   "y": 528.6
+  },
+  "segments": [
+   {
+    "page": 199,
+    "y0": 313.0,
+    "y1": 524.7
+   }
+  ],
+  "pages": [
+   199,
+   199
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-13",
+  "orijinal_no": "13"
+ },
+ {
+  "no": 14,
+  "page": 199,
+  "y": 528.6,
+  "dup": 1,
+  "seq": 14,
+  "text": "14) Aşkın hoca: bildiğin otoinflamatuar hastalıkları say.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 200,
+   "y": 39.4
+  },
+  "segments": [
+   {
+    "page": 199,
+    "y0": 524.7,
+    "y1": 866.7
+   },
+   {
+    "page": 200,
+    "y0": 0.0,
+    "y1": 35.5
+   }
+  ],
+  "pages": [
+   199,
+   200
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-14",
+  "orijinal_no": "14"
+ },
+ {
+  "no": 15,
+  "page": 200,
+  "y": 39.4,
+  "dup": 1,
+  "seq": 15,
+  "text": "16) Febril nötropeni sordu. Ateşi olmayan birine febril nötropeni olmuş diyebilir miyiz? Diyebiliyormuşuz. İmmun supreselerde veya yaşlılarda ateş yükselmeyebiliyor",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 200,
+   "y": 77.4
+  },
+  "segments": [
+   {
+    "page": 200,
+    "y0": 35.5,
+    "y1": 73.5
+   }
+  ],
+  "pages": [
+   200,
+   200
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-15",
+  "orijinal_no": "16"
+ },
+ {
+  "no": 16,
+  "page": 200,
+  "y": 77.4,
+  "dup": 1,
+  "seq": 16,
+  "text": "17) Sonra aşkın hoca nedeni bilinmeyen ateşin sebeplerini sordu ve tüm vaskülitleri anlattırdı sınıflamasından özelliklerine kadar. ANCA’nın açılımını istedi ANCA’nIn özelliklerini sordu işte hangisi p-anca hangisi c- anca diye.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 200,
+   "y": 161.6
+  },
+  "segments": [
+   {
+    "page": 200,
+    "y0": 73.5,
+    "y1": 157.7
+   }
+  ],
+  "pages": [
+   200,
+   200
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-16",
+  "orijinal_no": "17"
+ },
+ {
+  "no": 17,
+  "page": 200,
+  "y": 161.6,
+  "dup": 1,
+  "seq": 17,
+  "text": "18) Önce Aşkm hoca spondilartritlerin her şeyini genel anlamıyla sordu. Hangi hastalıklar var? Hangi şikayetlerle gelirler? Gezici gluteal ağrı neden olur? (Sakroileit olduğu için) Entezit, daktilit nedir? Enteropatik artritte ne görülür? (Ülseratifkolit, eroini) Şehsuvar hoca devam etti. İnflamatuar bel ağrısı olan.hastada nefrotik sendrom var ne düşünürsün? Sekonder amiloidoz. Sek. amiloidoz yapan diğer nedenler?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 200,
+   "y": 414.4
+  },
+  "segments": [
+   {
+    "page": 200,
+    "y0": 157.7,
+    "y1": 410.5
+   }
+  ],
+  "pages": [
+   200,
+   200
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-17",
+  "orijinal_no": "18"
+ },
+ {
+  "no": 18,
+  "page": 200,
+  "y": 414.4,
+  "dup": 1,
+  "seq": 18,
+  "text": "19) Gülay hoca benden önceki arkadaşıma nelere çalıştın diye sorup söylediği yerlerden soru sormuş ille girdim bana da nerelere çalıştın dedi hocam daha çok lupus ve romatoid artrit çalıştım dedim onları sorsun diye iyi o zaman Akut Romatizmal Ateşi baştan sona anlat dedi :D e campüsteki videoyu önceki gün izlememiş olsaydım bitiktim.Pratiklerde hiç değinilmemişti bile ama Gülay hoca ARA sormayı seviyor önceki çıkmışlar da öyle",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 201,
+   "y": 76.1
+  },
+  "segments": [
+   {
+    "page": 200,
+    "y0": 410.5,
+    "y1": 866.7
+   },
+   {
+    "page": 201,
+    "y0": 0.0,
+    "y1": 72.2
+   }
+  ],
+  "pages": [
+   200,
+   201
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-18",
+  "orijinal_no": "19"
+ },
+ {
+  "no": 19,
+  "page": 201,
+  "y": 76.1,
+  "dup": 1,
+  "seq": 19,
+  "text": "Aşkın hoca,",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 202,
+   "y": 76.1
+  },
+  "segments": [
+   {
+    "page": 201,
+    "y0": 72.2,
+    "y1": 866.7
+   },
+   {
+    "page": 202,
+    "y0": 0.0,
+    "y1": 72.2
+   }
+  ],
+  "pages": [
+   201,
+   202
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-19",
+  "orijinal_no": null
+ },
+ {
+  "no": 20,
+  "page": 202,
+  "y": 76.1,
+  "dup": 1,
+  "seq": 20,
+  "text": "Hücresel immün yetmezlikler nedir? Ppd testi - gelirse neye yorumlarsın?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 202,
+   "y": 238
+  },
+  "segments": [
+   {
+    "page": 202,
+    "y0": 72.2,
+    "y1": 234.1
+   }
+  ],
+  "pages": [
+   202,
+   202
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-20",
+  "orijinal_no": null
+ },
+ {
+  "no": 21,
+  "page": 202,
+  "y": 238,
+  "dup": 1,
+  "seq": 21,
+  "text": "Romatoloji:: Sjögren nedir? Sistemik tedavisinde neler kullanılır?Hidroksiklorokin in en önemli",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 202,
+   "y": 634
+  },
+  "segments": [
+   {
+    "page": 202,
+    "y0": 234.1,
+    "y1": 630.1
+   }
+  ],
+  "pages": [
+   202,
+   202
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-21",
+  "orijinal_no": null
+ },
+ {
+  "no": 22,
+  "page": 202,
+  "y": 722.7,
+  "dup": 1,
+  "seq": 22,
+  "text": "Murat Turgay hoca polimiyozit tedavisi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 203,
+   "y": 99.3
+  },
+  "segments": [
+   {
+    "page": 202,
+    "y0": 718.8,
+    "y1": 866.7
+   },
+   {
+    "page": 203,
+    "y0": 0.0,
+    "y1": 95.4
+   }
+  ],
+  "pages": [
+   202,
+   203
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-22",
+  "orijinal_no": null
+ },
+ {
+  "no": 23,
+  "page": 203,
+  "y": 99.3,
+  "dup": 1,
+  "seq": 23,
+  "text": "murat hoca da romatoid artritte hangi ilaçlar kullanılır bi de kortizon kullanan hasta sana",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 203,
+   "y": 426
+  },
+  "segments": [
+   {
+    "page": 203,
+    "y0": 95.4,
+    "y1": 422.1
+   }
+  ],
+  "pages": [
+   203,
+   203
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-23",
+  "orijinal_no": null
+ },
+ {
+  "no": 24,
+  "page": 203,
+  "y": 426,
+  "dup": 1,
+  "seq": 24,
+  "text": "Murat Turgay",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 203,
+   "y": 703.7
+  },
+  "segments": [
+   {
+    "page": 203,
+    "y0": 422.1,
+    "y1": 699.8
+   }
+  ],
+  "pages": [
+   203,
+   203
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-24",
+  "orijinal_no": null
+ },
+ {
+  "no": 25,
+  "page": 203,
+  "y": 703.7,
+  "dup": 1,
+  "seq": 25,
+  "text": "İlhan hoca-önce romatodan rastgele soru sordu. Pansitopeni yapan romatolojik hastalıklar",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 205,
+   "y": 192
+  },
+  "segments": [
+   {
+    "page": 203,
+    "y0": 699.8,
+    "y1": 866.7
+   },
+   {
+    "page": 204,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 205,
+    "y0": 0.0,
+    "y1": 188.1
+   }
+  ],
+  "pages": [
+   203,
+   205
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-25",
+  "orijinal_no": null
+ },
+ {
+  "no": 26,
+  "page": 205,
+  "y": 192,
+  "dup": 1,
+  "seq": 26,
+  "text": "Eroziv artritlere 2 örnek ver Purpura ile giden romatolojik bir şey söyle Henoch-Schönlein Purpurası .",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 205,
+   "y": 322
+  },
+  "segments": [
+   {
+    "page": 205,
+    "y0": 188.1,
+    "y1": 318.1
+   }
+  ],
+  "pages": [
+   205,
+   205
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-26",
+  "orijinal_no": null
+ },
+ {
+  "no": 27,
+  "page": 205,
+  "y": 322,
+  "dup": 1,
+  "seq": 27,
+  "text": "Lupus nefriti patolojisi ve tedavisi, komplemanları. Lupus hematoloji bulgularindan otoimmun",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 205,
+   "y": 705
+  },
+  "segments": [
+   {
+    "page": 205,
+    "y0": 318.1,
+    "y1": 701.1
+   }
+  ],
+  "pages": [
+   205,
+   205
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-27",
+  "orijinal_no": null
+ },
+ {
+  "no": 28,
+  "page": 205,
+  "y": 705,
+  "dup": 1,
+  "seq": 28,
+  "text": "Vaskülitlerin sınıflandırması. Tüm damarları tutan vaskülit çeşidi. Büyük damar vaskülitleri. Ürtiker tanımı, akut kronik ayrımı, tedavisi, vaskülitlerden farkı.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 206,
+   "y": 308.3
+  },
+  "segments": [
+   {
+    "page": 205,
+    "y0": 701.1,
+    "y1": 866.7
+   },
+   {
+    "page": 206,
+    "y0": 0.0,
+    "y1": 304.4
+   }
+  ],
+  "pages": [
+   205,
+   206
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-28",
+  "orijinal_no": null
+ },
+ {
+  "no": 29,
+  "page": 206,
+  "y": 308.3,
+  "dup": 1,
+  "seq": 29,
+  "text": "Göksal keskin: Alerjik rinit 5 bulgusu. Sle nedir kliniği tutulumlar! organ tutulumlarının özel isimleri vs",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 207,
+   "y": 145.5
+  },
+  "segments": [
+   {
+    "page": 206,
+    "y0": 304.4,
+    "y1": 866.7
+   },
+   {
+    "page": 207,
+    "y0": 0.0,
+    "y1": 141.6
+   }
+  ],
+  "pages": [
+   206,
+   207
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-29",
+  "orijinal_no": null
+ },
+ {
+  "no": 30,
+  "page": 207,
+  "y": 145.5,
+  "dup": 1,
+  "seq": 30,
+  "text": "Murat Turgay - Sistemik skleroz bağırsağı tutar mı? Tutar. Nasıl tanısını koyarsın? Kolonoskopi,",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 207,
+   "y": 268.7
+  },
+  "segments": [
+   {
+    "page": 207,
+    "y0": 141.6,
+    "y1": 264.8
+   }
+  ],
+  "pages": [
+   207,
+   207
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-30",
+  "orijinal_no": null
+ },
+ {
+  "no": 31,
+  "page": 207,
+  "y": 268.7,
+  "dup": 1,
+  "seq": 31,
+  "text": "Murat Turgay: perikardit nedenleri ( enf ,KDH, falan )",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 207,
+   "y": 315
+  },
+  "segments": [
+   {
+    "page": 207,
+    "y0": 264.8,
+    "y1": 311.1
+   }
+  ],
+  "pages": [
+   207,
+   207
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-31",
+  "orijinal_no": null
+ },
+ {
+  "no": 32,
+  "page": 207,
+  "y": 315,
+  "dup": 1,
+  "seq": 32,
+  "text": "MuratTurgay: Akut romatizmal ateşte kapak tutulumları,sydenham koresi, takayasu arteriti nedirfizik",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 207,
+   "y": 384
+  },
+  "segments": [
+   {
+    "page": 207,
+    "y0": 311.1,
+    "y1": 380.1
+   }
+  ],
+  "pages": [
+   207,
+   207
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-32",
+  "orijinal_no": null
+ },
+ {
+  "no": 33,
+  "page": 207,
+  "y": 384,
+  "dup": 1,
+  "seq": 33,
+  "text": "lupusta yüksek doz ks veriyoruz niye vermiş olabiliriz(acilleri), böbrek,ac,tutulumu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 208,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 207,
+    "y0": 380.1,
+    "y1": 866.7
+   },
+   {
+    "page": 208,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   207,
+   208
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-33",
+  "orijinal_no": null
+ },
+ {
+  "no": 34,
+  "page": 208,
+  "y": 76,
+  "dup": 1,
+  "seq": 34,
+  "text": "romatoid artrit klinik",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 209,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 208,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 209,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   208,
+   209
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-34",
+  "orijinal_no": null
+ },
+ {
+  "no": 35,
+  "page": 209,
+  "y": 76,
+  "dup": 1,
+  "seq": 35,
+  "text": "Hastam kronik idiyopatik ürtikerdi, tedavisini sordu aşama aşama",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 209,
+   "y": 99
+  },
+  "segments": [
+   {
+    "page": 209,
+    "y0": 72.1,
+    "y1": 95.1
+   }
+  ],
+  "pages": [
+   209,
+   209
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-35",
+  "orijinal_no": null
+ },
+ {
+  "no": 36,
+  "page": 209,
+  "y": 99,
+  "dup": 1,
+  "seq": 36,
+  "text": "Stili sordu, immün yetmezlik fm bulgularını sordu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 209,
+   "y": 275
+  },
+  "segments": [
+   {
+    "page": 209,
+    "y0": 95.1,
+    "y1": 271.1
+   }
+  ],
+  "pages": [
+   209,
+   209
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-36",
+  "orijinal_no": null
+ },
+ {
+  "no": 37,
+  "page": 209,
+  "y": 275,
+  "dup": 1,
+  "seq": 37,
+  "text": "İmmun yetmezlikle gelen hastada olabilecek muayene bulgularını sordu.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 209,
+   "y": 298
+  },
+  "segments": [
+   {
+    "page": 209,
+    "y0": 271.1,
+    "y1": 294.1
+   }
+  ],
+  "pages": [
+   209,
+   209
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-37",
+  "orijinal_no": null
+ },
+ {
+  "no": 38,
+  "page": 209,
+  "y": 298,
+  "dup": 1,
+  "seq": 38,
+  "text": "Polimiyalji Romatikayı sordu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 209,
+   "y": 611
+  },
+  "segments": [
+   {
+    "page": 209,
+    "y0": 294.1,
+    "y1": 607.1
+   }
+  ],
+  "pages": [
+   209,
+   209
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-38",
+  "orijinal_no": null
+ },
+ {
+  "no": 39,
+  "page": 209,
+  "y": 611,
+  "dup": 1,
+  "seq": 39,
+  "text": "Göksal hoca immün yetmezlikli hasta sana nasıl başvurur dedi. Sadece enfeksiyon diyebildim 3 dakika",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 211,
+   "y": 77
+  },
+  "segments": [
+   {
+    "page": 209,
+    "y0": 607.1,
+    "y1": 866.7
+   },
+   {
+    "page": 210,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 211,
+    "y0": 0.0,
+    "y1": 73.1
+   }
+  ],
+  "pages": [
+   209,
+   211
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-39",
+  "orijinal_no": null
+ },
+ {
+  "no": 40,
+  "page": 211,
+  "y": 77,
+  "dup": 1,
+  "seq": 40,
+  "text": "» Hastam RA ve KBH hastasıydı. Kenan Keven RA'da böbrek tutulumunu sordu. Hastamın aldığı",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 211,
+   "y": 222
+  },
+  "segments": [
+   {
+    "page": 211,
+    "y0": 73.1,
+    "y1": 218.1
+   }
+  ],
+  "pages": [
+   211,
+   211
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-40",
+  "orijinal_no": null
+ },
+ {
+  "no": 41,
+  "page": 211,
+  "y": 222,
+  "dup": 1,
+  "seq": 41,
+  "text": "6. Akut gut tablosu? En çok tutulan eklemi? Ürik asit kristallerinin tespiti? Tanısı?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 211,
+   "y": 496.3
+  },
+  "segments": [
+   {
+    "page": 211,
+    "y0": 218.1,
+    "y1": 492.4
+   }
+  ],
+  "pages": [
+   211,
+   211
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-41",
+  "orijinal_no": "6"
+ },
+ {
+  "no": 42,
+  "page": 211,
+  "y": 496.3,
+  "dup": 1,
+  "seq": 42,
+  "text": "7. Lupus kliniği? Böbrekteki tutulumda ne yapar?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 212,
+   "y": 433.6
+  },
+  "segments": [
+   {
+    "page": 211,
+    "y0": 492.4,
+    "y1": 866.7
+   },
+   {
+    "page": 212,
+    "y0": 0.0,
+    "y1": 429.7
+   }
+  ],
+  "pages": [
+   211,
+   212
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-42",
+  "orijinal_no": "7"
+ },
+ {
+  "no": 43,
+  "page": 212,
+  "y": 433.6,
+  "dup": 1,
+  "seq": 43,
+  "text": "8. Fotosensitiyite?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 212,
+   "y": 508
+  },
+  "segments": [
+   {
+    "page": 212,
+    "y0": 429.7,
+    "y1": 504.1
+   }
+  ],
+  "pages": [
+   212,
+   212
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-43",
+  "orijinal_no": "8"
+ },
+ {
+  "no": 44,
+  "page": 212,
+  "y": 508,
+  "dup": 1,
+  "seq": 44,
+  "text": "♦ Üveit yapan romatolojik nedenler",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 212,
+   "y": 583
+  },
+  "segments": [
+   {
+    "page": 212,
+    "y0": 504.1,
+    "y1": 579.1
+   }
+  ],
+  "pages": [
+   212,
+   212
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-44",
+  "orijinal_no": null
+ },
+ {
+  "no": 45,
+  "page": 212,
+  "y": 583,
+  "dup": 1,
+  "seq": 45,
+  "text": "♦ Ankilozan spondilit her şey",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 214,
+   "y": 149
+  },
+  "segments": [
+   {
+    "page": 212,
+    "y0": 579.1,
+    "y1": 866.7
+   },
+   {
+    "page": 213,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 214,
+    "y0": 0.0,
+    "y1": 145.1
+   }
+  ],
+  "pages": [
+   212,
+   214
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-45",
+  "orijinal_no": null
+ },
+ {
+  "no": 46,
+  "page": 214,
+  "y": 149,
+  "dup": 1,
+  "seq": 46,
+  "text": "Hastam milat bağ dokusu hastasıydı ilk onu anlatmaya başladım. Bu hastada hangi hastalık belirtileri",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 215,
+   "y": 770.4
+  },
+  "segments": [
+   {
+    "page": 214,
+    "y0": 145.1,
+    "y1": 866.7
+   },
+   {
+    "page": 215,
+    "y0": 0.0,
+    "y1": 766.5
+   }
+  ],
+  "pages": [
+   214,
+   215
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-46",
+  "orijinal_no": null
+ },
+ {
+  "no": 47,
+  "page": 215,
+  "y": 770.4,
+  "dup": 1,
+  "seq": 47,
+  "text": "Gülay Hoca",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 216,
+   "y": 446
+  },
+  "segments": [
+   {
+    "page": 215,
+    "y0": 766.5,
+    "y1": 866.7
+   },
+   {
+    "page": 216,
+    "y0": 0.0,
+    "y1": 442.1
+   }
+  ],
+  "pages": [
+   215,
+   216
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-47",
+  "orijinal_no": null
+ },
+ {
+  "no": 48,
+  "page": 216,
+  "y": 446,
+  "dup": 1,
+  "seq": 48,
+  "text": "♦ FMF hangi bölgede endemiktir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 216,
+   "y": 496
+  },
+  "segments": [
+   {
+    "page": 216,
+    "y0": 442.1,
+    "y1": 492.1
+   }
+  ],
+  "pages": [
+   216,
+   216
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-48",
+  "orijinal_no": null
+ },
+ {
+  "no": 49,
+  "page": 216,
+  "y": 496,
+  "dup": 1,
+  "seq": 49,
+  "text": "♦ Wegener granülomatözlü hasta nasıl gelir? Konstitusyonelsemptomlar çünkü nekrotizan bir vaskülit. Akciğer, böbrek tutulumu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 216,
+   "y": 636
+  },
+  "segments": [
+   {
+    "page": 216,
+    "y0": 492.1,
+    "y1": 632.1
+   }
+  ],
+  "pages": [
+   216,
+   216
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-49",
+  "orijinal_no": null
+ },
+ {
+  "no": 50,
+  "page": 216,
+  "y": 636,
+  "dup": 1,
+  "seq": 50,
+  "text": "♦ Tedavisinde ne verilir? KS, immunsupresif",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 216,
+   "y": 761
+  },
+  "segments": [
+   {
+    "page": 216,
+    "y0": 632.1,
+    "y1": 757.1
+   }
+  ],
+  "pages": [
+   216,
+   216
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-50",
+  "orijinal_no": null
+ },
+ {
+  "no": 51,
+  "page": 216,
+  "y": 761,
+  "dup": 1,
+  "seq": 51,
+  "text": "♦ Hangi otoantikor pozitif? c-ANCA.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 217,
+   "y": 103
+  },
+  "segments": [
+   {
+    "page": 216,
+    "y0": 757.1,
+    "y1": 866.7
+   },
+   {
+    "page": 217,
+    "y0": 0.0,
+    "y1": 99.1
+   }
+  ],
+  "pages": [
+   216,
+   217
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-51",
+  "orijinal_no": null
+ },
+ {
+  "no": 52,
+  "page": 217,
+  "y": 103,
+  "dup": 1,
+  "seq": 52,
+  "text": "♦ c-ANCA neye karşı oluşur? Proteinaz 3.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 217,
+   "y": 170
+  },
+  "segments": [
+   {
+    "page": 217,
+    "y0": 99.1,
+    "y1": 166.1
+   }
+  ],
+  "pages": [
+   217,
+   217
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-52",
+  "orijinal_no": null
+ },
+ {
+  "no": 53,
+  "page": 217,
+  "y": 170,
+  "dup": 1,
+  "seq": 53,
+  "text": "♦ Wegenerli hasta en sık neden ölür? Enfeksiyon.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 217,
+   "y": 269
+  },
+  "segments": [
+   {
+    "page": 217,
+    "y0": 166.1,
+    "y1": 265.1
+   }
+  ],
+  "pages": [
+   217,
+   217
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-53",
+  "orijinal_no": null
+ },
+ {
+  "no": 54,
+  "page": 217,
+  "y": 269,
+  "dup": 1,
+  "seq": 54,
+  "text": "♦ Romatodan da Glukokortikoid vereceğin hastadaki yan etkiler ve takip",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 217,
+   "y": 406.6
+  },
+  "segments": [
+   {
+    "page": 217,
+    "y0": 265.1,
+    "y1": 402.7
+   }
+  ],
+  "pages": [
+   217,
+   217
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-54",
+  "orijinal_no": null
+ },
+ {
+  "no": 55,
+  "page": 217,
+  "y": 406.6,
+  "dup": 1,
+  "seq": 55,
+  "text": "Gülay Hoca anamnezleri dikkatli bir şekilde okuyor. Hastam ankilozan spondilit hastasıydı. Ankilozan spondilittanı kriterlerini, kötü prognoz kriterlerini, inflamatuar bel ağrısını sordu, daha sonra hastanın kullandığı ilaçlar üzerinden devam etti. Hasta humira (tnf alfa antagonisti) kullanıyordu, \"Bu ilacı kimlere vermemeliyiz?\" dedi. İmmün yetmezlikte, malignitelerde ve tüberküloz, HBV HCV hastalarında kontraendike dedim, tüberküloztarama testini sordu. Daha sonra biyolojik ve sentetik DMARD'ları saydırdı, Gülay Hoca romatolojide ilaçların endikasyon ve kontraendikasyonlarına çok dikkat ediyor, eğer ilaçları eksiksiz bilirseniz soru sormayı bırakıyor.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 217,
+   "y": 765
+  },
+  "segments": [
+   {
+    "page": 217,
+    "y0": 402.7,
+    "y1": 761.1
+   }
+  ],
+  "pages": [
+   217,
+   217
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-55",
+  "orijinal_no": null
+ },
+ {
+  "no": 56,
+  "page": 217,
+  "y": 765,
+  "dup": 1,
+  "seq": 56,
+  "text": "Romatodan kağıttan soru sordular. NSAİ'lerin GİS'teki yan etkilerini arttıran durumları saymamı",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 218,
+   "y": 191
+  },
+  "segments": [
+   {
+    "page": 217,
+    "y0": 761.1,
+    "y1": 866.7
+   },
+   {
+    "page": 218,
+    "y0": 0.0,
+    "y1": 187.1
+   }
+  ],
+  "pages": [
+   217,
+   218
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-56",
+  "orijinal_no": null
+ },
+ {
+  "no": 57,
+  "page": 218,
+  "y": 191,
+  "dup": 1,
+  "seq": 57,
+  "text": "En son Lupus hastası geldi. \"Akciğertutulumu düşünüyorsun, hangi testleri istersin?\" diye sordular.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 218,
+   "y": 371
+  },
+  "segments": [
+   {
+    "page": 218,
+    "y0": 187.1,
+    "y1": 367.1
+   }
+  ],
+  "pages": [
+   218,
+   218
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-57",
+  "orijinal_no": null
+ },
+ {
+  "no": 58,
+  "page": 218,
+  "y": 371,
+  "dup": 1,
+  "seq": 58,
+  "text": "Romatolojiden romatiod artrit tanı kriterleri nedir? Onu bilemeyince bulguları sordu.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 218,
+   "y": 739
+  },
+  "segments": [
+   {
+    "page": 218,
+    "y0": 367.1,
+    "y1": 735.1
+   }
+  ],
+  "pages": [
+   218,
+   218
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-58",
+  "orijinal_no": null
+ },
+ {
+  "no": 59,
+  "page": 218,
+  "y": 739,
+  "dup": 1,
+  "seq": 59,
+  "text": "♦ Hastam Takayasu arteritiydi. Sınava tüm tanı kriterlerini ezberleyip girdim :D Gülay hoca hasta",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 219,
+   "y": 319.9
+  },
+  "segments": [
+   {
+    "page": 218,
+    "y0": 735.1,
+    "y1": 866.7
+   },
+   {
+    "page": 219,
+    "y0": 0.0,
+    "y1": 316.0
+   }
+  ],
+  "pages": [
+   218,
+   219
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-59",
+  "orijinal_no": null
+ },
+ {
+  "no": 60,
+  "page": 219,
+  "y": 319.9,
+  "dup": 1,
+  "seq": 60,
+  "text": "* Gülay Hoca hastanın anemnezine önem veriyor ve onunla ilgili soru soruyor. Benim hastam öksürük ve dispne şikayetiyle göğüs hastalıklarına başvurmuş. Neden bizde yatıyor dedi? Akciğer tutulumu yapan Romatolojik hastalıklar nelerdir diye sordu. Yine hastamın tanısı dermatomiyozit olduğu için onuma ilgili",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 220,
+   "y": 500.7
+  },
+  "segments": [
+   {
+    "page": 219,
+    "y0": 316.0,
+    "y1": 866.7
+   },
+   {
+    "page": 220,
+    "y0": 0.0,
+    "y1": 496.8
+   }
+  ],
+  "pages": [
+   219,
+   220
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-60",
+  "orijinal_no": null
+ },
+ {
+  "no": 61,
+  "page": 220,
+  "y": 500.7,
+  "dup": 1,
+  "seq": 61,
+  "text": "Gülay dermatomiyozitte intersitisyel akciğer hastalığının seyrini sordu kaç hastada intersitisyel",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 222,
+   "y": 396
+  },
+  "segments": [
+   {
+    "page": 220,
+    "y0": 496.8,
+    "y1": 866.7
+   },
+   {
+    "page": 221,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 222,
+    "y0": 0.0,
+    "y1": 392.1
+   }
+  ],
+  "pages": [
+   220,
+   222
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-61",
+  "orijinal_no": null
+ },
+ {
+  "no": 62,
+  "page": 222,
+  "y": 396,
+  "dup": 1,
+  "seq": 62,
+  "text": "Vâskülit,Wegener i anlattırdılar tanı koyma kriterleri.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 223,
+   "y": 77
+  },
+  "segments": [
+   {
+    "page": 222,
+    "y0": 392.1,
+    "y1": 866.7
+   },
+   {
+    "page": 223,
+    "y0": 0.0,
+    "y1": 73.1
+   }
+  ],
+  "pages": [
+   222,
+   223
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-62",
+  "orijinal_no": null
+ },
+ {
+  "no": 63,
+  "page": 223,
+  "y": 77,
+  "dup": 1,
+  "seq": 63,
+  "text": "Polimiyaljiya romatika Nedir Lupus organ hasarı, klinik ve lab beklentine Stili hastalığı nedir lap bulguları nelerdir Göksal hoca ne sorduysa hepsinin lab bulguları mutlaka istiyor",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 223,
+   "y": 566
+  },
+  "segments": [
+   {
+    "page": 223,
+    "y0": 73.1,
+    "y1": 562.1
+   }
+  ],
+  "pages": [
+   223,
+   223
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-63",
+  "orijinal_no": null
+ },
+ {
+  "no": 64,
+  "page": 223,
+  "y": 566,
+  "dup": 1,
+  "seq": 64,
+  "text": "Lupus tanı kriterleri, lupusun nörolojik bulgulan hangi hastalıkla benzer (multiple skleroz imiş ki notta",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 224,
+   "y": 481
+  },
+  "segments": [
+   {
+    "page": 223,
+    "y0": 562.1,
+    "y1": 866.7
+   },
+   {
+    "page": 224,
+    "y0": 0.0,
+    "y1": 477.1
+   }
+  ],
+  "pages": [
+   223,
+   224
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-64",
+  "orijinal_no": null
+ },
+ {
+  "no": 65,
+  "page": 224,
+  "y": 481,
+  "dup": 1,
+  "seq": 65,
+  "text": "romatoid artrit kötü prognoz kriterleri",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 224,
+   "y": 579
+  },
+  "segments": [
+   {
+    "page": 224,
+    "y0": 477.1,
+    "y1": 575.1
+   }
+  ],
+  "pages": [
+   224,
+   224
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-65",
+  "orijinal_no": null
+ },
+ {
+  "no": 66,
+  "page": 224,
+  "y": 579,
+  "dup": 1,
+  "seq": 66,
+  "text": "Lupus tanı kriterleri? . < Lupuslu hastada ne beklersin naşı tangkoyarsın hangi antikorlar pozitif (ANA,ds- DNA,Sm... hangisi daha sensitif hangisi daha spesifik?) teleskopik idrar dedim tanımla dedi.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 226,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 224,
+    "y0": 575.1,
+    "y1": 866.7
+   },
+   {
+    "page": 225,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 226,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   224,
+   226
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-66",
+  "orijinal_no": null
+ },
+ {
+  "no": 67,
+  "page": 226,
+  "y": 76,
+  "dup": 1,
+  "seq": 67,
+  "text": "Oto inflamatuar hastalıkların ortak özellikleri?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 227,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 226,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 227,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   226,
+   227
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-67",
+  "orijinal_no": null
+ },
+ {
+  "no": 68,
+  "page": 227,
+  "y": 76,
+  "dup": 1,
+  "seq": 68,
+  "text": "* Fmfte böbrek nasıl tutulur klinikte ne beklersin",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 227,
+   "y": 392
+  },
+  "segments": [
+   {
+    "page": 227,
+    "y0": 72.1,
+    "y1": 388.1
+   }
+  ],
+  "pages": [
+   227,
+   227
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-68",
+  "orijinal_no": null
+ },
+ {
+  "no": 69,
+  "page": 227,
+  "y": 392,
+  "dup": 1,
+  "seq": 69,
+  "text": "Lupus nefreti evrelelemesiflden 5 e kadar isimleriyle",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 228,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 227,
+    "y0": 388.1,
+    "y1": 866.7
+   },
+   {
+    "page": 228,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   227,
+   228
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-69",
+  "orijinal_no": null
+ },
+ {
+  "no": 70,
+  "page": 228,
+  "y": 76,
+  "dup": 1,
+  "seq": 70,
+  "text": "Ankilozan spondilitli hastamı sundurdu sonrasında Ankilozan Spondilitli hastanın böbreğinde ne olur?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 231,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 228,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 229,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 230,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 231,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   228,
+   231
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-70",
+  "orijinal_no": null
+ },
+ {
+  "no": 71,
+  "page": 231,
+  "y": 76,
+  "dup": 1,
+  "seq": 71,
+  "text": "FMF fenotip 2 li hastanın özellikleri neler?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 231,
+   "y": 152.2
+  },
+  "segments": [
+   {
+    "page": 231,
+    "y0": 72.1,
+    "y1": 148.3
+   }
+  ],
+  "pages": [
+   231,
+   231
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-71",
+  "orijinal_no": null
+ },
+ {
+  "no": 72,
+  "page": 231,
+  "y": 152.2,
+  "dup": 1,
+  "seq": 72,
+  "text": "Göksal Keskin. Allerjik rinitin klinik bulguları nelerdir? Lupusun laboratuvar bulgulan nelerdir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 233,
+   "y": 76.1
+  },
+  "segments": [
+   {
+    "page": 231,
+    "y0": 148.3,
+    "y1": 866.7
+   },
+   {
+    "page": 232,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 233,
+    "y0": 0.0,
+    "y1": 72.2
+   }
+  ],
+  "pages": [
+   231,
+   233
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-72",
+  "orijinal_no": null
+ },
+ {
+  "no": 73,
+  "page": 233,
+  "y": 76.1,
+  "dup": 1,
+  "seq": 73,
+  "text": "Göksal hoca da immüno da alerjik rinit, cvid, otoinflamatur hast. Ve bikaç bişi daha sormuştu ama hatırlayamadım immünodan immüno mutlaka bakın bilmesen bile sormaya devam edio, römatö dan sistemik hastalıkları sordu behçeti nereleri nasıl tutar diye başlayıp behçet anlattırdı",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 233,
+   "y": 129.1
+  },
+  "segments": [
+   {
+    "page": 233,
+    "y0": 72.2,
+    "y1": 125.2
+   }
+  ],
+  "pages": [
+   233,
+   233
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-73",
+  "orijinal_no": null
+ },
+ {
+  "no": 74,
+  "page": 233,
+  "y": 129.1,
+  "dup": 1,
+  "seq": 74,
+  "text": "Şule hoca anamnezimdeki hastayı sordu behçet hastasıydı üveti olduğunu öğrenince hem üveithem böbrek sorunu yaratan hastalıkları sordu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 233,
+   "y": 468.2
+  },
+  "segments": [
+   {
+    "page": 233,
+    "y0": 125.2,
+    "y1": 464.3
+   }
+  ],
+  "pages": [
+   233,
+   233
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-74",
+  "orijinal_no": null
+ },
+ {
+  "no": 75,
+  "page": 233,
+  "y": 468.2,
+  "dup": 1,
+  "seq": 75,
+  "text": "gülay hoca ise tek soru sordu 20 yıl önceki bir genital ülserin behçet sebebiyle oluştuğunu nasıl anlarsın dedi ardından benim başka sorum yok dedi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 234,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 233,
+    "y0": 464.3,
+    "y1": 866.7
+   },
+   {
+    "page": 234,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   233,
+   234
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-75",
+  "orijinal_no": null
+ },
+ {
+  "no": 76,
+  "page": 234,
+  "y": 76,
+  "dup": 1,
+  "seq": 76,
+  "text": "Romatodan 25 yasinda kadin hasta dizinde ve ayak bileğinde gezici tipte artrit tarifliyor ateşi var ne dusunursun ve ayirici tani için ne tetkik istersin diye sordu.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 235,
+   "y": 263
+  },
+  "segments": [
+   {
+    "page": 234,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 235,
+    "y0": 0.0,
+    "y1": 259.1
+   }
+  ],
+  "pages": [
+   234,
+   235
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-76",
+  "orijinal_no": null
+ },
+ {
+  "no": 77,
+  "page": 235,
+  "y": 263,
+  "dup": 1,
+  "seq": 77,
+  "text": "Gülay hoca : sistemik skleroz hastasının akciğer bulguları için hangi testleri istersin? Sjögrenli hastada hipokalemi gördün tanın ne?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 236,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 235,
+    "y0": 259.1,
+    "y1": 866.7
+   },
+   {
+    "page": 236,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   235,
+   236
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-77",
+  "orijinal_no": null
+ },
+ {
+  "no": 78,
+  "page": 236,
+  "y": 76,
+  "dup": 1,
+  "seq": 78,
+  "text": "romato da SS akciğeri tutarsa hangi testlerle anlatız?, 26 yaşında SLE hastası sessiz klinikte sol dizinde artritle geliyor ne düşünürsün?, immün depolanma yapmayan küçükndamar vaskülitlerini say dedi, nefroda küçük damar vaskülitlerini stınca bunlar böbreği nasıl tutar diye sordu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 238,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 236,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 237,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 238,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   236,
+   238
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-78",
+  "orijinal_no": null
+ },
+ {
+  "no": 79,
+  "page": 238,
+  "y": 76,
+  "dup": 1,
+  "seq": 79,
+  "text": "Romatodan ankilozan spondilitin kadin erkek farklarini,tanida kullanılan testi,ra nereleri tuttuğunu, inflamatuvar bel agrisini,behcetle reaktif artritin genital tutulum farklarini sordular",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 238,
+   "y": 366.6
+  },
+  "segments": [
+   {
+    "page": 238,
+    "y0": 72.1,
+    "y1": 362.7
+   }
+  ],
+  "pages": [
+   238,
+   238
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-79",
+  "orijinal_no": null
+ },
+ {
+  "no": 80,
+  "page": 238,
+  "y": 366.6,
+  "dup": 1,
+  "seq": 80,
+  "text": "Gülay hoca:Bacağına yayılan ağrı ile gelen 55 yas kadın hastadan hangi tetkiki istersin Gülay hoca:Tip3 immun yanıt ile oluşan nefropatileri say",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 239,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 238,
+    "y0": 362.7,
+    "y1": 866.7
+   },
+   {
+    "page": 239,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   238,
+   239
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-80",
+  "orijinal_no": null
+ },
+ {
+  "no": 81,
+  "page": 239,
+  "y": 76,
+  "dup": 1,
+  "seq": 81,
+  "text": "Lupuslu hastanın deri bulguları nelerdir? Peteşi purpura neden olur? Trombositopeni",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 239,
+   "y": 99
+  },
+  "segments": [
+   {
+    "page": 239,
+    "y0": 72.1,
+    "y1": 95.1
+   }
+  ],
+  "pages": [
+   239,
+   239
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-81",
+  "orijinal_no": null
+ },
+ {
+  "no": 82,
+  "page": 239,
+  "y": 99,
+  "dup": 1,
+  "seq": 82,
+  "text": "Sim: primer reyno ve sekonder reyno farkları.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 241,
+   "y": 76.1
+  },
+  "segments": [
+   {
+    "page": 239,
+    "y0": 95.1,
+    "y1": 866.7
+   },
+   {
+    "page": 240,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 241,
+    "y0": 0.0,
+    "y1": 72.2
+   }
+  ],
+  "pages": [
+   239,
+   241
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-82",
+  "orijinal_no": null
+ },
+ {
+  "no": 83,
+  "page": 241,
+  "y": 76.1,
+  "dup": 1,
+  "seq": 83,
+  "text": "Murat turgay: hastam romatoid artritti. romatoid artrit eklem dışı bulgularını, sordu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 242,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 241,
+    "y0": 72.2,
+    "y1": 866.7
+   },
+   {
+    "page": 242,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   241,
+   242
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-83",
+  "orijinal_no": null
+ },
+ {
+  "no": 84,
+  "page": 242,
+  "y": 76,
+  "dup": 1,
+  "seq": 84,
+  "text": "Raynoud fenomeni nedir, primerde hangi ilacı kullanırız?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 243,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 242,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 243,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   242,
+   243
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-84",
+  "orijinal_no": null
+ },
+ {
+  "no": 85,
+  "page": 243,
+  "y": 76,
+  "dup": 1,
+  "seq": 85,
+  "text": "Ankikozan spondilit mody tanı kriterleri, peritonit bi hastada lokosit sayısı ve tedavi,",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 244,
+   "y": 506.5
+  },
+  "segments": [
+   {
+    "page": 243,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 244,
+    "y0": 0.0,
+    "y1": 502.6
+   }
+  ],
+  "pages": [
+   243,
+   244
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-85",
+  "orijinal_no": null
+ },
+ {
+  "no": 86,
+  "page": 244,
+  "y": 506.5,
+  "dup": 1,
+  "seq": 86,
+  "text": "Murat Turgay: Polimiyozit Dermatomiyozit",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 248,
+   "y": 76.1
+  },
+  "segments": [
+   {
+    "page": 244,
+    "y0": 502.6,
+    "y1": 866.7
+   },
+   {
+    "page": 245,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 246,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 247,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 248,
+    "y0": 0.0,
+    "y1": 72.2
+   }
+  ],
+  "pages": [
+   244,
+   248
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-86",
+  "orijinal_no": null
+ },
+ {
+  "no": 87,
+  "page": 248,
+  "y": 76.1,
+  "dup": 1,
+  "seq": 87,
+  "text": "Gülay kinikli: pansitopeni yapan hastaliklar",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 248,
+   "y": 444
+  },
+  "segments": [
+   {
+    "page": 248,
+    "y0": 72.2,
+    "y1": 440.1
+   }
+  ],
+  "pages": [
+   248,
+   248
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-87",
+  "orijinal_no": null
+ },
+ {
+  "no": 88,
+  "page": 248,
+  "y": 444,
+  "dup": 1,
+  "seq": 88,
+  "text": "Gülay kinikli: fmfli hasta olgusu, artritin özellikleri, başka hangi artritlerde buna benzer görülebileceğini sordu. Arali hastada isteyeceğimiz labaratuar tetkikleri",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 249,
+   "y": 76.1
+  },
+  "segments": [
+   {
+    "page": 248,
+    "y0": 440.1,
+    "y1": 866.7
+   },
+   {
+    "page": 249,
+    "y0": 0.0,
+    "y1": 72.2
+   }
+  ],
+  "pages": [
+   248,
+   249
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-88",
+  "orijinal_no": null
+ },
+ {
+  "no": 89,
+  "page": 249,
+  "y": 76.1,
+  "dup": 1,
+  "seq": 89,
+  "text": "Gülay hoca: 30 yaşında kadın hasta, her iki el bileği ve metacarpal kemiklerde 3 aydır süren artrit tarifliyor, artriti tanımla, RA bu hastada ne bakarsın, (Rf anti ccp yi kastetti) romatoid artritte kötü pronositik faktörler nelerdir dedi. İmmünolojiden otoinflamatuar hastalıkların ortak özelliklerini sordu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 250,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 249,
+    "y0": 72.2,
+    "y1": 866.7
+   },
+   {
+    "page": 250,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   249,
+   250
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-89",
+  "orijinal_no": null
+ },
+ {
+  "no": 90,
+  "page": 250,
+  "y": 76,
+  "dup": 1,
+  "seq": 90,
+  "text": "Sim; hastanın 2 elinde eklem deformitesi var. Tanımla. Simetrik poliartrit. Anti CCP yüksek ne dusunursun. RA.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 250,
+   "y": 375.6
+  },
+  "segments": [
+   {
+    "page": 250,
+    "y0": 72.1,
+    "y1": 371.7
+   }
+  ],
+  "pages": [
+   250,
+   250
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-90",
+  "orijinal_no": null
+ },
+ {
+  "no": 91,
+  "page": 250,
+  "y": 375.6,
+  "dup": 1,
+  "seq": 91,
+  "text": "Murat Turgay: Behcetin tanı kriterleri, paterji test",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 251,
+   "y": 122.4
+  },
+  "segments": [
+   {
+    "page": 250,
+    "y0": 371.7,
+    "y1": 866.7
+   },
+   {
+    "page": 251,
+    "y0": 0.0,
+    "y1": 118.5
+   }
+  ],
+  "pages": [
+   250,
+   251
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-91",
+  "orijinal_no": null
+ },
+ {
+  "no": 92,
+  "page": 251,
+  "y": 122.4,
+  "dup": 1,
+  "seq": 92,
+  "text": "Gülay hoca: immün floresan boyama fotoğrafı gösterdi ne olabilir dedi, sle hastasında hangi test ( lupus deri testi) bu görüntüyü ne oluşturur (immünkompleks) ne içerir (ıg g,a,m kompleman c3 dedim) bu hastada nasıl bir lab bulgusu olur (hipokomplemantemi) lupusun böbreği tuttuğunu hangi antikorla anlarız (anti dsdna dedim ama hayır dedi)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 251,
+   "y": 190.3
+  },
+  "segments": [
+   {
+    "page": 251,
+    "y0": 118.5,
+    "y1": 186.4
+   }
+  ],
+  "pages": [
+   251,
+   251
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-92",
+  "orijinal_no": null
+ },
+ {
+  "no": 93,
+  "page": 251,
+  "y": 190.3,
+  "dup": 1,
+  "seq": 93,
+  "text": "Aşkın hoca ra fm bulguları hastanda neler var hangi ilaçları kullanıyor nsaid kullanımı var 20 yıldır kby yapabilir dedim mtx kesmiş bulantı kusma ki supresyonu hepatotoksisite ? yapabilir leflunamid e geçilir ritixumab (mabtera) tedavisi alıyor nedir anti cd 20 infliksimab ve rituximab kimerik yapıları nasıl ra göztutulumu sklerit episklerit bazen üveit sıklıkla sjogren overlap yapar keratokonjonktivitis sikka göz kuruluğu yapar nasıl anlarız shirmer testi vvhâtman kağıdı 5 dk da 5 mm den az ıslanır rose",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 252,
+   "y": 76.1
+  },
+  "segments": [
+   {
+    "page": 251,
+    "y0": 186.4,
+    "y1": 866.7
+   },
+   {
+    "page": 252,
+    "y0": 0.0,
+    "y1": 72.2
+   }
+  ],
+  "pages": [
+   251,
+   252
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-93",
+  "orijinal_no": null
+ },
+ {
+  "no": 94,
+  "page": 252,
+  "y": 76.1,
+  "dup": 1,
+  "seq": 94,
+  "text": "Gulay-Suie hoca: osteoporozlu bir olgu söyledi. Ne testi yapilir neye bakilir falan dedi. Dexa-1 skoruna bakilir. Skorun sonucunu söyledi nedir bu dedi. Tedavisini ve dozunu sordu.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 255,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 252,
+    "y0": 72.2,
+    "y1": 866.7
+   },
+   {
+    "page": 253,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 254,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 255,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   252,
+   255
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-94",
+  "orijinal_no": null
+ },
+ {
+  "no": 95,
+  "page": 255,
+  "y": 76,
+  "dup": 1,
+  "seq": 95,
+  "text": "romatoloji de de akut gut atağı ile gelen hastaya reçete yazmamı istediler",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 256,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 255,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 256,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   255,
+   256
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-95",
+  "orijinal_no": null
+ },
+ {
+  "no": 96,
+  "page": 256,
+  "y": 76,
+  "dup": 1,
+  "seq": 96,
+  "text": "Raynoud fenomeni nedir, hangi hastalıklarla birlikte görülebilir? Raynoud kimlerde görülür risk faktörleri nelerdir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 258,
+   "y": 76.1
+  },
+  "segments": [
+   {
+    "page": 256,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 257,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 258,
+    "y0": 0.0,
+    "y1": 72.2
+   }
+  ],
+  "pages": [
+   256,
+   258
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-96",
+  "orijinal_no": null
+ },
+ {
+  "no": 97,
+  "page": 258,
+  "y": 76.1,
+  "dup": 1,
+  "seq": 97,
+  "text": "Muratturgayr",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 260,
+   "y": 25.7
+  },
+  "segments": [
+   {
+    "page": 258,
+    "y0": 72.2,
+    "y1": 866.7
+   },
+   {
+    "page": 259,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 260,
+    "y0": 0.0,
+    "y1": 21.8
+   }
+  ],
+  "pages": [
+   258,
+   260
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-97",
+  "orijinal_no": null
+ },
+ {
+  "no": 98,
+  "page": 260,
+  "y": 25.7,
+  "dup": 1,
+  "seq": 98,
+  "text": "Aşkın hoca Behçet sordu genel batlarıyla",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 261,
+   "y": 14.4
+  },
+  "segments": [
+   {
+    "page": 260,
+    "y0": 21.8,
+    "y1": 866.7
+   },
+   {
+    "page": 261,
+    "y0": 0.0,
+    "y1": 10.5
+   }
+  ],
+  "pages": [
+   260,
+   261
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-98",
+  "orijinal_no": null
+ },
+ {
+  "no": 99,
+  "page": 261,
+  "y": 14.4,
+  "dup": 1,
+  "seq": 99,
+  "text": "Rıfat hoca Anamnez üzerinden polimyozit konuştuk,",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 262,
+   "y": 23.6
+  },
+  "segments": [
+   {
+    "page": 261,
+    "y0": 10.5,
+    "y1": 866.7
+   },
+   {
+    "page": 262,
+    "y0": 0.0,
+    "y1": 19.7
+   }
+  ],
+  "pages": [
+   261,
+   262
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-99",
+  "orijinal_no": null
+ },
+ {
+  "no": 100,
+  "page": 262,
+  "y": 23.6,
+  "dup": 1,
+  "seq": 100,
+  "text": "murat hoca biyolojik dmard yan etkisi başka soru sorulmadı",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 262,
+   "y": 310
+  },
+  "segments": [
+   {
+    "page": 262,
+    "y0": 19.7,
+    "y1": 306.1
+   }
+  ],
+  "pages": [
+   262,
+   262
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-100",
+  "orijinal_no": null
+ },
+ {
+  "no": 101,
+  "page": 262,
+  "y": 310,
+  "dup": 1,
+  "seq": 101,
+  "text": "ürtiker tedavisi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 263,
+   "y": 65
+  },
+  "segments": [
+   {
+    "page": 262,
+    "y0": 306.1,
+    "y1": 866.7
+   },
+   {
+    "page": 263,
+    "y0": 0.0,
+    "y1": 61.1
+   }
+  ],
+  "pages": [
+   262,
+   263
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-101",
+  "orijinal_no": null
+ },
+ {
+  "no": 102,
+  "page": 263,
+  "y": 65,
+  "dup": 1,
+  "seq": 102,
+  "text": "lupus band testi Direkt immünforesan yöntem ile gösterilebilen immünglobulin (IgG,IgM ve IgA ) ve komplemanın (C3) dermal-epidermal birleşme yerinde depolanmaları, immün komplekslerin dokuda varlığını gösterir, cilt lezyonu olmayan bölgelerde de görülebilen bu karakteristik bulgu “lupus band testi” olarak adlandırılır.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 263,
+   "y": 117
+  },
+  "segments": [
+   {
+    "page": 263,
+    "y0": 61.1,
+    "y1": 113.1
+   }
+  ],
+  "pages": [
+   263,
+   263
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-102",
+  "orijinal_no": null
+ },
+ {
+  "no": 103,
+  "page": 263,
+  "y": 117,
+  "dup": 1,
+  "seq": 103,
+  "text": "tip 3 immün reaksiyon nedir hangi antijenlere karşı reaksiyon olur (dolaşan antijenler)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 263,
+   "y": 268
+  },
+  "segments": [
+   {
+    "page": 263,
+    "y0": 113.1,
+    "y1": 264.1
+   }
+  ],
+  "pages": [
+   263,
+   263
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-103",
+  "orijinal_no": null
+ },
+ {
+  "no": 104,
+  "page": 263,
+  "y": 268,
+  "dup": 1,
+  "seq": 104,
+  "text": "tip 2 aşırı duyarlılık reaksiyonu hangi antijenlere karşı olur ( yüzey antijenleri) hangi hastalıklarda olur (tip 1 DM, graves basedow)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 263,
+   "y": 489
+  },
+  "segments": [
+   {
+    "page": 263,
+    "y0": 264.1,
+    "y1": 485.1
+   }
+  ],
+  "pages": [
+   263,
+   263
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-104",
+  "orijinal_no": null
+ },
+ {
+  "no": 105,
+  "page": 263,
+  "y": 489,
+  "dup": 1,
+  "seq": 105,
+  "text": "lupus kriterleri septik artrit",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 264,
+   "y": 23
+  },
+  "segments": [
+   {
+    "page": 263,
+    "y0": 485.1,
+    "y1": 866.7
+   },
+   {
+    "page": 264,
+    "y0": 0.0,
+    "y1": 19.1
+   }
+  ],
+  "pages": [
+   263,
+   264
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-105",
+  "orijinal_no": null
+ },
+ {
+  "no": 106,
+  "page": 264,
+  "y": 23,
+  "dup": 1,
+  "seq": 106,
+  "text": "Primer-sekonder raynaud farkları",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 264,
+   "y": 171
+  },
+  "segments": [
+   {
+    "page": 264,
+    "y0": 19.1,
+    "y1": 167.1
+   }
+  ],
+  "pages": [
+   264,
+   264
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-106",
+  "orijinal_no": null
+ },
+ {
+  "no": 107,
+  "page": 264,
+  "y": 171,
+  "dup": 1,
+  "seq": 107,
+  "text": "temproal arteritis",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 264,
+   "y": 563
+  },
+  "segments": [
+   {
+    "page": 264,
+    "y0": 167.1,
+    "y1": 559.1
+   }
+  ],
+  "pages": [
+   264,
+   264
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-107",
+  "orijinal_no": null
+ },
+ {
+  "no": 108,
+  "page": 264,
+  "y": 563,
+  "dup": 1,
+  "seq": 108,
+  "text": "crp si 100 un üstünde olan dahili hastalıkları say dedi lupusta olan anemk nedenlerinden 5 tane falan saydirdi.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 264,
+   "y": 796
+  },
+  "segments": [
+   {
+    "page": 264,
+    "y0": 559.1,
+    "y1": 792.1
+   }
+  ],
+  "pages": [
+   264,
+   264
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-108",
+  "orijinal_no": null
+ },
+ {
+  "no": 109,
+  "page": 264,
+  "y": 796,
+  "dup": 1,
+  "seq": 109,
+  "text": "Kortikosteroid kullanım dozlari sayılarıyla romatodan, yüksek doz uygulanan durumlar(endokrin nefro romato dan hastalık örnekleri ver)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 265,
+   "y": 12
+  },
+  "segments": [
+   {
+    "page": 264,
+    "y0": 792.1,
+    "y1": 866.7
+   },
+   {
+    "page": 265,
+    "y0": 0.0,
+    "y1": 8.1
+   }
+  ],
+  "pages": [
+   264,
+   265
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-109",
+  "orijinal_no": null
+ },
+ {
+  "no": 110,
+  "page": 265,
+  "y": 12,
+  "dup": 1,
+  "seq": 110,
+  "text": "Spondilartropati k/e farkları.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 265,
+   "y": 200
+  },
+  "segments": [
+   {
+    "page": 265,
+    "y0": 8.1,
+    "y1": 196.1
+   }
+  ],
+  "pages": [
+   265,
+   265
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-110",
+  "orijinal_no": null
+ },
+ {
+  "no": 111,
+  "page": 265,
+  "y": 200,
+  "dup": 1,
+  "seq": 111,
+  "text": "Murat turgay-rıfat: anamnezden kadınlarda düşük yapan hastalıklar: antifosf antikor-sle. Sjögren",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 267,
+   "y": 16
+  },
+  "segments": [
+   {
+    "page": 265,
+    "y0": 196.1,
+    "y1": 866.7
+   },
+   {
+    "page": 266,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 267,
+    "y0": 0.0,
+    "y1": 12.1
+   }
+  ],
+  "pages": [
+   265,
+   267
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-111",
+  "orijinal_no": null
+ },
+ {
+  "no": 112,
+  "page": 267,
+  "y": 16,
+  "dup": 1,
+  "seq": 112,
+  "text": "stili sordu kliniği nasıl olur dedi lab da ne beklersin dedi ek bir test ne yaparsın dedi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 267,
+   "y": 689
+  },
+  "segments": [
+   {
+    "page": 267,
+    "y0": 12.1,
+    "y1": 685.1
+   }
+  ],
+  "pages": [
+   267,
+   267
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-112",
+  "orijinal_no": null
+ },
+ {
+  "no": 113,
+  "page": 267,
+  "y": 689,
+  "dup": 1,
+  "seq": 113,
+  "text": "Akut eklem romatizmasını bi olgu şeklinde verdi ne olduğunu sordu, tanı kriterleri ve tedavi yaklaşımı, addison hastalığını bi olgu olarak sordu,",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 268,
+   "y": 13
+  },
+  "segments": [
+   {
+    "page": 267,
+    "y0": 685.1,
+    "y1": 866.7
+   },
+   {
+    "page": 268,
+    "y0": 0.0,
+    "y1": 9.1
+   }
+  ],
+  "pages": [
+   267,
+   268
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-113",
+  "orijinal_no": null
+ },
+ {
+  "no": 114,
+  "page": 268,
+  "y": 13,
+  "dup": 1,
+  "seq": 114,
+  "text": "/ Sjögrenli hasta olgusunda hipopotasemi var nedeni ne olabilir Kronik ürtiker tedavisi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 269,
+   "y": 550
+  },
+  "segments": [
+   {
+    "page": 268,
+    "y0": 9.1,
+    "y1": 866.7
+   },
+   {
+    "page": 269,
+    "y0": 0.0,
+    "y1": 546.1
+   }
+  ],
+  "pages": [
+   268,
+   269
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-114",
+  "orijinal_no": null
+ },
+ {
+  "no": 115,
+  "page": 269,
+  "y": 550,
+  "dup": 1,
+  "seq": 115,
+  "text": "Gülay hoca soru çektirdi -Bacağında eritem ve diz ağrısı var önce neye bakarsın? Hangi hastalık? Hipersensitivite reaksiyonları neler? Tip2 de hangi hastalıklar, patolojisi? Tip3 hangi hastalıklar, patolojisi? SLE'nin tip2 tip3 tutulumu ne ?(hemolitik anemi, lupus nefriti)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 270,
+   "y": 9.3
+  },
+  "segments": [
+   {
+    "page": 269,
+    "y0": 546.1,
+    "y1": 866.7
+   },
+   {
+    "page": 270,
+    "y0": 0.0,
+    "y1": 5.4
+   }
+  ],
+  "pages": [
+   269,
+   270
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-115",
+  "orijinal_no": null
+ },
+ {
+  "no": 116,
+  "page": 270,
+  "y": 9.3,
+  "dup": 1,
+  "seq": 116,
+  "text": "Göksal hoca- lupus un kliniği, tuttuğu organlar, kalpte miyokarditi tutarsa nolur, lab bulguları; allerjik rinit bulguları, lab testleri olarak ne istersin, ne görmeyi beklersin; polimiyaljika romatika hakkında ne biliyorsun, özellikleri nelerdir, lab bulguları",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 271,
+   "y": 477
+  },
+  "segments": [
+   {
+    "page": 270,
+    "y0": 5.4,
+    "y1": 866.7
+   },
+   {
+    "page": 271,
+    "y0": 0.0,
+    "y1": 473.1
+   }
+  ],
+  "pages": [
+   270,
+   271
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-116",
+  "orijinal_no": null
+ },
+ {
+  "no": 117,
+  "page": 271,
+  "y": 477,
+  "dup": 1,
+  "seq": 117,
+  "text": "allerjik rinit bulguları, lab testleri olarak ne istersin, ne görmeyi beklersin;",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 272,
+   "y": 9
+  },
+  "segments": [
+   {
+    "page": 271,
+    "y0": 473.1,
+    "y1": 866.7
+   },
+   {
+    "page": 272,
+    "y0": 0.0,
+    "y1": 5.1
+   }
+  ],
+  "pages": [
+   271,
+   272
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-117",
+  "orijinal_no": null
+ },
+ {
+  "no": 118,
+  "page": 272,
+  "y": 9,
+  "dup": 1,
+  "seq": 118,
+  "text": "Aşkın hoca hastan genç kadın hasta hematüri ve proteinüri olmuş ilk olarak ne düşünürsün lupus nefriti. Lupus nefritinin classlarını say. Purpura kaça ayrılır? İki palpabl nonpalpabl palpabl nerde görülür? Küçük damarları tutan vaskülitlerde",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 272,
+   "y": 235
+  },
+  "segments": [
+   {
+    "page": 272,
+    "y0": 5.1,
+    "y1": 231.1
+   }
+  ],
+  "pages": [
+   272,
+   272
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-118",
+  "orijinal_no": null
+ },
+ {
+  "no": 119,
+  "page": 272,
+  "y": 235,
+  "dup": 1,
+  "seq": 119,
+  "text": "Aşkın hoca Gut artritifhastam 72 yaşında idi senin hastanda bir artrit bulgusu gelişse en çok ne düşünürsün gibi bir şey sordu hastamın GFR si 20 olduğu için hiperürisemi olur ve ben de Gut artriti düşünürüm dedim),Nedeni bilinmeyen ateş ve Fmf le ilgili sorular sordu Gutta ksantin oksidazı allopürinolün mekanizması(atımı mı artırıyor yoksa sentezi mi engelliyor)Fmfte ateş türü bir de akut mono artritle seyreden artritler ve hastalıklar nedir dedi.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 272,
+   "y": 673
+  },
+  "segments": [
+   {
+    "page": 272,
+    "y0": 231.1,
+    "y1": 669.1
+   }
+  ],
+  "pages": [
+   272,
+   272
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-119",
+  "orijinal_no": null
+ },
+ {
+  "no": 120,
+  "page": 272,
+  "y": 673,
+  "dup": 1,
+  "seq": 120,
+  "text": "şule - kronik urtiker tedavisi / RA lı hasta steroid kullaniyo kalça agrisi gelisiyo ne dusunursun(osteonekroz).",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 273,
+   "y": 742
+  },
+  "segments": [
+   {
+    "page": 272,
+    "y0": 669.1,
+    "y1": 866.7
+   },
+   {
+    "page": 273,
+    "y0": 0.0,
+    "y1": 738.1
+   }
+  ],
+  "pages": [
+   272,
+   273
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-120",
+  "orijinal_no": null
+ },
+ {
+  "no": 121,
+  "page": 273,
+  "y": 742,
+  "dup": 1,
+  "seq": 121,
+  "text": "Gülay hoca bu sırada anamnezi inceledi, sonra o da soru çektirdi. Ankilozan spondilit kesin tanı için kriterler, majör bulguları. Akut romatizmal ateşde artrit tip",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 274,
+   "y": 12
+  },
+  "segments": [
+   {
+    "page": 273,
+    "y0": 738.1,
+    "y1": 866.7
+   },
+   {
+    "page": 274,
+    "y0": 0.0,
+    "y1": 8.1
+   }
+  ],
+  "pages": [
+   273,
+   274
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-121",
+  "orijinal_no": null
+ },
+ {
+  "no": 122,
+  "page": 274,
+  "y": 12,
+  "dup": 1,
+  "seq": 122,
+  "text": "Şule hoca Hastamda sjogren olduğu için sjogren böbreğe ne yapar diye sordu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 274,
+   "y": 22
+  },
+  "segments": [
+   {
+    "page": 274,
+    "y0": 8.1,
+    "y1": 18.1
+   }
+  ],
+  "pages": [
+   274,
+   274
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-122",
+  "orijinal_no": null
+ },
+ {
+  "no": 123,
+  "page": 274,
+  "y": 22,
+  "dup": 1,
+  "seq": 123,
+  "text": "Romatodan Sebebi bilinmeyen ateş sebepleri Tbc, bruselloz demek önemli Ürtiker nedir gibi bir soru daha vardı",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 274,
+   "y": 42.4
+  },
+  "segments": [
+   {
+    "page": 274,
+    "y0": 18.1,
+    "y1": 38.5
+   }
+  ],
+  "pages": [
+   274,
+   274
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-123",
+  "orijinal_no": null
+ },
+ {
+  "no": 124,
+  "page": 274,
+  "y": 42.4,
+  "dup": 1,
+  "seq": 124,
+  "text": "neval-Aşktn hoca hastada ht kbh gut fmf ra vardı inﬂamatuar dejeneratif ağrı ayrımı ra nin böbrek tutulumu nasıl olur(amiloidoz ve membranoz glomerulonefrit)amiloidoztanisi nasıl konur fmf üzerinden konuştuk fmf deki artrit tipifakut intermittan artrit)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 274,
+   "y": 172.4
+  },
+  "segments": [
+   {
+    "page": 274,
+    "y0": 38.5,
+    "y1": 168.5
+   }
+  ],
+  "pages": [
+   274,
+   274
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-124",
+  "orijinal_no": null
+ },
+ {
+  "no": 125,
+  "page": 274,
+  "y": 172.4,
+  "dup": 1,
+  "seq": 125,
+  "text": "goksal hoca t hücre immun yetmezliklerleri ile b hücre immun yetmezliklerini nasil ayirirsin diye sordu.(l.annenin antikorlarinin koruyucu etkisi olacagi için yasamin erken döneminde b hücre yetmezlikleri kliniğe yansimayabilir; 2.t hücre yetmezliklerinin sendromlari var, direkt klinik olarak hastayi incelediğimizde taniyabiliriz.) CVID hastalarinin kliniği nasildir?(splenomegali, lenfadenopati, alopesi areata, atopik dermatit, kutanoz vaskulit...) polimiyozit sordu, behcetin klinik özellikleri, sistem tutulumlari, tanisini sordu.(klinik özellik ve sistem tutulumlarinin hepsini sayana kadar bekledi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 274,
+   "y": 561
+  },
+  "segments": [
+   {
+    "page": 274,
+    "y0": 168.5,
+    "y1": 557.1
+   }
+  ],
+  "pages": [
+   274,
+   274
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-125",
+  "orijinal_no": null
+ },
+ {
+  "no": 126,
+  "page": 274,
+  "y": 561,
+  "dup": 1,
+  "seq": 126,
+  "text": "Ayakta nasır nerelerde oluşur? Mantarı en çok nerde beklersin ayakta-4 ve 5. Parmak arasi- Proksimal bölgelerde ve kuşak bölgesinde kas güçsüzlüğü var ne sorular sorarsın hastada?- alışkanlıkları vb- Hangi fm leri beklersin? Gut atritinde hangi ilacı kaç doz olarak ne kadar süre kullanırsın? Ordan Kenan hoca gut artinin böbrek tutulumu ile alakalı soru sordu nereyi tutar vb.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 275,
+   "y": 13
+  },
+  "segments": [
+   {
+    "page": 274,
+    "y0": 557.1,
+    "y1": 866.7
+   },
+   {
+    "page": 275,
+    "y0": 0.0,
+    "y1": 9.1
+   }
+  ],
+  "pages": [
+   274,
+   275
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-126",
+  "orijinal_no": null
+ },
+ {
+  "no": 127,
+  "page": 275,
+  "y": 13,
+  "dup": 1,
+  "seq": 127,
+  "text": "fmf tanısı ve bulguları .skleroderma hangi organları tutar .böbreği tutan romatohjik hastalıklar nelerdir .",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 275,
+   "y": 866.7
+  },
+  "segments": [
+   {
+    "page": 275,
+    "y0": 9.1,
+    "y1": 862.8
+   }
+  ],
+  "pages": [
+   275,
+   275
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-127",
+  "orijinal_no": null
+ },
+ {
+  "no": 21,
+  "page": 202,
+  "y": 634,
+  "dup": 1,
+  "seq": 21,
+  "text": "100 üstü crp yapan bağ dokusu hastalığı",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 202,
+   "y": 722.7
+  },
+  "segments": [
+   {
+    "page": 202,
+    "y0": 630.1,
+    "y1": 718.8
+   }
+  ],
+  "pages": [
+   202,
+   202
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Romatoloji",
+  "id": "R-21a",
+  "orijinal_no": null
  }
 ]
