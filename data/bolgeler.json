@@ -21947,5 +21947,663 @@
   "konu": "Onkoloji",
   "id": "O-5",
   "orijinal_no": null
+ },
+ {
+  "no": 1,
+  "page": 429,
+  "y": 38,
+  "dup": 1,
+  "seq": 1,
+  "text": "Alerjik Rinite sebep olan mediatörler?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 429,
+   "y": 434
+  },
+  "segments": [
+   {
+    "page": 429,
+    "y0": 34.1,
+    "y1": 430.1
+   }
+  ],
+  "pages": [
+   429,
+   429
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-1",
+  "orijinal_no": null
+ },
+ {
+  "no": 2,
+  "page": 429,
+  "y": 434,
+  "dup": 1,
+  "seq": 2,
+  "text": "Anafilaktik Şok Tedavisi?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 429,
+   "y": 474
+  },
+  "segments": [
+   {
+    "page": 429,
+    "y0": 430.1,
+    "y1": 470.1
+   }
+  ],
+  "pages": [
+   429,
+   429
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-2",
+  "orijinal_no": null
+ },
+ {
+  "no": 3,
+  "page": 429,
+  "y": 474,
+  "dup": 1,
+  "seq": 3,
+  "text": "Birinci kuşak anti-histaminikler nelerdir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 429,
+   "y": 577
+  },
+  "segments": [
+   {
+    "page": 429,
+    "y0": 470.1,
+    "y1": 573.1
+   }
+  ],
+  "pages": [
+   429,
+   429
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-3",
+  "orijinal_no": null
+ },
+ {
+  "no": 4,
+  "page": 429,
+  "y": 577,
+  "dup": 1,
+  "seq": 4,
+  "text": "İkinci kuşak antihistaminikler nelerdir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 429,
+   "y": 648
+  },
+  "segments": [
+   {
+    "page": 429,
+    "y0": 573.1,
+    "y1": 644.1
+   }
+  ],
+  "pages": [
+   429,
+   429
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-4",
+  "orijinal_no": null
+ },
+ {
+  "no": 5,
+  "page": 429,
+  "y": 648,
+  "dup": 1,
+  "seq": 5,
+  "text": "Anti-IgE tedavisini anlat.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 430,
+   "y": 38
+  },
+  "segments": [
+   {
+    "page": 429,
+    "y0": 644.1,
+    "y1": 841.9
+   },
+   {
+    "page": 430,
+    "y0": 0.0,
+    "y1": 34.1
+   }
+  ],
+  "pages": [
+   429,
+   430
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-5",
+  "orijinal_no": null
+ },
+ {
+  "no": 6,
+  "page": 430,
+  "y": 38,
+  "dup": 1,
+  "seq": 6,
+  "text": "İMMÜNOTERAPİ nedir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 430,
+   "y": 157
+  },
+  "segments": [
+   {
+    "page": 430,
+    "y0": 34.1,
+    "y1": 153.1
+   }
+  ],
+  "pages": [
+   430,
+   430
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-6",
+  "orijinal_no": null
+ },
+ {
+  "no": 7,
+  "page": 430,
+  "y": 157,
+  "dup": 1,
+  "seq": 7,
+  "text": "***KORTİKOSTEROİDLER***",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 430,
+   "y": 244
+  },
+  "segments": [
+   {
+    "page": 430,
+    "y0": 153.1,
+    "y1": 240.1
+   }
+  ],
+  "pages": [
+   430,
+   430
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-7",
+  "orijinal_no": null
+ },
+ {
+  "no": 8,
+  "page": 430,
+  "y": 244,
+  "dup": 1,
+  "seq": 8,
+  "text": "Sistemik Kortikosteroidlerin Potansiyel Yan Etkileri Nelerdir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 430,
+   "y": 315
+  },
+  "segments": [
+   {
+    "page": 430,
+    "y0": 240.1,
+    "y1": 311.1
+   }
+  ],
+  "pages": [
+   430,
+   430
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-8",
+  "orijinal_no": null
+ },
+ {
+  "no": 9,
+  "page": 430,
+  "y": 315,
+  "dup": 1,
+  "seq": 9,
+  "text": "48 yaşında biri zatürreden ölüyorsa ne düşünürsün?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 430,
+   "y": 353
+  },
+  "segments": [
+   {
+    "page": 430,
+    "y0": 311.1,
+    "y1": 349.1
+   }
+  ],
+  "pages": [
+   430,
+   430
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-9",
+  "orijinal_no": null
+ },
+ {
+  "no": 10,
+  "page": 430,
+  "y": 353,
+  "dup": 1,
+  "seq": 10,
+  "text": "immün yetmezlik düşündüren sebepler nelerdir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 430,
+   "y": 501
+  },
+  "segments": [
+   {
+    "page": 430,
+    "y0": 349.1,
+    "y1": 497.1
+   }
+  ],
+  "pages": [
+   430,
+   430
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-10",
+  "orijinal_no": null
+ },
+ {
+  "no": 11,
+  "page": 430,
+  "y": 501,
+  "dup": 1,
+  "seq": 11,
+  "text": "PRİCK TESTİNİ ANLAT.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 430,
+   "y": 730
+  },
+  "segments": [
+   {
+    "page": 430,
+    "y0": 497.1,
+    "y1": 726.1
+   }
+  ],
+  "pages": [
+   430,
+   430
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-11",
+  "orijinal_no": null
+ },
+ {
+  "no": 12,
+  "page": 430,
+  "y": 730,
+  "dup": 1,
+  "seq": 12,
+  "text": "YAMA TESTİNİ ANLAT:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 431,
+   "y": 38
+  },
+  "segments": [
+   {
+    "page": 430,
+    "y0": 726.1,
+    "y1": 841.9
+   },
+   {
+    "page": 431,
+    "y0": 0.0,
+    "y1": 34.1
+   }
+  ],
+  "pages": [
+   430,
+   431
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-12",
+  "orijinal_no": null
+ },
+ {
+  "no": 13,
+  "page": 431,
+  "y": 38,
+  "dup": 1,
+  "seq": 13,
+  "text": "MONOGENİK OTOİNFLAMATUVAR HASTALIKLAR 1-Hiperimmünglobulin D Sendromu veya Mevalonat Kinaz İlişkili Periyodik Ateş (MKE)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 431,
+   "y": 323
+  },
+  "segments": [
+   {
+    "page": 431,
+    "y0": 34.1,
+    "y1": 319.1
+   }
+  ],
+  "pages": [
+   431,
+   431
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-13",
+  "orijinal_no": null
+ },
+ {
+  "no": 14,
+  "page": 431,
+  "y": 323,
+  "dup": 1,
+  "seq": 14,
+  "text": "2-Monogenik IL-1 Yolu Mutasyonlu Sendromları; Tanı ve Tedavileri (CAPS-FCAS ve CAPS-MWS)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 431,
+   "y": 473
+  },
+  "segments": [
+   {
+    "page": 431,
+    "y0": 319.1,
+    "y1": 469.1
+   }
+  ],
+  "pages": [
+   431,
+   431
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-14",
+  "orijinal_no": null
+ },
+ {
+  "no": 15,
+  "page": 431,
+  "y": 473,
+  "dup": 1,
+  "seq": 15,
+  "text": "3-TNF-Reseptörü ile İlişkili Periyodik Sendrom (TRAPS) Tanı ve Tedavisi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 431,
+   "y": 639
+  },
+  "segments": [
+   {
+    "page": 431,
+    "y0": 469.1,
+    "y1": 635.1
+   }
+  ],
+  "pages": [
+   431,
+   431
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-15",
+  "orijinal_no": null
+ },
+ {
+  "no": 16,
+  "page": 431,
+  "y": 639,
+  "dup": 1,
+  "seq": 16,
+  "text": "4-Piyojenik Steril Artrit, Piyoderma Gangrenozum, Akne (PAPA) Sendromu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 432,
+   "y": 36
+  },
+  "segments": [
+   {
+    "page": 431,
+    "y0": 635.1,
+    "y1": 841.9
+   },
+   {
+    "page": 432,
+    "y0": 0.0,
+    "y1": 32.1
+   }
+  ],
+  "pages": [
+   431,
+   432
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-16",
+  "orijinal_no": null
+ },
+ {
+  "no": 17,
+  "page": 432,
+  "y": 36,
+  "dup": 1,
+  "seq": 17,
+  "text": "Hücresel immün yetmezlikler nedir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 432,
+   "y": 238
+  },
+  "segments": [
+   {
+    "page": 432,
+    "y0": 32.1,
+    "y1": 234.1
+   }
+  ],
+  "pages": [
+   432,
+   432
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-17",
+  "orijinal_no": null
+ },
+ {
+  "no": 18,
+  "page": 432,
+  "y": 238,
+  "dup": 1,
+  "seq": 18,
+  "text": "Humoral immün yetmezlik:",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 432,
+   "y": 336
+  },
+  "segments": [
+   {
+    "page": 432,
+    "y0": 234.1,
+    "y1": 332.1
+   }
+  ],
+  "pages": [
+   432,
+   432
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-18",
+  "orijinal_no": null
+ },
+ {
+  "no": 19,
+  "page": 432,
+  "y": 336,
+  "dup": 1,
+  "seq": 19,
+  "text": "***SELEKTİF IgA Eksikliği",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 432,
+   "y": 563
+  },
+  "segments": [
+   {
+    "page": 432,
+    "y0": 332.1,
+    "y1": 559.1
+   }
+  ],
+  "pages": [
+   432,
+   432
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-19",
+  "orijinal_no": null
+ },
+ {
+  "no": 20,
+  "page": 432,
+  "y": 563,
+  "dup": 1,
+  "seq": 20,
+  "text": "***YAYGIN DEĞİŞKEN İMMÜN YETMEZLİK",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 433,
+   "y": 38
+  },
+  "segments": [
+   {
+    "page": 432,
+    "y0": 559.1,
+    "y1": 841.9
+   },
+   {
+    "page": 433,
+    "y0": 0.0,
+    "y1": 34.1
+   }
+  ],
+  "pages": [
+   432,
+   433
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-20",
+  "orijinal_no": null
+ },
+ {
+  "no": 21,
+  "page": 433,
+  "y": 38,
+  "dup": 1,
+  "seq": 21,
+  "text": "***X’E BAĞLI AGAMMAGLOBULİNEMİ",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 433,
+   "y": 203
+  },
+  "segments": [
+   {
+    "page": 433,
+    "y0": 34.1,
+    "y1": 199.1
+   }
+  ],
+  "pages": [
+   433,
+   433
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-21",
+  "orijinal_no": null
+ },
+ {
+  "no": 22,
+  "page": 433,
+  "y": 203,
+  "dup": 1,
+  "seq": 22,
+  "text": "Allerjide tanı nasıl konulur?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 433,
+   "y": 842.0
+  },
+  "segments": [
+   {
+    "page": 433,
+    "y0": 199.1,
+    "y1": 838.1
+   }
+  ],
+  "pages": [
+   433,
+   433
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "İmmünoloji-Alerji",
+  "id": "I-22",
+  "orijinal_no": null
  }
 ]

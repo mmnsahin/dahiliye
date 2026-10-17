@@ -1,3 +1,37 @@
+# ÖZET (tüm okuma tamamlandı)
+
+**Toplam 721 kayıt, 721 okuma dosyası** (`data/okumalar/<id>.md`); `python tools/dogrula.py` → eksik 0, bozuk 0, JSON geçerli.
+
+| Bölüm | Kayıt | Sayfa | Not |
+|---|---|---|---|
+| Nefroloji N- | 172 | 1–94 | dosyadaki numara korundu; 43 numara kaynakta yok; 101–104 iki kez (N-101a/b …) |
+| Gastroenteroloji G- | 147 | 95–196 | yazılış sırası; kaynak numaraları `orijinal_no`'da |
+| Romatoloji R- | 128 | 197–275 | R-1..R-19 numaralı liste (15. numara kaynakta yok) |
+| Hematoloji H- | 59 | 276–344 | iki soru sonradan bulunup araya girdi, `renumber.py H` ile yeniden numaralandı |
+| Endokrinoloji E- | 188 | 345–418 | E-1..E-89 kaynakta numaralı (3. ve 7. numara ikinci listede tekrar: E-91, E-93); sonrası numarasız çıkmış-soru notları |
+| Onkoloji O- | 5 | 419–428 | tamamı dijital el yazısı (sarı vurgulu başlıklar) |
+| İmmünoloji-Alerji I- | 22 | 429–433 | tamamı daktilo (metin katmanı temiz) |
+
+**Toplam `[?]` = 366 civarı, `[OKUNAMADI]` = 26** (kesin liste: `data/emin_degil.md`, `python tools/belirsiz.py` ile yeniden üretilir). Dağılım (`[?]`): N 198, R 70, G 50, O 20, H 8, E 0, I 0; (`[OKUNAMADI]`): N 19, G 5, R 1, H 1. El yazısı okunan yerlerde (özellikle Onkoloji O-1..O-5) tahmin edilen kelimeler `[?]` ile işaretlidir; kullanıcı `emin_degil.md` üzerinden kontrol edecek.
+
+## Belirsiz sınırlar (bölgenin nerede başlayıp bittiği kesin değil)
+- N: N-153/N-154 arası el yazısı not; G: G-28, G-41/G-42, G-36, G-86/G-87, G-103..G-108, G-113..G-115, G-126, G-143; R: R-1..R-21, R-110..R-123 (ayrıntı aşağıdaki bölüm notlarında).
+- E: E-9001/E-9002/E-9003 geçici id'leriyle aranan üç soru (s.395 "Böbrek üstü bezi HT sebepleri", s.400 "Lipohipertrofi…", s.404 "Tiroid bası semptomları") kendi soru satırı olarak ayrıldı (renumber sonrası E-xxx). s.383–386 "Diabetes insipitus" konusu tek kayıt (alt başlıklar ayrı soru sayılmadı). s.376–377 "Ketoasidoza yaklaşım" ve s.399 "DKA ve HHD tedavisi sorulmuş…" gibi satırlar soru olarak ayrı kayıt; cevabı başka sayfadaki slayt olanlar `(cevap yok)` veya kısa notla.
+- I: I-13 (s.431 y38) başlık "MONOGENİK OTOİNFLAMATUVAR HASTALIKLAR" ile 1. alt başlık tek kayıt; 2., 3., 4. alt başlıklar ayrı kayıt sayıldı.
+- O: O-1..O-5 sarı vurgulu başlıkla başlıyor; O-2'nin sonu ile O-3 başlığı s.421/422 sınırında.
+
+## Atlanan / çift numaralar
+- Nefroloji: 43 numara kaynakta yok; 101–104 çift (a/b). Gastro/Romatoloji/Endokrin: kaynak numarası kopyaları `orijinal_no` ile izlenir (G-104..G-107 kopya; E-91/E-93 ikinci numaralı liste).
+
+## Güvenilirlik notları
+- Metin katmanı görünür (Tr≠3) alınmıştır; gizli OCR kullanılmadı, OCR aracı kullanılmadı.
+- E-1..E-89 (s.345–367) ve s.371–377, 380–418 slayt/görsel kısımları görselden okunup yazıldı; s.368–418 metinleri daktilo katmanı + görsel kontrol (soru satırı kalın yazıdan otomatik bulundu, `tools/kalin.py`).
+- Tablolar ve akış şemaları satır/ok bağlantısı korunarak tek paragrafta `|`, `;`, `→` ile yazıldı; resimler `(resim: …)` ile tarif edildi.
+- Her 5 grupta iki kayıt görselle yeniden karşılaştırma yapıldı (Endokrin grupları için E-90..E-185 kayıtlarında bölge başlangıçlarını kontakt tablolarla görsel doğruladım; ayrıntı aşağıda).
+- Onkoloji el yazısı (O-1..O-5): çok sayıda kelime tahmini; hepsi `[?]` veya "(…)" notlarıyla işaretli, kontrol edilmeli.
+
+---
+
 # İlerleme
 
 ## Araç notu
@@ -140,3 +174,13 @@ Bu kural N-46'dan itibaren okurken baştan uygulanır.
 
 ## Emin olunamayan yerler dosyası
 - `data/emin_degil.md`: tüm `[?]` / `[OKUNAMADI]` yerleri id+sayfa+bağlamla listeler (kullanıcı sonra kontrol edecek). Her grup sonunda `python tools/belirsiz.py` ile yeniden üretilecek ve commit'lenecek. Tahmin yürütülen/emin olunamayan el yazısı okumaları her zaman `[?]` ile işaretlenir.
+
+## Endokrinoloji (E-) — bitti (E-1..E-188)
+- s.345–367: tamamen görsel (kağıt/ekran görüntüsü çıkmış-soru listesi); her sayfa üst/alt yarı ayrı okunup yazıldı. E-1..E-89 numaralı sorular; E-42..E-43 ve E-76 gibi sayfa geçişi olan sorular tek kayıt.
+- s.368–418: metin katmanı temiz; soru satırları kalın (bold) yazıdan bulundu, slayt/şema görselleri (s.371–377, 380–382, 387–388, 390, 394–395, 397–398, 400–402, 407–408, 413–414, 416) görselden okunup yerlerine eklendi.
+- s.368 y90 "Endokrinden de glikozillenmis hemoglobin…" sorusunda soru metni ile cevap tek paragrafta olduğundan cevap kısmı bölünerek yazıldı.
+- Görsel kontrol: E-1..E-83 bölge başlıkları kontakt sayfalarıyla (tmp/sheet.py) doğrulandı; E-84..E-188 bölge başlıkları sayfa ızgarası ile doğrulandı.
+
+## Onkoloji (O-) — bitti (O-1..O-5), İmmünoloji-Alerji (I-) — bitti (I-1..I-22)
+- Onkoloji sayfaları: dijital el yazısı (kırmızı) + sarı vurgular (vurgu aktarılmadı); küçük slaytlar `[SLAYT]`.
+- İmmünoloji: metin katmanı daktilo; vurgular aktarılmadı; iki sütunlu liste (I-10) sütun sırası korunarak yazıldı.
