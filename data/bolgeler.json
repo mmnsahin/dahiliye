@@ -15070,9 +15070,38 @@
  {
   "no": 34,
   "page": 318,
-  "y": 346.9,
+  "y": 102,
   "dup": 1,
   "seq": 34,
+  "text": "epistaksis ve diş eti kanamasıyla gelen hastadan nasıl anamnez alırsın ? ne düşünürsün",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 318,
+   "y": 346.9
+  },
+  "segments": [
+   {
+    "page": 318,
+    "y0": 98.1,
+    "y1": 343.0
+   }
+  ],
+  "pages": [
+   318,
+   318
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Hematoloji",
+  "id": "H-34",
+  "orijinal_no": null
+ },
+ {
+  "no": 35,
+  "page": 318,
+  "y": 346.9,
+  "dup": 1,
+  "seq": 35,
   "text": "Hematodan Selami hoca geldi üç soru çektirdi: 1. ALL de prognostik belirteçleri/faktörleri sordu. 2. Lab bulguları mikrositer anemi olan genç bir hanımefendi olgu sorusu... aklına ilk ne gelir... 3. PNH geldi açılımından tedavisine kadar anlattım. Ekülizumab nasıl etki eder sorusunu sordu en son.",
   "text_src": "D",
   "hoca": "—",
@@ -15093,15 +15122,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-34",
+  "id": "H-35",
   "orijinal_no": null
  },
  {
-  "no": 35,
+  "no": 36,
   "page": 318,
   "y": 599.6,
   "dup": 1,
-  "seq": 35,
+  "seq": 36,
   "text": "Hematolojiden Önder hoca - 1-60 yaşında erken hasta halsizlik şikayetiyle gelmiş lab sonuçlarını okudu onun üstünden hastalık ve ayırıcı tanıya gitmemi istedi. 2-63 yaşında erkek hasta lökositoz var nötrofil artmış hastalık ne olabilir dedi tedavisini sordu (kml)",
   "text_src": "D",
   "hoca": "—",
@@ -15122,15 +15151,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-35",
+  "id": "H-36",
   "orijinal_no": null
  },
  {
-  "no": 36,
+  "no": 37,
   "page": 318,
   "y": 730.2,
   "dup": 1,
-  "seq": 36,
+  "seq": 37,
   "text": "Meltem hoca: ALL; yaklaşım, tanı, semptom, klinik, tedavi ? Ramazan hoca: 52 yaşında erkek hasta halsizlik yorgunlukla yanına geldi. Ne zaman başladı halsizliği? Kanaması var mı? Nsaid kullanımı? İsteyeceğin testler Mikrositer anemi çıktı hasta En olası tanı: Dea Bu yaşta en önemli dea nedeni ? Tedavi?",
   "text_src": "D",
   "hoca": "—",
@@ -15166,15 +15195,44 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-36",
+  "id": "H-37",
   "orijinal_no": null
  },
  {
-  "no": 37,
+  "no": 38,
+  "page": 321,
+  "y": 76,
+  "dup": 1,
+  "seq": 38,
+  "text": " LTaner Demirer: tam kandan elde edilen süspansiyonlar saklama koşulları ve süresi .akciğer kanserinin paraneoplastik sendromları hiponatremiye sebep olan durum ne ?HLA tipleri? 4 kardeşi olan bir kişinin HLA su tam uygun donör bulma olasılığı kaçtır?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 321,
+   "y": 531
+  },
+  "segments": [
+   {
+    "page": 321,
+    "y0": 72.1,
+    "y1": 527.1
+   }
+  ],
+  "pages": [
+   321,
+   321
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Hematoloji",
+  "id": "H-38",
+  "orijinal_no": null
+ },
+ {
+  "no": 39,
   "page": 321,
   "y": 531,
   "dup": 1,
-  "seq": 37,
+  "seq": 39,
   "text": " Hakan hoca; Yalnız kemoterapi ile şifa sağlanan hastalıklar neler? Lenfoma etkeni mikroorganizmalar ve bu organizmaya tedavinin hastalığa etkisi Pervin hoca Pnh? Kan transfüzyonunda incelenen hastalıklar?",
   "text_src": "D",
   "hoca": "—",
@@ -15200,15 +15258,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-37",
+  "id": "H-39",
   "orijinal_no": null
  },
  {
-  "no": 38,
+  "no": 40,
   "page": 322,
   "y": 264,
   "dup": 1,
-  "seq": 38,
+  "seq": 40,
   "text": " Hemato Taner hoca - Gelişmiş ülkelerde Fe eksikliği neden olur? - Allojeneik naklin erken ve geç reaksiyonları nelerdir? GVHD cilt bulguları nasıldır? -Onkoloji hedefe yönelik tedavi (transtuzumab falan istemiyor ne istediğini anlamadım) -CPI ilaçlar nelerdir ne işe yarar",
   "text_src": "D",
   "hoca": "—",
@@ -15234,15 +15292,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-38",
+  "id": "H-40",
   "orijinal_no": null
  },
  {
-  "no": 39,
+  "no": 41,
   "page": 323,
   "y": 76,
   "dup": 1,
-  "seq": 39,
+  "seq": 41,
   "text": " Önder hocadan üç soru çektim 1- trombofili yapan nedenler/genetik vs...2- fotoferez nedir? 3-vaka sorusu 25 yaşında kadın hasta hb 8, mcv 70, solukluk halsizlik şikayetiyle geliyor. Tanı? Mikrositer anemi, demir eksikliği olabilir dedim. Nasıl anlarsın dedi ferritine bakarım dedim. Ferritin yüksekmiş dedi. Kronik hastalık anemisi dedim, ondan önce ? dedi, hataylıymış dedi ben bilemeyince, talasemi dedim. Talasemi ve normal bi hb in farkını sordu. Nasıl ayırt ederiz dedi, cevap elektroforez olacak",
   "text_src": "D",
   "hoca": "—",
@@ -15263,15 +15321,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-39",
+  "id": "H-41",
   "orijinal_no": null
  },
  {
-  "no": 40,
+  "no": 42,
   "page": 323,
   "y": 625,
   "dup": 1,
-  "seq": 40,
+  "seq": 42,
   "text": " Meral beksaç: 2 soru çektim.tam kan komponentleri saklama koşulları.diğeri servikal lapi olan hasta lenfoma düşündün ne yaparsın ayırıcı tanıda, lap nasıl olur enfeksiyonda lap nasıl olur, servikal lap yapan enfeksiyonlar neler hodgkin, non hodgkin lenfoma düşünürüm. Flow sitometri, eksizyonel biyopside reed-stenberg hücreleri görünümü. EBV, HIV",
   "text_src": "D",
   "hoca": "—",
@@ -15292,15 +15350,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-40",
+  "id": "H-42",
   "orijinal_no": null
  },
  {
-  "no": 41,
+  "no": 43,
   "page": 323,
   "y": 717,
   "dup": 1,
-  "seq": 41,
+  "seq": 43,
   "text": " Meral hoca- pernisiyöz anemide tanıya nasıl gidilir, kemik iliği biyopsi yapılır mı Hiperkoagülabilite yapn hematolojik hastalıklar Pernisiyöz anemide anti parietal hücre antikorları ve anti intersek faktör antikorları tanıyı destekler fakat kesın tanı ancak BİYOPSİ ile koyulur.",
   "text_src": "D",
   "hoca": "—",
@@ -15326,15 +15384,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-41",
+  "id": "H-43",
   "orijinal_no": null
  },
  {
-  "no": 42,
+  "no": 44,
   "page": 324,
   "y": 314,
   "dup": 1,
-  "seq": 42,
+  "seq": 44,
   "text": " Meltem Hoca: lenfoma tanımı, kökeni, lenfoma yapan enfeksiyöz nedenler. Anemi çeşitleri, dea ve talasemi farkı.",
   "text_src": "D",
   "hoca": "—",
@@ -15360,15 +15418,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-42",
+  "id": "H-44",
   "orijinal_no": null
  },
  {
-  "no": 43,
+  "no": 45,
   "page": 325,
   "y": 76,
   "dup": 1,
-  "seq": 43,
+  "seq": 45,
   "text": " » Önder Arslan: Hiperkoagulabilite sebepleri, monoklonalgamapatiler (nasıl tanı alır)",
   "text_src": "D",
   "hoca": "—",
@@ -15389,15 +15447,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-43",
+  "id": "H-45",
   "orijinal_no": null
  },
  {
-  "no": 44,
+  "no": 46,
   "page": 325,
   "y": 434,
   "dup": 1,
-  "seq": 44,
+  "seq": 46,
   "text": " Hematoda acile ateş dispne ile gelen hasta lökositi 190 bin hadi ben sana Hb: 8 ile trombosit: 25 bin onları da vereyim dedi, akut lösemi Makrositer Hb düşük anemi dedi, hemolitik anemi içinden hereditersferositozu sordu",
   "text_src": "D",
   "hoca": "—",
@@ -15423,15 +15481,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-44",
+  "id": "H-46",
   "orijinal_no": null
  },
  {
-  "no": 45,
+  "no": 47,
   "page": 326,
   "y": 77,
   "dup": 1,
-  "seq": 45,
+  "seq": 47,
   "text": " ♦ Hematodan, kemik iliğinde %15 plazma hücresi olan hastaya, böbrek ve yağ doku biyopsisi bir de EKO çekimi düşünülüyormuş. Ayırıcı tanıda düşünülen hastalık nedir? plazma hücre hastalıklarını saydım. Mültiple myelom ve Amiloidoz'mus. Özellikle yağ doku biyopsisinden.çıkarmamız gerekiyormuş. ♦ Etyolojisinden bağımsız olarak hemolizde kanda hangi değişiklikler görülür? LDH, indirekt bilirubin, haptoglobin filan.",
   "text_src": "D",
   "hoca": "—",
@@ -15452,15 +15510,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-45",
+  "id": "H-47",
   "orijinal_no": null
  },
  {
-  "no": 46,
+  "no": 48,
   "page": 326,
   "y": 474,
   "dup": 1,
-  "seq": 46,
+  "seq": 48,
   "text": " ♦ KLL prognozu nasıldır, neye göre değişir? ♦ Akut lösemide tanı ve tedavi yöntemi (ilaç ismi istemedi özellikle) ilaç ezberlemeyin.",
   "text_src": "D",
   "hoca": "—",
@@ -15491,15 +15549,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-46",
+  "id": "H-48",
   "orijinal_no": null
  },
  {
-  "no": 47,
+  "no": 49,
   "page": 328,
   "y": 312,
   "dup": 1,
-  "seq": 47,
+  "seq": 49,
   "text": " ALL'de tedavi şeması nasıldır? Genel olarak ALL'yi anlattırdı. Hematopoetik kök hücre kaynakları nelerdir?",
   "text_src": "D",
   "hoca": "—",
@@ -15525,15 +15583,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-47",
+  "id": "H-49",
   "orijinal_no": null
  },
  {
-  "no": 48,
+  "no": 50,
   "page": 329,
   "y": 29,
   "dup": 1,
-  "seq": 48,
+  "seq": 50,
   "text": "• Hematoloji 2 olgu sorusu Bel ağrısı ve ani yüfüyememe şikayeti ile gelen hastada hiperkalsemi var tanı ve tedavi ( multiplmyeloma - hiperkalsemi tedavisi)",
   "text_src": "D",
   "hoca": "—",
@@ -15569,15 +15627,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-48",
+  "id": "H-50",
   "orijinal_no": null
  },
  {
-  "no": 49,
+  "no": 51,
   "page": 332,
   "y": 20.2,
   "dup": 1,
-  "seq": 49,
+  "seq": 51,
   "text": "• meral.kubilayhoca:hla nedir kacaayrilir ve nelerdir,ne içihkullani|ir(hânği nakillerde %100 uyum aranir)2-acile 19.0 bin lokâsit ve yuksekateslehelengenchastanin tedavisinde neler uaparsin",
   "text_src": "D",
   "hoca": "—",
@@ -15603,15 +15661,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-49",
+  "id": "H-51",
   "orijinal_no": null
  },
  {
-  "no": 50,
+  "no": 52,
   "page": 333,
   "y": 77,
   "dup": 1,
-  "seq": 50,
+  "seq": 52,
   "text": " ♦ Meltem Hoca iki soru çektirdi. Kan bağışında dikkat edilmesi gerekenler ve yapılanlar (cross match , hbv, sifîliz, cmv yok, hb -trombosit-lökosit değerleri, ilaç kullanımı, cinsel şüpheler vs.)",
   "text_src": "D",
   "hoca": "—",
@@ -15652,15 +15710,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-50",
+  "id": "H-52",
   "orijinal_no": null
  },
  {
-  "no": 51,
+  "no": 53,
   "page": 337,
   "y": 287.6,
   "dup": 1,
-  "seq": 51,
+  "seq": 53,
   "text": "Hematoyu Ahmet hoca sordu. Soru çektirmedi. ♦ Hasta sana bende lenfoma varmış diye geldi. Sol tarafta boynunda şişlik var. Başka ne bilmek istersin? (Hangi tür lenfoma olduğunu bilmek isterim.) ♦ Hasta diffuz büyük B hücreli lenfomaymış. Başka ne bilmek istersin? Evresini bilmek isterim >=> Ann arbor evrelemesi. İPİ skoruna göre prognozunu bilmek isterim yaş >60, Ldh normal, ecog 2, evre 3-4, extranodal tutulum 2 ♦ Son 20 yıldır lenfomanın standart tedavisine eklenen ilaç? (Rituximab CD20 antikoru üzerinden etkili) ♦ Lenfomanın standart tedavisi? (R-CHOP; Rtixumab, siklofosfamid, adrianmisin, vinkristin, prednizolon; ilaç isimlerini saydırmadı)",
   "text_src": "D",
   "hoca": "—",
@@ -15691,15 +15749,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-51",
+  "id": "H-53",
   "orijinal_no": null
  },
  {
-  "no": 52,
+  "no": 54,
   "page": 339,
   "y": 76,
   "dup": 1,
-  "seq": 52,
+  "seq": 54,
   "text": "muhit hoca ve ramazan hoca.olgu sorusu burun kanamasi bas dönmesi anemi li hsta ttp.ttpnin özellikleri tanısı vs.bide faktör inhibisyonu",
   "text_src": "D",
   "hoca": "—",
@@ -15720,15 +15778,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-52",
+  "id": "H-54",
   "orijinal_no": null
  },
  {
-  "no": 53,
+  "no": 55,
   "page": 339,
   "y": 266,
   "dup": 1,
-  "seq": 53,
+  "seq": 55,
   "text": "Hipokrommikrositer anemi olgusu soyledidea ve talasemi dusunmemizi istiyo 50 yasindatalasemi hastasi yasar mi dedi minörse yâsarmis. Bi de talasemide hangi tetkiki yapâriz ve ne bekleriz dedi;",
   "text_src": "D",
   "hoca": "—",
@@ -15754,15 +15812,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-53",
+  "id": "H-55",
   "orijinal_no": null
  },
  {
-  "no": 54,
+  "no": 56,
   "page": 340,
   "y": 76,
   "dup": 1,
-  "seq": 54,
+  "seq": 56,
   "text": "Multiplemiyelöre tuttuğu organlar vepatofizyolojisini sordu. Mezenterikventrombozunu sordu ama zor,diye iptafetti",
   "text_src": "D",
   "hoca": "—",
@@ -15788,15 +15846,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-54",
+  "id": "H-56",
   "orijinal_no": null
  },
  {
-  "no": 55,
+  "no": 57,
   "page": 341,
   "y": 76,
   "dup": 1,
-  "seq": 55,
+  "seq": 57,
   "text": " Hematoda kanama diyatezi ile gelen hastada anamnez fizik muayene labarotuvar bulguları nelerdir diye bir soru vardı. Kanama dıyatezinde hasta hangi şikayetlerle gelir diyr devam etti hemofili vvvhastaligı farkı falan gibi sorular geldi",
   "text_src": "D",
   "hoca": "—",
@@ -15827,15 +15885,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-55",
+  "id": "H-57",
   "orijinal_no": null
  },
  {
-  "no": 56,
+  "no": 58,
   "page": 343,
   "y": 75.9,
   "dup": 1,
-  "seq": 56,
+  "seq": 58,
   "text": ". Taner Hoca: 77 yasinda erkek hâsta multiplelenfadenopatiler ve splenomegalisi var ayiricitanilarda ne dusunulur? İlk akla gelen KLL, lenfoproliferatifhastaliklar, lenfomalar. Nonhodgkin bu hastada daha cok olur dedi, bu hastadahangi tipi olabilir en cok ihtimalle dedi, follikulerlenfomaymis. Hiperviskozite nedir, yapan sebepler? Myeloproliferatifhastaliklar ve ozeTlikleVValdenstrommâkfoglobulinemisini soylememizi bekliyor. Hiperviskozite hangi bulgularla gelir diye de sordu",
   "text_src": "D",
   "hoca": "—",
@@ -15861,15 +15919,15 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-56",
+  "id": "H-58",
   "orijinal_no": null
  },
  {
-  "no": 57,
+  "no": 59,
   "page": 344,
   "y": 76,
   "dup": 1,
-  "seq": 57,
+  "seq": 59,
   "text": " Cihan hoca / Sinem hoca Hemato :37crohn orta ciddi hastalık tedavisi 58 ince barsaktamalabsorbsiyon yapan hastalıklar Gastro: 12, pernisiyoz anemi 35 akut lösemi klinik lab",
   "text_src": "D",
   "hoca": "—",
@@ -15890,65 +15948,7 @@
   ],
   "start_src": "DAKTİLO",
   "konu": "Hematoloji",
-  "id": "H-57",
-  "orijinal_no": null
- },
- {
-  "no": 9001,
-  "page": 318,
-  "y": 102,
-  "dup": 1,
-  "seq": 9001,
-  "text": "epistaksis ve diş eti kanamasıyla gelen hastadan nasıl anamnez alırsın ? ne düşünürsün",
-  "text_src": "D",
-  "hoca": "—",
-  "end": {
-   "page": 318,
-   "y": 346.9
-  },
-  "segments": [
-   {
-    "page": 318,
-    "y0": 98.1,
-    "y1": 343.0
-   }
-  ],
-  "pages": [
-   318,
-   318
-  ],
-  "start_src": "DAKTİLO",
-  "konu": "Hematoloji",
-  "id": "H-9001",
-  "orijinal_no": null
- },
- {
-  "no": 9002,
-  "page": 321,
-  "y": 76,
-  "dup": 1,
-  "seq": 9002,
-  "text": " LTaner Demirer: tam kandan elde edilen süspansiyonlar saklama koşulları ve süresi .akciğer kanserinin paraneoplastik sendromları hiponatremiye sebep olan durum ne ?HLA tipleri? 4 kardeşi olan bir kişinin HLA su tam uygun donör bulma olasılığı kaçtır?",
-  "text_src": "D",
-  "hoca": "—",
-  "end": {
-   "page": 321,
-   "y": 531
-  },
-  "segments": [
-   {
-    "page": 321,
-    "y0": 72.1,
-    "y1": 527.1
-   }
-  ],
-  "pages": [
-   321,
-   321
-  ],
-  "start_src": "DAKTİLO",
-  "konu": "Hematoloji",
-  "id": "H-9002",
+  "id": "H-59",
   "orijinal_no": null
  }
 ]
