@@ -38,4 +38,6 @@ for rid in sys.argv[1:]:
         acc += norm(paras[i][2]); i += 1
     out = ['## Soru'] + ['[DAKTİLO] '+p[2] if k == 0 else p[2] for k, p in enumerate(paras[:i])] + ['## Cevap'] + [p[2] for p in paras[i:]]
     (tmp/f'tl_{rid}.txt').write_text('\n'.join(out), encoding='utf-8')
+    import json as _j
+    (tmp/f'ty_{rid}.json').write_text(_j.dumps([{'p':a,'y':b,'t':c} for a,b,c in paras[i:]], ensure_ascii=False), encoding='utf-8')
     print(rid, len(paras), 'blok; soru blok:', i)
