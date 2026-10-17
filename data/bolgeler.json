@@ -6580,5 +6580,1099 @@
   "konu": "Gastroenteroloji",
   "id": "G-49",
   "orijinal_no": "11"
+ },
+ {
+  "no": 50,
+  "page": 121,
+  "y": 207,
+  "dup": 1,
+  "seq": 50,
+  "text": "12. Akalazya tanı kriterleri, tedavi (ANLATILDI)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 121,
+   "y": 256
+  },
+  "segments": [
+   {
+    "page": 121,
+    "y0": 203.1,
+    "y1": 252.1
+   }
+  ],
+  "pages": [
+   121,
+   121
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-50",
+  "orijinal_no": "12"
+ },
+ {
+  "no": 51,
+  "page": 121,
+  "y": 256,
+  "dup": 1,
+  "seq": 51,
+  "text": "13. Özofageal disfaji düşünülen hastada organik ve fonsiyonel nedenler",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 121,
+   "y": 756
+  },
+  "segments": [
+   {
+    "page": 121,
+    "y0": 252.1,
+    "y1": 752.1
+   }
+  ],
+  "pages": [
+   121,
+   121
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-51",
+  "orijinal_no": "13"
+ },
+ {
+  "no": 52,
+  "page": 121,
+  "y": 756,
+  "dup": 1,
+  "seq": 52,
+  "text": "14. Bilirubin-safra arasındaki fark",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 122,
+   "y": 227
+  },
+  "segments": [
+   {
+    "page": 121,
+    "y0": 752.1,
+    "y1": 866.7
+   },
+   {
+    "page": 122,
+    "y0": 0.0,
+    "y1": 223.1
+   }
+  ],
+  "pages": [
+   121,
+   122
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-52",
+  "orijinal_no": "14"
+ },
+ {
+  "no": 53,
+  "page": 122,
+  "y": 227,
+  "dup": 1,
+  "seq": 53,
+  "text": "15. Gilbert sendrom.y, tanısı nasıl konulur?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 122,
+   "y": 429
+  },
+  "segments": [
+   {
+    "page": 122,
+    "y0": 223.1,
+    "y1": 425.1
+   }
+  ],
+  "pages": [
+   122,
+   122
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-53",
+  "orijinal_no": "15"
+ },
+ {
+  "no": 54,
+  "page": 122,
+  "y": 429,
+  "dup": 1,
+  "seq": 54,
+  "text": "16. PSK-PBK farkı, tedavileri",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 122,
+   "y": 518
+  },
+  "segments": [
+   {
+    "page": 122,
+    "y0": 425.1,
+    "y1": 514.1
+   }
+  ],
+  "pages": [
+   122,
+   122
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-54",
+  "orijinal_no": "16"
+ },
+ {
+  "no": 55,
+  "page": 122,
+  "y": 518,
+  "dup": 1,
+  "seq": 55,
+  "text": "17. Parasetamole bağlı KC toksititesi nedir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 122,
+   "y": 746
+  },
+  "segments": [
+   {
+    "page": 122,
+    "y0": 514.1,
+    "y1": 742.1
+   }
+  ],
+  "pages": [
+   122,
+   122
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-55",
+  "orijinal_no": "17"
+ },
+ {
+  "no": 56,
+  "page": 122,
+  "y": 746,
+  "dup": 1,
+  "seq": 56,
+  "text": "18. Ascaris lumrîcoides yaşam döngüsü",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 123,
+   "y": 256
+  },
+  "segments": [
+   {
+    "page": 122,
+    "y0": 742.1,
+    "y1": 866.7
+   },
+   {
+    "page": 123,
+    "y0": 0.0,
+    "y1": 252.1
+   }
+  ],
+  "pages": [
+   122,
+   123
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-56",
+  "orijinal_no": "18"
+ },
+ {
+  "no": 57,
+  "page": 123,
+  "y": 256,
+  "dup": 1,
+  "seq": 57,
+  "text": "19. İnaktif HBV nedir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 123,
+   "y": 467
+  },
+  "segments": [
+   {
+    "page": 123,
+    "y0": 252.1,
+    "y1": 463.1
+   }
+  ],
+  "pages": [
+   123,
+   123
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-57",
+  "orijinal_no": "19"
+ },
+ {
+  "no": 58,
+  "page": 123,
+  "y": 467,
+  "dup": 1,
+  "seq": 58,
+  "text": "20. KC fonksiyon testleri nedir? (ANLATILDI)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 123,
+   "y": 491
+  },
+  "segments": [
+   {
+    "page": 123,
+    "y0": 463.1,
+    "y1": 487.1
+   }
+  ],
+  "pages": [
+   123,
+   123
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-58",
+  "orijinal_no": "20"
+ },
+ {
+  "no": 59,
+  "page": 123,
+  "y": 491,
+  "dup": 1,
+  "seq": 59,
+  "text": "21. Kolestaz enzimleri (ANLATILDI)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 123,
+   "y": 516
+  },
+  "segments": [
+   {
+    "page": 123,
+    "y0": 487.1,
+    "y1": 512.1
+   }
+  ],
+  "pages": [
+   123,
+   123
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-59",
+  "orijinal_no": "21"
+ },
+ {
+  "no": 60,
+  "page": 123,
+  "y": 516,
+  "dup": 1,
+  "seq": 60,
+  "text": "22. Kronik HCV tedavisi (ANLATILDI)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 123,
+   "y": 540
+  },
+  "segments": [
+   {
+    "page": 123,
+    "y0": 512.1,
+    "y1": 536.1
+   }
+  ],
+  "pages": [
+   123,
+   123
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-60",
+  "orijinal_no": "22"
+ },
+ {
+  "no": 61,
+  "page": 123,
+  "y": 540,
+  "dup": 1,
+  "seq": 61,
+  "text": "23. Pankreas ca anlatınız, risk, tedavi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 124,
+   "y": 321
+  },
+  "segments": [
+   {
+    "page": 123,
+    "y0": 536.1,
+    "y1": 866.7
+   },
+   {
+    "page": 124,
+    "y0": 0.0,
+    "y1": 317.1
+   }
+  ],
+  "pages": [
+   123,
+   124
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-61",
+  "orijinal_no": "23"
+ },
+ {
+  "no": 62,
+  "page": 124,
+  "y": 321,
+  "dup": 1,
+  "seq": 62,
+  "text": "24. Kronik pankreatit risk faktörleri, şiddetini gösteren bulgular (ANLATILDI)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 124,
+   "y": 345
+  },
+  "segments": [
+   {
+    "page": 124,
+    "y0": 317.1,
+    "y1": 341.1
+   }
+  ],
+  "pages": [
+   124,
+   124
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-62",
+  "orijinal_no": "24"
+ },
+ {
+  "no": 63,
+  "page": 124,
+  "y": 345,
+  "dup": 1,
+  "seq": 63,
+  "text": "25. Akut pankreatit hasar nedenleri, tedavisi (ANLATILDI)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 124,
+   "y": 370
+  },
+  "segments": [
+   {
+    "page": 124,
+    "y0": 341.1,
+    "y1": 366.1
+   }
+  ],
+  "pages": [
+   124,
+   124
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-63",
+  "orijinal_no": "25"
+ },
+ {
+  "no": 64,
+  "page": 124,
+  "y": 370,
+  "dup": 1,
+  "seq": 64,
+  "text": "26. Akut KC yetmezliği nedir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 124,
+   "y": 516
+  },
+  "segments": [
+   {
+    "page": 124,
+    "y0": 366.1,
+    "y1": 512.1
+   }
+  ],
+  "pages": [
+   124,
+   124
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-64",
+  "orijinal_no": "26"
+ },
+ {
+  "no": 65,
+  "page": 124,
+  "y": 516,
+  "dup": 1,
+  "seq": 65,
+  "text": "27. Ülkemizde en çok hangi hepatit",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 124,
+   "y": 564
+  },
+  "segments": [
+   {
+    "page": 124,
+    "y0": 512.1,
+    "y1": 560.1
+   }
+  ],
+  "pages": [
+   124,
+   124
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-65",
+  "orijinal_no": "27"
+ },
+ {
+  "no": 66,
+  "page": 124,
+  "y": 564,
+  "dup": 1,
+  "seq": 66,
+  "text": "28. HDV coenfeksiyon-superenfeksiyon nedir, farkı",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 124,
+   "y": 743
+  },
+  "segments": [
+   {
+    "page": 124,
+    "y0": 560.1,
+    "y1": 739.1
+   }
+  ],
+  "pages": [
+   124,
+   124
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-66",
+  "orijinal_no": "28"
+ },
+ {
+  "no": 67,
+  "page": 124,
+  "y": 743,
+  "dup": 1,
+  "seq": 67,
+  "text": "29. Malabsorbsiyona yol açan hastalıkları anlatınız.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 125,
+   "y": 273
+  },
+  "segments": [
+   {
+    "page": 124,
+    "y0": 739.1,
+    "y1": 866.7
+   },
+   {
+    "page": 125,
+    "y0": 0.0,
+    "y1": 269.1
+   }
+  ],
+  "pages": [
+   124,
+   125
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-67",
+  "orijinal_no": "29"
+ },
+ {
+  "no": 68,
+  "page": 125,
+  "y": 273,
+  "dup": 1,
+  "seq": 68,
+  "text": "30. Peptik ülser ağrısı/ safra kesesi ağrısı (ANLATILDI)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 125,
+   "y": 297
+  },
+  "segments": [
+   {
+    "page": 125,
+    "y0": 269.1,
+    "y1": 293.1
+   }
+  ],
+  "pages": [
+   125,
+   125
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-68",
+  "orijinal_no": "30"
+ },
+ {
+  "no": 69,
+  "page": 125,
+  "y": 297,
+  "dup": 1,
+  "seq": 69,
+  "text": "31. Peptik ülser perfore olursa FM'de ne olur?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 125,
+   "y": 386
+  },
+  "segments": [
+   {
+    "page": 125,
+    "y0": 293.1,
+    "y1": 382.1
+   }
+  ],
+  "pages": [
+   125,
+   125
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-69",
+  "orijinal_no": "31"
+ },
+ {
+  "no": 70,
+  "page": 125,
+  "y": 386,
+  "dup": 1,
+  "seq": 70,
+  "text": "\"32. Pilorstenoziu hasta FM",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 125,
+   "y": 475
+  },
+  "segments": [
+   {
+    "page": 125,
+    "y0": 382.1,
+    "y1": 471.1
+   }
+  ],
+  "pages": [
+   125,
+   125
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-70",
+  "orijinal_no": "32"
+ },
+ {
+  "no": 71,
+  "page": 125,
+  "y": 475,
+  "dup": 1,
+  "seq": 71,
+  "text": "33. Akut kolesistit tablosu ve tanısı (ANLATILDI)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 125,
+   "y": 500
+  },
+  "segments": [
+   {
+    "page": 125,
+    "y0": 471.1,
+    "y1": 496.1
+   }
+  ],
+  "pages": [
+   125,
+   125
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-71",
+  "orijinal_no": "33"
+ },
+ {
+  "no": 72,
+  "page": 125,
+  "y": 500,
+  "dup": 1,
+  "seq": 72,
+  "text": "34. Spontan bakteriyal peritonit nedir, tanısı nasıl konur, tedavisi (ANLATILDI)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 125,
+   "y": 573
+  },
+  "segments": [
+   {
+    "page": 125,
+    "y0": 496.1,
+    "y1": 569.1
+   }
+  ],
+  "pages": [
+   125,
+   125
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-72",
+  "orijinal_no": "34"
+ },
+ {
+  "no": 73,
+  "page": 125,
+  "y": 573,
+  "dup": 1,
+  "seq": 73,
+  "text": "35. En sık görülen herediter KC hastalığı, hepatik, nörolojik, mikst form ve fulminan prezentasyonunu",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 126,
+   "y": 191
+  },
+  "segments": [
+   {
+    "page": 125,
+    "y0": 569.1,
+    "y1": 866.7
+   },
+   {
+    "page": 126,
+    "y0": 0.0,
+    "y1": 187.1
+   }
+  ],
+  "pages": [
+   125,
+   126
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-73",
+  "orijinal_no": "35"
+ },
+ {
+  "no": 74,
+  "page": 126,
+  "y": 191,
+  "dup": 1,
+  "seq": 74,
+  "text": "36. Osmotik-sekretuar diyareleri anlat, üçer örnek ver. (ANLATILDI)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 126,
+   "y": 240
+  },
+  "segments": [
+   {
+    "page": 126,
+    "y0": 187.1,
+    "y1": 236.1
+   }
+  ],
+  "pages": [
+   126,
+   126
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-74",
+  "orijinal_no": "36"
+ },
+ {
+  "no": 75,
+  "page": 126,
+  "y": 240,
+  "dup": 1,
+  "seq": 75,
+  "text": "37. Maldigesyona yol açan pankreas hastalıklarını anlatınız.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 126,
+   "y": 362
+  },
+  "segments": [
+   {
+    "page": 126,
+    "y0": 236.1,
+    "y1": 358.1
+   }
+  ],
+  "pages": [
+   126,
+   126
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-75",
+  "orijinal_no": "37"
+ },
+ {
+  "no": 76,
+  "page": 126,
+  "y": 362,
+  "dup": 1,
+  "seq": 76,
+  "text": "38. PBK tanısı nasıl konur, şikayet, lab",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 126,
+   "y": 481
+  },
+  "segments": [
+   {
+    "page": 126,
+    "y0": 358.1,
+    "y1": 477.1
+   }
+  ],
+  "pages": [
+   126,
+   126
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-76",
+  "orijinal_no": "38"
+ },
+ {
+  "no": 77,
+  "page": 126,
+  "y": 481,
+  "dup": 1,
+  "seq": 77,
+  "text": "39. Akut kolesistik tablosu, yapılan tetkikleri anlat. (ANLATILDI)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 126,
+   "y": 554
+  },
+  "segments": [
+   {
+    "page": 126,
+    "y0": 477.1,
+    "y1": 550.1
+   }
+  ],
+  "pages": [
+   126,
+   126
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-77",
+  "orijinal_no": "39"
+ },
+ {
+  "no": 78,
+  "page": 126,
+  "y": 554,
+  "dup": 1,
+  "seq": 78,
+  "text": "40. PBK etyopatogenez, klinik belirtileri",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 127,
+   "y": 175
+  },
+  "segments": [
+   {
+    "page": 126,
+    "y0": 550.1,
+    "y1": 866.7
+   },
+   {
+    "page": 127,
+    "y0": 0.0,
+    "y1": 171.1
+   }
+  ],
+  "pages": [
+   126,
+   127
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-78",
+  "orijinal_no": "40"
+ },
+ {
+  "no": 79,
+  "page": 127,
+  "y": 175,
+  "dup": 1,
+  "seq": 79,
+  "text": "41. Otoimmun hepatit klinik prezentasyonu, kimlerde hangi yaşlarda görülür, tedavi",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 127,
+   "y": 443
+  },
+  "segments": [
+   {
+    "page": 127,
+    "y0": 171.1,
+    "y1": 439.1
+   }
+  ],
+  "pages": [
+   127,
+   127
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-79",
+  "orijinal_no": "41"
+ },
+ {
+  "no": 80,
+  "page": 127,
+  "y": 443,
+  "dup": 1,
+  "seq": 80,
+  "text": "42. Non-alkolik steatohepatik hastalığın tanısı, klinik ve lab bulguları nelerdir, nasıl tedavi edersin?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 128,
+   "y": 435
+  },
+  "segments": [
+   {
+    "page": 127,
+    "y0": 439.1,
+    "y1": 866.7
+   },
+   {
+    "page": 128,
+    "y0": 0.0,
+    "y1": 431.1
+   }
+  ],
+  "pages": [
+   127,
+   128
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-80",
+  "orijinal_no": "42"
+ },
+ {
+  "no": 81,
+  "page": 128,
+  "y": 435,
+  "dup": 1,
+  "seq": 81,
+  "text": "43. Akut üst GİS kanama nedenleri, başlangıç tedavi yaklaşımı",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 128,
+   "y": 572
+  },
+  "segments": [
+   {
+    "page": 128,
+    "y0": 431.1,
+    "y1": 568.1
+   }
+  ],
+  "pages": [
+   128,
+   128
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-81",
+  "orijinal_no": "43"
+ },
+ {
+  "no": 82,
+  "page": 128,
+  "y": 572,
+  "dup": 1,
+  "seq": 82,
+  "text": "44. Akut alt GİS kanama nedenleri, temel yaklaşımı anlatın.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 129,
+   "y": 248
+  },
+  "segments": [
+   {
+    "page": 128,
+    "y0": 568.1,
+    "y1": 866.7
+   },
+   {
+    "page": 129,
+    "y0": 0.0,
+    "y1": 244.1
+   }
+  ],
+  "pages": [
+   128,
+   129
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-82",
+  "orijinal_no": "44"
+ },
+ {
+  "no": 83,
+  "page": 129,
+  "y": 248,
+  "dup": 1,
+  "seq": 83,
+  "text": "45. Gizli kanama nedenleri (obskür) (Parantez içine aldırmayın ((önceki parantez içine)) soruda belki obskür sormuştur diye tuttum)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 129,
+   "y": 597
+  },
+  "segments": [
+   {
+    "page": 129,
+    "y0": 244.1,
+    "y1": 593.1
+   }
+  ],
+  "pages": [
+   129,
+   129
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-83",
+  "orijinal_no": "45"
+ },
+ {
+  "no": 84,
+  "page": 129,
+  "y": 597,
+  "dup": 1,
+  "seq": 84,
+  "text": "46. Hematemez şikayetiyle başvuran hastaya yaklaşım nedir? (Cevap biraz uzun olacak öhm)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 130,
+   "y": 644
+  },
+  "segments": [
+   {
+    "page": 129,
+    "y0": 593.1,
+    "y1": 866.7
+   },
+   {
+    "page": 130,
+    "y0": 0.0,
+    "y1": 640.1
+   }
+  ],
+  "pages": [
+   129,
+   130
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-84",
+  "orijinal_no": "46"
+ },
+ {
+  "no": 85,
+  "page": 130,
+  "y": 644,
+  "dup": 1,
+  "seq": 85,
+  "text": "47. GİS kanamaları (ANLATILDI)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 131,
+   "y": 76.0
+  },
+  "segments": [
+   {
+    "page": 130,
+    "y0": 640.1,
+    "y1": 866.7
+   },
+   {
+    "page": 131,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   130,
+   131
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-85",
+  "orijinal_no": "47"
  }
 ]
