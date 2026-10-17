@@ -12,7 +12,7 @@
 | Onkoloji O- | 5 | 419–428 | tamamı dijital el yazısı (sarı vurgulu başlıklar) |
 | İmmünoloji-Alerji I- | 22 | 429–433 | tamamı daktilo (metin katmanı temiz) |
 
-**Toplam `[?]` = 366 civarı, `[OKUNAMADI]` = 26** (kesin liste: `data/emin_degil.md`, `python tools/belirsiz.py` ile yeniden üretilir). Dağılım (`[?]`): N 198, R 70, G 50, O 20, H 8, E 0, I 0; (`[OKUNAMADI]`): N 19, G 5, R 1, H 1. El yazısı okunan yerlerde (özellikle Onkoloji O-1..O-5) tahmin edilen kelimeler `[?]` ile işaretlidir; kullanıcı `emin_degil.md` üzerinden kontrol edecek.
+**Toplam `[?]` = 346, `[OKUNAMADI]` = 26** (kesin liste: `data/emin_degil.md`, `python tools/belirsiz.py` ile yeniden üretilir). Dağılım (`[?]`): N 198, R 70, G 50, O 20, H 8, E 0, I 0; (`[OKUNAMADI]`): N 19, G 5, R 1, H 1. El yazısı okunan yerlerde (özellikle Onkoloji O-1..O-5) tahmin edilen kelimeler `[?]` ile işaretlidir; kullanıcı `emin_degil.md` üzerinden kontrol edecek.
 
 ## Belirsiz sınırlar (bölgenin nerede başlayıp bittiği kesin değil)
 - N: N-153/N-154 arası el yazısı not; G: G-28, G-41/G-42, G-36, G-86/G-87, G-103..G-108, G-113..G-115, G-126, G-143; R: R-1..R-21, R-110..R-123 (ayrıntı aşağıdaki bölüm notlarında).
@@ -27,7 +27,7 @@
 - Metin katmanı görünür (Tr≠3) alınmıştır; gizli OCR kullanılmadı, OCR aracı kullanılmadı.
 - E-1..E-89 (s.345–367) ve s.371–377, 380–418 slayt/görsel kısımları görselden okunup yazıldı; s.368–418 metinleri daktilo katmanı + görsel kontrol (soru satırı kalın yazıdan otomatik bulundu, `tools/kalin.py`).
 - Tablolar ve akış şemaları satır/ok bağlantısı korunarak tek paragrafta `|`, `;`, `→` ile yazıldı; resimler `(resim: …)` ile tarif edildi.
-- Her 5 grupta iki kayıt görselle yeniden karşılaştırma yapıldı (Endokrin grupları için E-90..E-185 kayıtlarında bölge başlangıçlarını kontakt tablolarla görsel doğruladım; ayrıntı aşağıda).
+- Endokrin E-1..E-83 bölge başlangıçları kontakt sayfa görselleriyle (tmp/sheet.py) kontrol edildi. E-84..E-188 başlangıçları kalın yazı (bold) bilgisinden otomatik bulundu; her kayıt tek tek görselle yeniden karşılaştırılmadı, yalnızca slayt/şema içeren sayfalar görselden okundu. Düz metin kısımlar metin katmanından alındı; bu kısımlarda beklenen hata türü: yanlış paragraf birleştirme/bölme (içerik kaybı yok, sayfa başına karakter sayısı kontrol edildi yalnız İmmünoloji için).
 - Onkoloji el yazısı (O-1..O-5): çok sayıda kelime tahmini; hepsi `[?]` veya "(…)" notlarıyla işaretli, kontrol edilmeli.
 
 ---
@@ -176,10 +176,10 @@ Bu kural N-46'dan itibaren okurken baştan uygulanır.
 - `data/emin_degil.md`: tüm `[?]` / `[OKUNAMADI]` yerleri id+sayfa+bağlamla listeler (kullanıcı sonra kontrol edecek). Her grup sonunda `python tools/belirsiz.py` ile yeniden üretilecek ve commit'lenecek. Tahmin yürütülen/emin olunamayan el yazısı okumaları her zaman `[?]` ile işaretlenir.
 
 ## Endokrinoloji (E-) — bitti (E-1..E-188)
-- s.345–367: tamamen görsel (kağıt/ekran görüntüsü çıkmış-soru listesi); her sayfa üst/alt yarı ayrı okunup yazıldı. E-1..E-89 numaralı sorular; E-42..E-43 ve E-76 gibi sayfa geçişi olan sorular tek kayıt.
+- s.345–367: tamamen görsel (kağıt/ekran görüntüsü çıkmış-soru listesi); her sayfa üst/alt yarı ayrı okunup yazıldı. E-1..E-89 numaralı sorular; Sayfa geçişi olan sorular tek kayıt.
 - s.368–418: metin katmanı temiz; soru satırları kalın (bold) yazıdan bulundu, slayt/şema görselleri (s.371–377, 380–382, 387–388, 390, 394–395, 397–398, 400–402, 407–408, 413–414, 416) görselden okunup yerlerine eklendi.
 - s.368 y90 "Endokrinden de glikozillenmis hemoglobin…" sorusunda soru metni ile cevap tek paragrafta olduğundan cevap kısmı bölünerek yazıldı.
-- Görsel kontrol: E-1..E-83 bölge başlıkları kontakt sayfalarıyla (tmp/sheet.py) doğrulandı; E-84..E-188 bölge başlıkları sayfa ızgarası ile doğrulandı.
+- Görsel kontrol: E-1..E-83 bölge başlıkları kontakt sayfalarıyla (tmp/sheet.py) doğrulandı; E-84..E-188 başlangıçları kalın yazıdan otomatik bulundu (yukarıdaki güvenilirlik notuna bak).
 
 ## Onkoloji (O-) — bitti (O-1..O-5), İmmünoloji-Alerji (I-) — bitti (I-1..I-22)
 - Onkoloji sayfaları: dijital el yazısı (kırmızı) + sarı vurgular (vurgu aktarılmadı); küçük slaytlar `[SLAYT]`.
