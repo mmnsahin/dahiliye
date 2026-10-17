@@ -170,7 +170,8 @@ mark{background:#F5E27A;color:#18211D;border-radius:2px}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .modebtn[aria-pressed="true"]{color:#0c1118}}
 #cards{display:none;max-width:900px;margin:0 auto;padding:0 24px 80px}
 body.cardmode #cards{display:block}
-body.cardmode #main,body.cardmode .tools,body.cardmode .legend{display:none}
+body.cardmode .wrap,body.cardmode .tools,body.cardmode .legend{display:none}
+body.cardmode header.top{padding-bottom:10px}
 .cdeck{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:4px 0 14px}
 .cdeck select{padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);font:inherit;max-width:100%}
 .cstat{display:flex;flex-wrap:wrap;gap:14px;color:var(--muted);font-size:.9rem;margin-bottom:12px}
@@ -207,13 +208,14 @@ body.cardmode #main,body.cardmode .tools,body.cardmode .legend{display:none}
 .fo small{margin-left:auto;color:var(--muted);font-variant-numeric:tabular-nums}
 @media (prefers-reduced-motion:reduce){.fcard{transition:none}}
 .topmodes{margin:0 0 0 auto;flex:0 0 auto}.topmodes .modebtn{padding:8px 14px;min-height:42px}.bartitle{flex:1 1 auto;min-width:0}
+.fsel{flex:1 1 200px;min-width:0;display:flex;justify-content:space-between;align-items:center;gap:10px;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);font:inherit;cursor:pointer;text-align:left}.fsl{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.decks{margin-left:auto;flex:0 0 auto}.decks .modebtn{padding:8px 12px}.cdeck{margin-top:4px}
 </style>
 </head>
 <body>
 <div class="bar"><div class="barin">
   <button class="burger" id="burger" aria-label="Konuları aç" aria-controls="nav" aria-expanded="false"><span></span></button>
   <span class="bartitle" id="bartitle">Dahiliye Sözlü</span>
-  <div class="modes topmodes"><button class="modebtn" id="mRead" aria-pressed="true">Oku</button><button class="modebtn" id="mCards" aria-pressed="false">Kartlar</button></div>
+  <div class="modes topmodes"><button class="modebtn" id="mRead" aria-pressed="true">Ana sayfa</button><button class="modebtn" id="mCards" aria-pressed="false">Kartlar</button></div>
 </div></div>
 <header class="top">
   <h1>Dahiliye Sözlü – Çıkmış Sorular</h1>
@@ -439,7 +441,7 @@ window.addEventListener('scroll', () => { if (scrollY < 120) bartitle.textConten
   const items = () => st.deck === 'r' ? allRaw : allClusters;
   function pool(){
     const hasF = st.ders.size || st.konu.size;
-    return items().filter(({c, k}) => (!hasF || st.ders.has(k.ders) || st.konu.has(k.id)) && (!st.rep || cnt(c) > 1));
+    return items().filter(({k}) => !hasF || st.ders.has(k.ders) || st.konu.has(k.id));
   }
   function shuffle(a){ for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
   function rebuild(){ st.order = shuffle(pool().slice()); st.i = 0; st.flipped = false; }
@@ -465,8 +467,8 @@ window.addEventListener('scroll', () => { if (scrollY < 120) bartitle.textConten
   }
   function render(){
     const n = st.order.length, nf = st.ders.size + st.konu.size;
-    let h = `<div class="modes" style="margin:0 0 12px"><button class="modebtn" data-deck="c" aria-pressed="${st.deck === 'c'}">Başlıklar (${allClusters.length})</button><button class="modebtn" data-deck="r" aria-pressed="${st.deck === 'r'}">Birebir sorular (${allRaw.length})</button></div>`;
-    h += `<div class="cdeck"><button class="fbtn" id="cFilt" aria-expanded="${st.open}">Filtre${nf ? ' (' + nf + ')' : ''} ▾</button><label style="display:flex;gap:8px;align-items:center;color:var(--muted)"><input type="checkbox" id="cRep"${st.rep ? ' checked' : ''}> Yalnızca tekrar edenler</label>${nf ? '<button class="fbtn" id="cClr">Seçimi temizle</button>' : ''}<button class="fbtn" id="cShuf">Karıştır</button></div>`;
+    const label = nf ? [...st.ders, ...[...st.konu].map(id => (DATA.konular.find(k => k.id === id) || {}).title)].slice(0, 2).join(', ') + (nf > 2 ? ' +' + (nf - 2) : '') : 'Tüm konular';
+    let h = `<div class="cdeck"><button class="fsel" id="cFilt" aria-expanded="${st.open}"><span class="fsl">${esc(label)}</span><span aria-hidden="true">▾</span></button>${nf ? '<button class="fbtn" id="cClr" title="Seçimi temizle">×</button>' : ''}<button class="fbtn" id="cShuf">Karıştır</button><div class="modes decks"><button class="modebtn" data-deck="c" aria-pressed="${st.deck === 'c'}" title="Konu başına birleşik cevap">Birleşik (${allClusters.length})</button><button class="modebtn" data-deck="r" aria-pressed="${st.deck === 'r'}" title="Her soru ayrı kart">Birebir (${allRaw.length})</button></div></div>`;
     if (st.open) h += `<div class="fpanel">${filterPanel()}</div>`;
     if (!n) { box.innerHTML = h + '<div class="cdone">Bu filtreyle kart yok.</div>'; return; }
     const it = st.order[st.i], c = it.c, k = it.k, cn = cnt(c);
@@ -497,8 +499,7 @@ window.addEventListener('scroll', () => { if (scrollY < 120) bartitle.textConten
   });
   box.addEventListener('change', e => {
     const t = e.target;
-    if (t.id === 'cRep') { st.rep = t.checked; rebuild(); render(); }
-    else if (t.classList.contains('fd')) { t.checked ? st.ders.add(t.value) : st.ders.delete(t.value); rebuild(); render(); }
+    if (t.classList.contains('fd')) { t.checked ? st.ders.add(t.value) : st.ders.delete(t.value); rebuild(); render(); }
     else if (t.classList.contains('fk')) { t.checked ? st.konu.add(t.value) : st.konu.delete(t.value); rebuild(); render(); }
   });
   document.addEventListener('keydown', e => {
