@@ -5514,5 +5514,383 @@
   "konu": "Gastroenteroloji",
   "id": "G-15",
   "orijinal_no": null
+ },
+ {
+  "no": 16,
+  "page": 105,
+  "y": 23,
+  "dup": 1,
+  "seq": 16,
+  "text": "uzun süre ppi kullanımında neler olur dedi; asit ve mukoza bozukluğuna bağlı gastritler, enfeksiyonlar, demir eksikliği, bl2 eksikliği, özellikle de d vitamini eksikliğini istedi ona bağlı osteomalazi olur dedim",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 105,
+   "y": 172
+  },
+  "segments": [
+   {
+    "page": 105,
+    "y0": 19.1,
+    "y1": 168.1
+   }
+  ],
+  "pages": [
+   105,
+   105
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-16",
+  "orijinal_no": null
+ },
+ {
+  "no": 17,
+  "page": 105,
+  "y": 172,
+  "dup": 1,
+  "seq": 17,
+  "text": "Eozinoﬁlik özofajitte endoskopik bulgu klinik ve disfajinin katı mı sıvıya mı karşı olduğu? 2-)Akalazya tanı testleri ve tedavi yöntemleri",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 105,
+   "y": 252
+  },
+  "segments": [
+   {
+    "page": 105,
+    "y0": 168.1,
+    "y1": 248.1
+   }
+  ],
+  "pages": [
+   105,
+   105
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-17",
+  "orijinal_no": null
+ },
+ {
+  "no": 18,
+  "page": 105,
+  "y": 252,
+  "dup": 1,
+  "seq": 18,
+  "text": "Gastroenteroloji Doç. Dr. Hale Gökcan Reﬂülü bir hastada hangi semptomları beklersin? Tedavisini ve takibini nasıl yaparsın? Banett özofagııs nedir? Akut ve kronik hepatit nedenleri? Kolestaz nedenlerini sordu. Genel olarak tatlı bir hocaydı. Hale Gökcan: İshal nedir? İshal sınıﬂandırmaları nedir? (akut- kronik)(kronikler kendi içinde osmotik, sektretuar vs onları sordu) Dekompanze sirozun vücuttaki etkileri nedir? (siroz, varisler, spontan bakteriyel perikardit, assit vb.)",
+  "text_src": "D",
+  "hoca": "Hale Gökcan",
+  "end": {
+   "page": 107,
+   "y": 12
+  },
+  "segments": [
+   {
+    "page": 105,
+    "y0": 248.1,
+    "y1": 866.7
+   },
+   {
+    "page": 106,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 107,
+    "y0": 0.0,
+    "y1": 8.1
+   }
+  ],
+  "pages": [
+   105,
+   107
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-18",
+  "orijinal_no": null
+ },
+ {
+  "no": 19,
+  "page": 107,
+  "y": 12,
+  "dup": 1,
+  "seq": 19,
+  "text": "28 yaşında kadın, sarılığı var, ek şikayeti yok, ne düşünürsün? • Hepatit için serolojik testler",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 107,
+   "y": 487
+  },
+  "segments": [
+   {
+    "page": 107,
+    "y0": 8.1,
+    "y1": 483.1
+   }
+  ],
+  "pages": [
+   107,
+   107
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-19",
+  "orijinal_no": null
+ },
+ {
+  "no": 20,
+  "page": 107,
+  "y": 487,
+  "dup": 1,
+  "seq": 20,
+  "text": "Ramazan İdilman * indirekt bilirubinemi nedenleri nelerdir? * Direkt bilirubinemi nedenleri nelerdir?",
+  "text_src": "D",
+  "hoca": "Ramazan İdilman",
+  "end": {
+   "page": 107,
+   "y": 673
+  },
+  "segments": [
+   {
+    "page": 107,
+    "y0": 483.1,
+    "y1": 669.1
+   }
+  ],
+  "pages": [
+   107,
+   107
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-20",
+  "orijinal_no": null
+ },
+ {
+  "no": 21,
+  "page": 107,
+  "y": 673,
+  "dup": 1,
+  "seq": 21,
+  "text": "Akut pankreatit etyolojisi, tanı yöntemleri?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 108,
+   "y": 12
+  },
+  "segments": [
+   {
+    "page": 107,
+    "y0": 669.1,
+    "y1": 866.7
+   },
+   {
+    "page": 108,
+    "y0": 0.0,
+    "y1": 8.1
+   }
+  ],
+  "pages": [
+   107,
+   108
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-21",
+  "orijinal_no": null
+ },
+ {
+  "no": 22,
+  "page": 108,
+  "y": 12,
+  "dup": 1,
+  "seq": 22,
+  "text": "Taner Hoca ve Kubilay Hoca İnce bağırsakta olan malabsorbsiyon sebepleri, ayırıcı tanıları Ciddi ülseratif kolit (ciddi olduğunu nasıl anladık) tedavisi",
+  "text_src": "D",
+  "hoca": "Taner, Kubilay",
+  "end": {
+   "page": 108,
+   "y": 401
+  },
+  "segments": [
+   {
+    "page": 108,
+    "y0": 8.1,
+    "y1": 397.1
+   }
+  ],
+  "pages": [
+   108,
+   108
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-22",
+  "orijinal_no": null
+ },
+ {
+  "no": 23,
+  "page": 108,
+  "y": 401,
+  "dup": 1,
+  "seq": 23,
+  "text": "Elektif kolesistektomi ameliyatı yapılacak olan bir hastanın izole aPTTyüksekliği var. Hematolojiye sevk edilmiş. Ne düşünürsün, ne yaparsın?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 108,
+   "y": 610
+  },
+  "segments": [
+   {
+    "page": 108,
+    "y0": 397.1,
+    "y1": 606.1
+   }
+  ],
+  "pages": [
+   108,
+   108
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-23",
+  "orijinal_no": null
+ },
+ {
+  "no": 24,
+  "page": 108,
+  "y": 610,
+  "dup": 1,
+  "seq": 24,
+  "text": "İrfan Hoca ve adını unuttuğum kıvırcık saçlı bir onkocu vardı jüride. Kolon kanseri risk faktörleri, ülseratif kolitli hastaya yaklaşım, ÜK risk faktörleri, ÜK tedavi soruldu.",
+  "text_src": "D",
+  "hoca": "İrfan",
+  "end": {
+   "page": 109,
+   "y": 695
+  },
+  "segments": [
+   {
+    "page": 108,
+    "y0": 606.1,
+    "y1": 866.7
+   },
+   {
+    "page": 109,
+    "y0": 0.0,
+    "y1": 691.1
+   }
+  ],
+  "pages": [
+   108,
+   109
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-24",
+  "orijinal_no": null
+ },
+ {
+  "no": 25,
+  "page": 109,
+  "y": 695,
+  "dup": 1,
+  "seq": 25,
+  "text": "Spontan bakteriyal peritonit, nedir, tanısı için ne yaparsın (Ben kesin tanı için olanı ezberlemiştim sadece ama bu zorunlu mu dedim hayır hocam bu kesin tanı dedim. Normal tanıyı da istiyor.) Bu sirozun nasıl olduğunu gösterir dedi. Dekompanse cevabı istiyomuş. Tedavisinde antibiyotik dedim, ne tür antibiyotikler dedi, bilemedim, ikinci soru \"Portal HT, BT görüntüde ne görürsün?\" Kendisi iptal etti soruyu ben bir şey demeden siz radyolog değilsiniz bunların sorulmaması lazım diye. Tekrarsoru çektim, FAP, tipleri, nasıl takip edersin.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 110,
+   "y": 144
+  },
+  "segments": [
+   {
+    "page": 109,
+    "y0": 691.1,
+    "y1": 866.7
+   },
+   {
+    "page": 110,
+    "y0": 0.0,
+    "y1": 140.1
+   }
+  ],
+  "pages": [
+   109,
+   110
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-25",
+  "orijinal_no": null
+ },
+ {
+  "no": 26,
+  "page": 110,
+  "y": 144,
+  "dup": 1,
+  "seq": 26,
+  "text": "İrfan Hoca bir tane gâstro sorusu çektirdi pankreas tümör markerları ve kolestazdan etkilenmeyen hanGİSi? (spanl, telomeraz, cras, ca242, cal9-9, cea. Etkilenmeyen cras)",
+  "text_src": "D",
+  "hoca": "İrfan",
+  "end": {
+   "page": 110,
+   "y": 235
+  },
+  "segments": [
+   {
+    "page": 110,
+    "y0": 140.1,
+    "y1": 231.1
+   }
+  ],
+  "pages": [
+   110,
+   110
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-26",
+  "orijinal_no": null
+ },
+ {
+  "no": 27,
+  "page": 110,
+  "y": 235,
+  "dup": 1,
+  "seq": 27,
+  "text": "ikinci soruyu soru çektirmeden akalazya ile ilgili her şeyi sordu, tanı tedavi semptom (akalazya tanısı için en az 6 aydırsemptom olmalı, cerrahi gençte dilatasyon yaşlıda, psodoakalazya sebebi maligniteler)",
+  "text_src": "D",
+  "hoca": "İrfan",
+  "end": {
+   "page": 111,
+   "y": 8.0
+  },
+  "segments": [
+   {
+    "page": 110,
+    "y0": 231.1,
+    "y1": 866.7
+   },
+   {
+    "page": 111,
+    "y0": 0.0,
+    "y1": 4.1
+   }
+  ],
+  "pages": [
+   110,
+   111
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-27",
+  "orijinal_no": null
  }
 ]
