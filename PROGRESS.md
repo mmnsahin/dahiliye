@@ -110,3 +110,9 @@ Bu kural N-46'dan itibaren okurken baştan uygulanır.
 - G-28..G-49 okundu (s.111–121 y207). Numaralı daktilo soru listesi (5..11) G-43..G-49 (orijinal_no 5–11); devamı s.121 y207'de (12. soru) başlıyor.
 - belirsiz sınır: G-28 (s.111 y8 ile y89 tek soru sayıldı: "Hastanın ALP ve GGT'si yüksek?" ve "sadece sarılığı ve ALP;GGT…" aynı olgunun alt soruları, kırmızı elmas imleri); G-29..G-32 ("1.–4." numaralı portal HT soruları ayrı kayıt); G-41/G-42 sınırı s.118 y≈356 (tablonun son satırı G-41'de, el yazısı "Gastrektomi" başlığı yarı kesik halde G-42'de); G-36 (s.114 y472 ile y628/y692/y782 alt başlıkları tek soru).
 - Kopya slayt: PBK/PSK slaytı G-36 ve G-41'de; her ikisinde yeniden yazıldı.
+
+## Gastro grup s.121–141 (G-50..G-94)
+- G-50..G-85: numaralı daktilo liste #12–#47 (tamamı metin katmanı; yalnız G-51'de akış şeması görseli); "(ANLATILDI)" ibareli sorular (G-50, G-58, G-59, G-60, G-62, G-63, G-68, G-71, G-72, G-74, G-77, G-85) (cevap yok). Vurgular (sarı/kırmızı/mavi arka plan) taşınmadı.
+- G-86..G-94: ikinci öğrencinin listesi (s.131–141; orijinal_no 1, 14, 2..8). Slayt/fotoğraf görselleri 200–300 dpi parçalarla okundu.
+- belirsiz sınır: G-86/G-87 ("1)…" ve "14) üst gis hastasına yaklaşım" bitişik iki satır; altındaki GİS kanama slaytları G-87'ye verildi, G-86 (cevap yok)); "Alt gis kanama yaklaşım" başlığı ve akış şeması G-87'de; G-92 soru satırı kaynakta bozuk daktilo ("kölitİsüTsFrozâ.kansef'yâp") olduğu gibi bırakıldı; G-89 metin katmanında "karaci¤ere" → "karaciğere" düzeltildi (yazı tipi kodlama sorunu).
+- G-87 slayt el yazısı notlarının sağ kenarı görsel sınırında kesik → [OKUNAMADI].

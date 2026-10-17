@@ -7674,5 +7674,316 @@
   "konu": "Gastroenteroloji",
   "id": "G-85",
   "orijinal_no": "47"
+ },
+ {
+  "no": 86,
+  "page": 131,
+  "y": 76,
+  "dup": 1,
+  "seq": 86,
+  "text": "1)hasta hiç şikayeti yok, yaklaşım / baş dönmesi şok var, yaklaşım / ambulansla gelen hasta yaklaşım(gis kanama)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 131,
+   "y": 114
+  },
+  "segments": [
+   {
+    "page": 131,
+    "y0": 72.1,
+    "y1": 110.1
+   }
+  ],
+  "pages": [
+   131,
+   131
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-86",
+  "orijinal_no": "1"
+ },
+ {
+  "no": 87,
+  "page": 131,
+  "y": 114,
+  "dup": 1,
+  "seq": 87,
+  "text": "14) üst gis hastasına yaklaşım(ciddi, düşük risk vs.)",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 133,
+   "y": 497
+  },
+  "segments": [
+   {
+    "page": 131,
+    "y0": 110.1,
+    "y1": 866.7
+   },
+   {
+    "page": 132,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 133,
+    "y0": 0.0,
+    "y1": 493.1
+   }
+  ],
+  "pages": [
+   131,
+   133
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-87",
+  "orijinal_no": "14"
+ },
+ {
+  "no": 88,
+  "page": 133,
+  "y": 497,
+  "dup": 1,
+  "seq": 88,
+  "text": "2)crohn orta ciddi hastalık tedavisi ince barsaktamalabsorbsiyon yapan hastalıklar",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 134,
+   "y": 470
+  },
+  "segments": [
+   {
+    "page": 133,
+    "y0": 493.1,
+    "y1": 866.7
+   },
+   {
+    "page": 134,
+    "y0": 0.0,
+    "y1": 466.1
+   }
+  ],
+  "pages": [
+   133,
+   134
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-88",
+  "orijinal_no": "2"
+ },
+ {
+  "no": 89,
+  "page": 134,
+  "y": 470,
+  "dup": 1,
+  "seq": 89,
+  "text": "3)ramazan hoca kolestaz,safra üretimi salgisi.bilirubinyikimi ve ürünleri",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 135,
+   "y": 308
+  },
+  "segments": [
+   {
+    "page": 134,
+    "y0": 466.1,
+    "y1": 866.7
+   },
+   {
+    "page": 135,
+    "y0": 0.0,
+    "y1": 304.1
+   }
+  ],
+  "pages": [
+   134,
+   135
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-89",
+  "orijinal_no": "3"
+ },
+ {
+  "no": 90,
+  "page": 135,
+  "y": 308,
+  "dup": 1,
+  "seq": 90,
+  "text": "4)Gorh hasta yakinmalari ve tedavi sordu hoca hayatinda ne gibi degisiklikleryapmasi gerek dedi. Kolestazintanimini ve intra-extrahepatik nedenlerini sordu. Dispepsinin alarm semptomlarını sordu.",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 137,
+   "y": 99
+  },
+  "segments": [
+   {
+    "page": 135,
+    "y0": 304.1,
+    "y1": 866.7
+   },
+   {
+    "page": 136,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 137,
+    "y0": 0.0,
+    "y1": 95.1
+   }
+  ],
+  "pages": [
+   135,
+   137
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-90",
+  "orijinal_no": "4"
+ },
+ {
+  "no": 91,
+  "page": 137,
+  "y": 99,
+  "dup": 1,
+  "seq": 91,
+  "text": "5):1.h.pylori için reçete. 2 .akalazya tanısı için ne yaparsın 3 .pankreas endokrin tümörlerini say.insülinomalı hastadaki semptomu söyle;",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 138,
+   "y": 100
+  },
+  "segments": [
+   {
+    "page": 137,
+    "y0": 95.1,
+    "y1": 866.7
+   },
+   {
+    "page": 138,
+    "y0": 0.0,
+    "y1": 96.1
+   }
+  ],
+  "pages": [
+   137,
+   138
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-91",
+  "orijinal_no": "5"
+ },
+ {
+  "no": 92,
+  "page": 138,
+  "y": 100,
+  "dup": 1,
+  "seq": 92,
+  "text": "6) 1- primerbiliyersiroz klinik lab 10- kölitİsüTsFrozâ.kansef’yâp",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 138,
+   "y": 637
+  },
+  "segments": [
+   {
+    "page": 138,
+    "y0": 96.1,
+    "y1": 633.1
+   }
+  ],
+  "pages": [
+   138,
+   138
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-92",
+  "orijinal_no": "6"
+ },
+ {
+  "no": 93,
+  "page": 138,
+  "y": 637,
+  "dup": 1,
+  "seq": 93,
+  "text": "7)Hülya hoca da intrahepatıkkolestaz yapan nedenleri sordu PbsPsk karaciğerin neresinden itibaren hastalık yapar direkt indirektbilirubin hangi durumlarda artar ultrasonda intrahepatıkkolestaz görebilir mıyız",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 140,
+   "y": 76
+  },
+  "segments": [
+   {
+    "page": 138,
+    "y0": 633.1,
+    "y1": 866.7
+   },
+   {
+    "page": 139,
+    "y0": 0.0,
+    "y1": 866.7
+   },
+   {
+    "page": 140,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   138,
+   140
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-93",
+  "orijinal_no": "7"
+ },
+ {
+  "no": 94,
+  "page": 140,
+  "y": 76,
+  "dup": 1,
+  "seq": 94,
+  "text": "8)Gastro: karaciğer biyopsisi kontrendikasyonları nelerdir? Ercp hangi amaçla kullanılır, komplikasyonları nelerdir?",
+  "text_src": "D",
+  "hoca": "—",
+  "end": {
+   "page": 141,
+   "y": 76.0
+  },
+  "segments": [
+   {
+    "page": 140,
+    "y0": 72.1,
+    "y1": 866.7
+   },
+   {
+    "page": 141,
+    "y0": 0.0,
+    "y1": 72.1
+   }
+  ],
+  "pages": [
+   140,
+   141
+  ],
+  "start_src": "DAKTİLO",
+  "konu": "Gastroenteroloji",
+  "id": "G-94",
+  "orijinal_no": "8"
  }
 ]
