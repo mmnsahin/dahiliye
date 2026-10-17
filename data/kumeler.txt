@@ -3,8 +3,8 @@
 # Ders grubu yalnız menüdeki sıralama içindir; kümedeki her kaydın kendi dersi (Nefroloji, Gastro...) etiket olarak gösterilir.
 
 ## Hipertansiyon [Nefroloji]
-- Sekonder hipertansiyon (ne zaman şüphelenilir, nedenler) :: N-1, N-42, N-71, N-82, N-155
-- Dirençli hipertansiyon :: N-49, N-103a, N-103b
+- Sekonder hipertansiyon (ne zaman şüphelenilir, nedenler) :: N-1, N-42, N-71, N-82, N-155, E-3, E-37, E-133, E-135
+- Dirençli hipertansiyon :: N-49, N-103a, N-103b, E-121
 - Renal arter stenozu / renovasküler HT :: N-50, N-95, N-118
 - HT tanısı ve antihipertansif ilaçlar :: N-20, N-21, N-22
 
@@ -47,7 +47,7 @@
 - Gençlerde sık glomerüler hastalıklar :: N-64
 
 ## Diyabetik nefropati [Nefroloji]
-- Diyabetik nefropati (evreleme, takip, tedavi) :: N-26, N-70, N-94, N-154
+- Diyabetik nefropati (evreleme, takip, tedavi) :: N-26, N-70, N-94, N-154, E-6, E-117, E-123, E-178
 
 ## Diyaliz ve transplantasyon [Nefroloji]
 - Diyaliz endikasyonları :: N-2, N-40, N-41, N-54, N-149
@@ -82,7 +82,7 @@
 - Akut gut artriti (tanı, tedavi) :: R-42, R-96, R-120
 - Eroziv artrit, HSP (kısa sorular) :: R-27, H-24
 - Akut monoartrit :: R-3
-- Glukokortikoid yan etkileri ve kullanım :: R-55, R-110
+- Glukokortikoid yan etkileri ve kullanım :: R-55, R-110, I-7, I-8
 - Polimiyalji romatika :: R-39, R-64
 - Erişkin Still hastalığı :: R-37, R-113
 - NSAİ yan etkileri :: R-57
@@ -116,8 +116,8 @@
 - CRP > 100 yapan hastalıklar :: R-22, R-109
 
 ## Alerji ve immünoloji [Romatoloji]
-- Alerjik rinit :: R-2, R-30, R-73, R-74, R-118
-- İmmün yetmezlikler :: R-12, R-20, R-38, R-40, R-126
+- Alerjik rinit :: R-2, R-30, R-73, R-74, R-118, I-1
+- İmmün yetmezlikler :: R-12, R-20, R-38, R-40, R-126, I-9, I-10
 - Ürtiker :: R-36, R-102, R-121
 - Aşırı duyarlılık reaksiyonları (Tip 2-3) :: R-104, R-105, R-116
 - Ayakta nasır / mantar (ders dışı) :: R-127
@@ -193,10 +193,11 @@
 - Kronik pankreatit :: G-62
 
 ## Anemiler [Hematoloji]
-- Demir eksikliği anemisi :: G-130, H-25, H-30, H-31, H-38
-- B12 eksikliği / makrositer anemi :: H-9, H-16, H-21, H-29
-- Anemiye / halsizliğe laboratuvardan yaklaşım :: H-19, H-35
+- Demir eksikliği anemisi :: G-130, H-25, H-30, H-31, H-40
+- B12 eksikliği / makrositer anemi :: H-9, H-16, H-21, H-29, H-43
+- Anemiye / halsizliğe laboratuvardan yaklaşım :: H-19, H-36
 - Hemolitik anemi (orak hücre vb.) :: H-3
+- Talasemi ve hipokrom mikrositer anemi :: H-55
 
 ## Pansitopeni ve sitopeniler [Hematoloji]
 - Pansitopeni ayırıcı tanısı :: R-4, R-26, R-88, H-6, H-11, H-27
@@ -206,18 +207,116 @@
 - Trombositoz (esansiyel trombositemi, reaktif) :: H-5, H-7, H-8, H-26
 
 ## Lösemi, lenfoma, myelom [Hematoloji]
-- Multipl myelom :: H-13, H-22, H-23
+- Multipl myelom :: H-13, H-22, H-23, H-47, H-50, H-56
 - KML (ve KLL ayırımı) :: H-4, H-10, H-33
-- KLL :: H-12
-- ALL :: H-34, H-36
-- Lenfadenopati ve lenfoma :: H-28, H-37
+- KLL :: H-12, H-48
+- ALL ve akut lösemi :: H-35, H-37, H-46, H-49, H-59
+- Lenfadenopati ve lenfoma :: H-28, H-39, H-44, H-53, H-58
 
 ## Hemostaz, trombofili, transfüzyon [Hematoloji]
-- ITP / TTP / trombositopeni :: H-14, H-17
-- Primer hemostaz bozukluğu / kanama anamnezi :: H-15, H-9001
+- ITP / TTP / trombositopeni :: H-14, H-17, H-54
+- Primer hemostaz bozukluğu / kanama anamnezi :: H-15, H-34, H-57
 - İzole aPTT uzaması / faktör eksiklikleri :: G-23, H-32
-- Trombofili ve DVT :: H-18, H-39
-- Kan ürünleri ve transfüzyon :: H-9002
+- Trombofili ve DVT :: H-18, H-41, H-45
+- Kan ürünleri ve transfüzyon :: H-38, H-42, H-52
+- HLA ve kök hücre nakli :: H-51
 
-## Endokrinoloji [Endokrinoloji]
-- Subakut tiroidit :: H-2
+
+## Diyabet: tanı, sınıflama, tedavi [Endokrinoloji]
+- DM tanısı ve OGTT :: E-19, E-20, E-98, E-107
+- HbA1c ve fruktozamin :: E-22, E-23, E-90
+- Diyabet sınıflaması, Tip 1-Tip 2 farkı, MODY :: E-13, E-76, E-91, E-92, E-25
+- Sekonder (endokrin) diyabet nedenleri :: E-12, E-142, E-187
+- Diyabet semptomları :: E-24
+- Diyabet tedavisi (genel) :: E-14, E-162
+- Oral antidiyabetikler ve metformin :: E-15, E-125, E-164, E-101, E-158
+- İnsülin tipleri ve rejimleri (bazal-bolus, pompa, ameliyat) :: E-144, E-147, E-168, E-169
+- İnsülin endikasyonları ve yan etkileri :: E-118, E-165, E-116, E-143, E-180
+- Diyabetik hedefler (KB, lipid) :: E-17
+- Glukokortikoidlerin hiperglisemi mekanizması :: E-177
+
+## Diyabet: akut ve kronik komplikasyonlar [Endokrinoloji]
+- Diyabetik ketoasidoz (tanı, tedavi) :: E-26, E-27, E-103, E-106, E-138, E-157
+- Hiperosmolar hiperglisemik durum :: E-86, E-104
+- Hipoglisemi (nedenler, bulgular, acil tedavi) :: E-18, E-21, E-50, E-88
+- Somogy fenomeni :: E-28
+- Hiperglisemiyi presipite eden nedenler :: E-29
+- Diyabetin kronik komplikasyonları (mikro-makrovasküler) :: E-16, E-131
+- Diyabetik ayak :: E-139, E-166
+- Diyabetik nöropati :: E-153, E-183
+- Diyabette bağışıklık baskılanması ve enfeksiyonlar :: E-89
+
+## Tiroid [Endokrinoloji]
+- Hipotiroidizm ve Hashimoto :: E-87, E-93, E-94, E-95, E-111, E-124
+- Otoimmün tiroid hastalığı, antikorlar, Graves tetikleyicileri :: E-63, E-64
+- Graves tedavisi ve antitiroid ilaçlar :: E-65, E-96, E-161, E-128
+- Antitiroid ilaç yan etkisi (agranülositoz, boğaz ağrısı + ateş) :: E-45, E-149, E-99
+- Tirotoksikoz: nedenler, sınıflama, tanı (RAIU) :: E-55, E-148, E-62, E-181, E-152, E-119
+- Tirotoksikoz/Graves klinik ve komplikasyonlar :: E-57, E-56, E-126
+- Graves oftalmopatisi :: E-30, E-31
+- Subakut tiroidit :: H-2, E-97, E-137, E-173, E-182
+- Riedel tiroiditi :: E-188
+- Guatr, endemik guatr, iyot eksikliği, bası semptomları :: E-52, E-73, E-77, E-150
+- Tiroid nodülüne yaklaşım :: E-61, E-163, E-185
+- Tiroid kanserleri ve belirteçler (kalsitonin dahil) :: E-59, E-151, E-171, E-38, E-75
+- Tiroidektomi (endikasyon, komplikasyon) :: E-176, E-159
+- MEN2a / MEN2b :: E-156
+
+## Hipofiz ve gonadlar [Endokrinoloji]
+- Hipofiz adenomları ve bası belirtileri :: E-85, E-54
+- Hipofizer apopleksi :: E-8, E-105
+- Prolaktinoma (tanı, tedavi, gebelik) :: E-44, E-60, E-172, E-184
+- Hiperprolaktinemi nedenleri :: E-53, E-132
+- Akromegali :: E-79, E-102
+- Panhipopituitarizm ve tedavisi :: E-68, E-179
+- Sheehan sendromu :: E-71
+- Kallmann ve idiyopatik hipogonadotropik hipogonadizm :: E-72, E-78
+- Hipogonadizm kliniği :: E-127
+- Diabetes insipitus ve poliüri ayırıcı tanısı :: E-32, E-33, E-34, E-113, E-146
+- AVP/ADH salımını uyaranlar :: E-66
+- PCOS :: E-41, E-174
+- Jinekomasti :: E-35
+- Konstitüsyonel gecikmiş puberte :: E-43
+
+## Adrenal [Endokrinoloji]
+- Cushing sendromu (klinik, tarama, tanı, ayırıcı tanı) :: E-49, E-110, E-160, E-136, E-140, E-141, E-186
+- Ektopik ACTH sendromu :: E-4
+- Adrenal kitle / insidentaloma :: E-1, E-115
+- Addison hastalığı / adrenal yetmezlik :: E-39, E-40, E-114, E-155
+- Konjenital adrenal hiperplazi :: E-46, E-80, E-81
+- Primer hiperaldosteronizm :: E-69, E-122, E-129
+- Feokromositoma :: E-7, E-112, E-130
+- Otoimmün poliglandüler sendromlar :: E-48
+
+## Kalsiyum, kemik ve paratiroid [Endokrinoloji]
+- Osteoporoz (nedenler, tanı, tarama, tedavi) :: E-2, E-5, E-42, E-47, E-109, E-134
+- Hiperkalsemi (nedenler, tıbbi tedavi) :: E-9, E-10, E-51
+- Hiperparatiroidizm :: E-74, E-82, E-100, E-108
+- Psödohipoparatiroidizm :: E-83
+- Trousseau belirtisi :: E-120
+- Paget hastalığı :: E-36
+- Osteomalazi :: E-58
+
+## Obezite, lipidler ve diğer endokrin [Endokrinoloji]
+- Obezite (VKİ, komplikasyon, tedavi, kanser) :: E-11, E-84, E-167, E-170
+- Antilipid ilaçlar :: E-70, E-175
+- LDL hesaplanması :: E-67
+- Gode bırakmayan ödem yapan endokrin hastalık :: E-145
+- 24 saatlik idrar toplama doğruluğu :: E-154
+
+## Onkoloji [Onkoloji]
+- Kanserden korunma ve erken tanı :: O-1
+- Kanserde tedavi prensipleri :: O-2
+- Onkolojik aciller :: O-3
+- Erken evre / metastatik evre (Filiz Hoca) :: O-4
+- Metastatik hasta :: O-5
+
+## İmmünoloji-Alerji (ek sorular) [İmmünoloji-Alerji]
+- Anafilaksi tedavisi :: I-2
+- Antihistaminikler (1. ve 2. kuşak) :: I-3, I-4
+- Anti-IgE tedavisi :: I-5
+- İmmünoterapi :: I-6
+- Alerji tanısı ve deri testleri (prick, yama) :: I-22, I-11, I-12
+- Monogenik otoinflamatuvar sendromlar (HIDS, CAPS, TRAPS, PAPA) :: I-13, I-14, I-15, I-16
+- Hücresel immün yetmezlikler :: I-17
+- Humoral immün yetmezlik (IgA eksikliği, CVID, XLA) :: I-18, I-19, I-20, I-21
