@@ -128,3 +128,11 @@ Bu kural N-46'dan itibaren okurken baştan uygulanır.
 - Kâğıt/dijital el yazısı: s.260–273 (öğrencinin dijital el yazısı notları, ekran görüntüleri) 110–230 dpi parçalarla okundu; s.28–31 tarzı ok/parantez yapıları ağaç olarak yazıldı. Slayt/ekran görüntüleri [SLAYT], dijital el yazısı [EL YAZISI].
 - belirsiz sınır: R-1..R-19 numaralı liste (15. numara kaynakta yok); R-20/R-21 (s.202); R-110..R-120 (s.264–273 dijital not sayfaları: soru satırları üstte, cevap notları altında, cevap-kayma olasılığı); R-113 (s.267 "Akut eklem romatizması" sorusunun cevabı s.267'de slayt parçaları); R-122/R-123 (cevap yok: "yukarıda anlattım").
 - Toplam [?] (Romatoloji) = ~70, [OKUNAMADI] = 1.
+
+## Hematoloji — DURDURULDU (kullanıcı isteğiyle ara verildi) — buradan devam
+- bolgeler.json'da H-1..H-57 + 2 geçici kayıt (H-9001 = s318 y102 "epistaksis ve diş eti kanaması…", H-9002 = s321 y76 "Taner Demirer: tam kan saklama…") var; toplam 59 H kaydı. Bölge başlıkları bitti (s276–344).
+- Okuması YAZILMIŞ: H-1..H-39 (H-27, H-31..H-35 vb. metin katmanı; görselli olanlar parça parça okundu), H-9001, H-9002.
+- Okuması YAZILMAMIŞ: H-40..H-57 (H-40 s323 y621 sonrası "Meral beksaç: tam kan komponentleri…" ; ardından s324–344). Görselli olanlar (imgs.py): H-41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57.
+- ÖNEMLİ: Tüm H okumaları bittikten SONRA `python tools/renumber.py H` çalıştırılmalı (H-9001/H-9002 sıraya girip id'ler kayacak, dosyalar yeniden adlanır; dosya içi id güncellenir). Ondan önce yeni H-id eklemeyin; "orijinal_no" alanı bolgeler.json'da korunur.
+- Yöntem: tools/textlayer.py H-n → tmp/tl_H-n.txt + tmp/ty_H-n.json (y'li paragraflar); görseller tools/tile.py ile okunup tmp/h3.py içindeki DI(rid,[(sayfa,y,metin)]) ile y sırasına göre daktilo paragraflara karıştırılır; w() ile yazılır.
+- Sonra: Endokrin (E-, s345–418), Onkoloji (O-, 419–428), İmmünoloji (I-, 429–433); en sonda PROGRESS.md başına özet.
