@@ -1,0 +1,381 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Dahiliye Sözlü – Çıkmış Sorular</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<style>
+
+html{scroll-padding-top:70px}
+:root{
+  --paper:#F6F7F4; --card:#FFFFFF; --ink:#18211D; --muted:#5E6B64; --line:#D5DBD6;
+  --scrub:#1D4E89; --scrub-tint:#E4ECF6; --warn:#8A5200; --warn-bg:#FBF1DF;
+  --sans:"Instrument Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --serif:"Source Serif 4",Georgia,"Times New Roman",serif;
+  box-sizing:border-box;
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#121614; --card:#1A201D; --ink:#E4EAE6; --muted:#9AA8A0; --line:#2C3531;
+  --scrub:#8DB8EA; --scrub-tint:#1B2635; --warn:#F0B86A; --warn-bg:#2D2414;}}
+:root[data-theme="dark"]{
+  --paper:#121614; --card:#1A201D; --ink:#E4EAE6; --muted:#9AA8A0; --line:#2C3531;
+  --scrub:#8DB8EA; --scrub-tint:#1B2635; --warn:#F0B86A; --warn-bg:#2D2414;}
+
+*,*::before,*::after{box-sizing:inherit}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.5}
+a{color:var(--scrub)}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--scrub);outline-offset:2px}
+
+header.top{max-width:900px;margin:0 auto;padding:28px 24px 20px}
+header.top h1{font-size:clamp(1.7rem,3.5vw,2.4rem);line-height:1.15;margin:0 0 6px;font-weight:700;letter-spacing:-.01em}
+header.top p{margin:0;color:var(--muted)}
+.tools{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-top:20px}
+.tools input[type=search]{flex:1 1 280px;min-width:0;padding:11px 14px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);font-size:1rem}
+.tools label{display:flex;gap:8px;align-items:center;color:var(--muted);font-size:.95rem;cursor:pointer}
+
+.wrap{max-width:900px;margin:0 auto;padding:0 24px 80px}
+header.top{display:block}
+.bar{position:sticky;top:0;z-index:30;background:var(--paper);border-bottom:1px solid var(--line);padding-top:env(safe-area-inset-top,0px)}
+.barin{max-width:900px;margin:0 auto;padding:8px 24px;display:flex;align-items:center;gap:12px}
+.bartitle{font-weight:600;font-size:.98rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.burger{flex:0 0 auto;width:42px;height:42px;display:grid;place-items:center;border:1px solid var(--line);border-radius:8px;background:var(--card);cursor:pointer;padding:0}
+.burger span{display:block;width:20px;height:2px;background:var(--ink);border-radius:2px;box-shadow:0 -6px 0 var(--ink),0 6px 0 var(--ink)}
+.burger:hover{border-color:var(--scrub)}
+.scrim{position:fixed;inset:0;background:rgba(10,15,12,.38);opacity:0;pointer-events:none;transition:opacity .2s;z-index:40}
+.scrim.show{opacity:1;pointer-events:auto}
+nav.side{position:fixed;top:0;left:0;bottom:0;width:min(300px,86vw);background:var(--card);border-right:1px solid var(--line);z-index:50;transform:translateX(-100%);transition:transform .22s ease;overflow:auto;padding:calc(env(safe-area-inset-top,0px) + 16px) 12px calc(env(safe-area-inset-bottom,0px) + 16px)}
+nav.side.open{transform:none}
+.sidehead{display:flex;justify-content:space-between;align-items:center;padding:0 6px 12px;margin-bottom:6px;border-bottom:1px solid var(--line)}
+.sidehead strong{font-size:1rem}
+.closebtn{width:36px;height:36px;border:0;background:transparent;font-size:1.5rem;line-height:1;cursor:pointer;color:var(--muted);border-radius:6px}
+.closebtn:hover{background:var(--scrub-tint);color:var(--ink)}
+nav.side a{display:flex;justify-content:space-between;gap:8px;padding:9px 10px;border-radius:6px;text-decoration:none;color:var(--ink);font-size:.95rem}
+nav.side a:hover{background:var(--scrub-tint)}
+nav.side a span{color:var(--muted);font-variant-numeric:tabular-nums}
+body.locked{overflow:hidden}
+
+section.topic{margin-bottom:44px}
+section.topic>h2{font-size:1.45rem;margin:0 0 4px;font-weight:700}
+section.topic>.sub{color:var(--muted);font-size:.92rem;margin:0 0 14px}
+
+.q{border-top:1px solid var(--line)}
+.q:last-child{border-bottom:1px solid var(--line)}
+.q>button.head{all:unset;box-sizing:border-box;display:grid;grid-template-columns:64px minmax(0,1fr) 20px;gap:14px;align-items:baseline;width:100%;padding:14px 4px;cursor:pointer}
+.q>button.head:focus-visible{outline:2px solid var(--scrub);outline-offset:-2px}
+.freq{font-size:1.6rem;font-weight:700;color:var(--scrub);font-variant-numeric:tabular-nums;line-height:1;text-align:right}
+.freq small{font-size:.9rem;font-weight:600;margin-left:1px}
+.freq.one{color:var(--muted);font-weight:500;font-size:1.25rem}
+.qt{font-weight:600;font-size:1.05rem;line-height:1.35}
+.hocas{display:block;font-weight:400;color:var(--muted);font-size:.88rem;margin-top:3px}
+.chev{color:var(--muted);transition:transform .15s}
+.q.open .chev{transform:rotate(90deg)}
+.body{display:none;padding:2px 4px 22px 82px}
+.q.open .body{display:block}
+
+.merged{font-family:var(--serif);font-size:1.04rem;line-height:1.62;max-width:72ch}
+.merged h4{font-family:var(--sans);font-size:.98rem;margin:18px 0 6px}
+.merged p{margin:0 0 10px}
+.merged ul,.merged ol{margin:0 0 10px;padding-left:22px}
+.merged li{margin:3px 0}
+.merged table{border-collapse:collapse;margin:10px 0 14px;font-family:var(--sans);font-size:.93rem;width:100%}
+.merged th,.merged td{border:1px solid var(--line);padding:7px 10px;text-align:left;vertical-align:top}
+.merged th{background:var(--scrub-tint)}
+.merged .callout{background:var(--scrub-tint);border-left:4px solid var(--scrub);border-radius:8px;padding:12px 16px;margin:0 0 12px;font-family:var(--sans);font-size:.97rem;line-height:1.55}
+.merged h4{color:var(--scrub);border-bottom:2px solid var(--scrub-tint);padding-bottom:4px;margin-top:22px}
+.merged table.t{font-size:.92rem}
+.merged table.t thead th{background:var(--scrub);color:var(--card);border-color:var(--scrub)}
+.merged table.t th[scope=row]{background:transparent;width:26%;font-weight:700}
+.merged table.t tbody tr:nth-child(even){background:color-mix(in srgb,var(--scrub-tint) 45%,transparent)}
+.merged table.t td.k{white-space:nowrap;width:1%}
+.merged table:not(.t) thead th{background:var(--scrub);color:var(--card);border-color:var(--scrub)}
+.merged ol{list-style:none;counter-reset:s;padding:0}
+.merged ol li{counter-increment:s;position:relative;padding:7px 12px 7px 44px;margin:0 0 6px;border:1px solid var(--line);border-radius:8px;background:var(--card);font-family:var(--sans);font-size:.95rem}
+.merged ol li::before{content:counter(s);position:absolute;left:10px;top:6px;width:24px;height:24px;border-radius:50%;background:var(--scrub);color:var(--card);font-weight:700;display:grid;place-items:center;font-size:.8rem}
+.merged blockquote{margin:12px 0;padding:10px 14px;background:var(--warn-bg);color:var(--warn);border-radius:6px;font-family:var(--sans);font-size:.93rem}
+.src{font-family:var(--sans);font-size:.72rem;font-weight:600;color:var(--scrub);background:var(--scrub-tint);border-radius:4px;padding:1px 5px;margin-left:4px;white-space:nowrap;vertical-align:1px}
+[hidden]{display:none!important}
+.note{font-size:.9rem;color:var(--muted);margin:0 0 10px}
+.pending{padding:12px 14px;border:1px dashed var(--line);border-radius:8px;color:var(--muted);font-size:.93rem;max-width:72ch}
+
+button.rawbtn{margin-top:14px;padding:8px 14px;border:1px solid var(--scrub);border-radius:8px;background:transparent;color:var(--scrub);font-weight:600;cursor:pointer}
+button.rawbtn[aria-expanded=true]{background:var(--scrub);color:var(--card)}
+.raws{display:none;margin-top:14px}
+.raws.show{display:block}
+.raw{border-left:3px solid var(--scrub);background:var(--card);margin-bottom:8px;border-radius:0 8px 8px 0}
+.raw .rq{display:flex;gap:10px;align-items:baseline;width:100%;padding:11px 16px;background:transparent;border:0;color:inherit;font:inherit;text-align:left;cursor:pointer}
+.raw .rqt{flex:1;font-size:.95rem;line-height:1.4}
+.raw .rq .chev{color:var(--muted);transition:transform .15s}
+.raw.open .rq .chev{transform:rotate(90deg)}
+.raw .rbody{display:none;padding:0 16px 14px}
+.raw.open .rbody{display:block}
+.raw .meta{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:baseline;font-size:.86rem;color:var(--muted);margin-bottom:6px}
+.raw .letter{font-weight:700;color:var(--scrub);font-size:1rem}
+.raw .ans{font-family:var(--serif);white-space:pre-line;line-height:1.58;max-width:72ch;overflow-wrap:anywhere}
+.raw .empty{color:var(--muted);font-style:italic}
+.single .ans{font-family:var(--serif);white-space:pre-line;line-height:1.6;max-width:72ch;overflow-wrap:anywhere}
+mark{background:#F5E27A;color:#18211D;border-radius:2px}
+.none{color:var(--muted);padding:30px 0}
+
+@media (max-width:860px){
+  .q>button.head{grid-template-columns:44px minmax(0,1fr) 16px;gap:10px}
+  .freq{font-size:1.3rem}
+  .body{padding-left:4px}
+}
+@media (prefers-reduced-motion:reduce){.chev,nav.side,.scrim{transition:none}}
+
+/* --- dahiliye ek stiller --- */
+.bar .barin a.tb{font-weight:600;font-size:.9rem;text-decoration:none;white-space:nowrap;margin-left:auto}
+.dersgrp{font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);padding:14px 10px 4px;font-weight:700}
+.chips{display:inline-flex;flex-wrap:wrap;gap:4px;margin-left:6px;vertical-align:1px}
+.chip{font-size:.68rem;font-weight:700;letter-spacing:.02em;padding:1px 6px;border-radius:999px;background:var(--scrub-tint);color:var(--scrub);white-space:nowrap}
+.trans{max-width:74ch}
+.tblk{margin:0 0 10px;padding:8px 12px 8px 14px;border-left:3px solid var(--line);border-radius:0 6px 6px 0;font-family:var(--serif);font-size:1.02rem;line-height:1.6;white-space:pre-line;overflow-wrap:anywhere}
+.tblk .tg{display:block;font-family:var(--sans);font-size:.68rem;font-weight:700;letter-spacing:.06em;color:var(--muted);margin-bottom:2px;white-space:normal}
+.tblk.hw{border-left-color:#B5651D;background:color-mix(in srgb,#B5651D 9%,transparent);font-family:var(--sans);font-size:.97rem}
+.tblk.hw .tg{color:#B5651D}
+.tblk.sl{border-left-color:var(--scrub);background:var(--scrub-tint)}
+.tblk.sl .tg{color:var(--scrub)}
+.tblk.ok{border-left-color:#B33A3A}
+.tblk.pg{border:0;background:none;padding:2px 0;font-family:var(--sans);font-size:.78rem;color:var(--muted)}
+.uq{background:#F5D77A;color:#3a2a00;border-radius:3px;padding:0 3px;font-weight:700;font-family:var(--sans)}
+.nr{background:#F7C9C9;color:#6b1414;border-radius:3px;padding:0 3px;font-weight:700;font-family:var(--sans);font-size:.85em}
+.legend{font-size:.8rem;color:var(--muted);margin:2px 0 12px;display:flex;flex-wrap:wrap;gap:6px 14px;font-family:var(--sans)}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px}
+.src.hwsrc{background:#F3E2CF;color:#8a4a0e}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .src.hwsrc{background:#3a2a1a;color:#f0b97d} :root:not([data-theme="light"]) .uq{background:#6b5517;color:#fff3c4}}
+.prov{margin:0 0 12px;padding:8px 12px;border-radius:6px;background:var(--warn-bg);color:var(--warn);font-size:.88rem;font-family:var(--sans)}
+.raw .shot{display:block;max-width:100%;height:auto;border:1px solid var(--line);border-radius:6px;cursor:zoom-in;background:#fff;margin:8px 0}
+.raw .oq{font-size:.9rem;color:var(--muted);margin:4px 0 6px;font-style:italic;line-height:1.4}
+.raw .rfall{display:none}
+.raw.noimg .rfall{display:block}
+.raw.noimg .shot{display:none}
+.lb{position:fixed;inset:0;z-index:90;background:rgba(8,10,9,.92);display:none;overflow:auto;-webkit-overflow-scrolling:touch}
+.lb.show{display:block}
+.lb img{display:block;margin:0 auto;width:min(1445px,100%);height:auto;background:#fff}
+.lb.zoom img{width:min(1445px,220%);max-width:none}
+.lb .lbx{position:fixed;top:calc(env(safe-area-inset-top,0px) + 10px);right:12px;width:44px;height:44px;border-radius:50%;border:0;background:#fff;color:#111;font-size:1.6rem;cursor:pointer;z-index:2;line-height:1}
+.lb .lbh{position:fixed;left:12px;top:calc(env(safe-area-inset-top,0px) + 14px);color:#ddd;font-size:.85rem;z-index:2;font-family:var(--sans);background:rgba(0,0,0,.45);padding:4px 8px;border-radius:6px}
+.stat2{color:var(--muted);font-size:.9rem}
+</style>
+</head>
+<body>
+<div class="bar"><div class="barin">
+  <button class="burger" id="burger" aria-label="Konuları aç" aria-controls="nav" aria-expanded="false"><span></span></button>
+  <span class="bartitle" id="bartitle">Dahiliye Sözlü</span>
+</div></div>
+<header class="top">
+  <h1>Dahiliye Sözlü – Çıkmış Sorular</h1>
+  <p id="stats"></p>
+  <div class="tools">
+    <input type="search" id="search" placeholder="Soru, hoca, okuma veya cevapta ara" aria-label="Ara">
+    <label><input type="checkbox" id="onlyRep"> Yalnızca tekrar edenler</label>
+  </div>
+  <div class="legend" aria-label="Okuma etiketleri"><span><i style="background:#B5651D"></i>El yazısı (okunan)</span><span><i style="background:var(--scrub)"></i>Slayt / görsel</span><span><i style="background:var(--line)"></i>Daktilo (metin katmanı)</span><span><span class="uq">?</span> okuması şüpheli</span><span><span class="nr">OKUNAMADI</span></span></div>
+</header>
+<div class="scrim" id="scrim"></div>
+<nav class="side" id="nav" aria-label="Konular"><div class="sidehead"><strong>Konular</strong><button class="closebtn" id="closeNav" aria-label="Konuları kapat">×</button></div><div id="navlist"></div></nav>
+<div class="wrap">
+  <main id="main"></main>
+</div>
+<div class="lb" id="lb" aria-modal="true" role="dialog"><button class="lbx" id="lbx" aria-label="Kapat">×</button><span class="lbh" id="lbh">Büyütmek/küçültmek için resme dokun</span><img id="lbimg" alt=""></div>
+<script id="data" type="application/json">__DATA__</script>
+<script>
+const DATA = JSON.parse(document.getElementById('data').textContent);
+const rows = DATA.rows;
+const L = i => String.fromCharCode(65 + i);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const lowerTR = s => s.toLocaleLowerCase('tr');
+const baseId = id => id.replace(/^(N-\d+)[ab]$/, '$1');
+const cnt = c => new Set(c.rows.map(baseId)).size;
+const SRC = /\[([A-Z](?:\s*,\s*[A-Z])*)(\s*[·,]\s*el yazısı)?\]/g;
+
+function inline(s){
+  let h = esc(s);
+  h = h.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+  h = h.replace(/\s*\[([A-Z](?:\s*,\s*[A-Z])*)(\s*[·,]\s*el yazısı)?\]/g, (m, g, hw) => g.split(/\s*,\s*/).map(x => `<span class="src${hw ? ' hwsrc' : ''}" title="Gerçek cevap ${x}${hw ? ' (el yazısından okundu)' : ''}">${x}${hw ? '✎' : ''}</span>`).join(''));
+  h = h.replace(/⚠/g, '⚠');
+  return h;
+}
+function md(src){
+  const out = []; let list = null; let items = [];
+  const flushUl = () => { out.push('<ul>' + items.map(t => `<li>${inline(t)}</li>`).join('') + '</ul>'); items = []; };
+  const close = () => { if (list === 'ul') flushUl(); else if (list) out.push(`</${list}>`); list = null; };
+  let tbl = false;
+  const closeTbl = () => { if (tbl) { out.push('</tbody></table>'); tbl = false; } };
+  for (const raw of src.split('\n')) {
+    const l = raw.trim();
+    if (l.startsWith('|')) {
+      close();
+      const cells = l.replace(/^\||\|$/g, '').split('|').map(c => c.trim());
+      if (cells.every(c => /^:?-+:?$/.test(c))) continue;
+      if (!tbl) { tbl = true; out.push('<table><thead><tr>' + cells.map(c => `<th>${inline(c)}</th>`).join('') + '</tr></thead><tbody>'); }
+      else out.push('<tr>' + cells.map(c => `<td>${inline(c)}</td>`).join('') + '</tr>');
+      continue;
+    }
+    closeTbl();
+    if (!l) { close(); continue; }
+    let m;
+    if ((m = l.match(/^#{2,4}\s+(.*)/))) { close(); out.push(`<h4>${inline(m[1])}</h4>`); }
+    else if ((m = l.match(/^>\s?(.*)/))) { close(); out.push(`<blockquote>${inline(m[1])}</blockquote>`); }
+    else if ((m = l.match(/^[-*]\s+(.*)/))) { if (list !== 'ul') { close(); list = 'ul'; } items.push(m[1]); }
+    else if ((m = l.match(/^\d+[.)]\s+(.*)/))) { if (list !== 'ol') { close(); out.push('<ol>'); list = 'ol'; } out.push(`<li>${inline(m[1])}</li>`); }
+    else { close(); out.push(`<p>${inline(l)}</p>`); }
+  }
+  close(); closeTbl(); return out.join('');
+}
+
+// Okuma (transkripsiyon) gösterimi: [DAKTİLO]/[SLAYT]/[EL YAZISI]/[OKUNAMADI] blokları + [?]
+const TAGS = {'DAKTİLO':['','D'], 'SLAYT':['sl','SLAYT'], 'EL YAZISI':['hw','✎ EL YAZISI'], 'OKUNAMADI':['ok','OKUNAMADI']};
+function markUncertain(h){ return h.replace(/\[\?\]/g, '<span class="uq">?</span>').replace(/\[OKUNAMADI\]/g, '<span class="nr">OKUNAMADI</span>'); }
+function transHTML(text, hl){
+  const blocks = []; let cur = null;
+  const lines = text.split('\n');
+  for (const line of lines) {
+    const pg = line.match(/^\(Sayfa (\d+)\)\s*$/);
+    if (pg) { cur = null; blocks.push({cls:'pg', tag:'', body:`Sayfa ${pg[1]}`}); continue; }
+    const re = /\[(DAKTİLO|SLAYT|EL YAZISI|OKUNAMADI)\]/g; let last = 0, m, any = false;
+    while ((m = re.exec(line))) {
+      any = true;
+      const before = line.slice(last, m.index);
+      if (before.trim() && cur) cur.body += before;
+      last = m.index + m[0].length;
+      cur = {cls: TAGS[m[1]][0], tag: m[1], body: ''}; blocks.push(cur);
+    }
+    const rest = line.slice(last);
+    if (!any) { if (!cur) { cur = {cls:'', tag:'', body:''}; blocks.push(cur); } cur.body += (cur.body ? '\n' : '') + line; }
+    else cur.body += rest.replace(/^\s+/, '');
+  }
+  return blocks.filter(b => b.body.trim() || b.cls === 'pg').map(b => {
+    if (b.cls === 'pg') return `<div class="tblk pg">${b.body}</div>`;
+    const tg = b.tag && b.tag !== 'DAKTİLO' ? `<span class="tg">${b.tag === 'EL YAZISI' ? '✎ EL YAZISI' : b.tag}</span>` : '';
+    return `<div class="tblk ${b.cls}">${tg}${hl(markUncertain(esc(b.body.trim())))}</div>`;
+  }).join('');
+}
+const cleanQ = q => q.replace(/\[(DAKTİLO|SLAYT|EL YAZISI|OKUNAMADI)\]\s*/g, '').trim();
+
+const totalQ = new Set(Object.keys(rows).map(baseId)).size;
+let totalC = 0, repC = 0;
+DATA.konular.forEach(k => k.clusters.forEach(c => { totalC++; if (cnt(c) > 1) repC++; }));
+document.getElementById('stats').textContent = `${totalQ} soru, ${totalC} başlık altında toplandı. ${repC} başlık birden fazla kez sorulmuş.`;
+
+function hocaList(c){
+  const set = [];
+  c.rows.forEach(id => (rows[id].hoca || '').split(/\s*(?:,| - )\s*/).forEach(h => { h = h.trim(); if (h && h !== '—' && !set.includes(h)) set.push(h); }));
+  return set.join(', ');
+}
+function dersChips(c){
+  const set = [...new Set(c.rows.map(id => rows[id].ders))];
+  return `<span class="chips">${set.map(d => `<span class="chip">${esc(d)}</span>`).join('')}</span>`;
+}
+function rawCards(c, hl){
+  return c.rows.map((id, i) => {
+    const r = rows[id];
+    const meta = [`<span class="letter">${L(i)}</span>`, `<span>${esc(r.ders)}</span>`, `<span>${esc(r.id)}${r.no ? ' · orijinal no ' + esc(r.no) : ''}</span>`];
+    if (r.hoca && r.hoca !== '—') meta.push(`<span>${esc(r.hoca)}</span>`);
+    meta.push(`<span>Sayfa ${esc(r.sayfa)}</span>`);
+    const img = `<img class="shot" loading="lazy" decoding="async" src="img/${esc(r.id)}.webp" alt="${esc(r.id)} sayfa görüntüsü (${esc(r.sayfa)})" data-id="${esc(r.id)}">`;
+    const fall = `<div class="rfall"><p class="ainote" style="margin:0 0 8px;padding:6px 10px;border-radius:6px;background:var(--warn-bg);color:var(--warn);font-size:.85rem">Sayfa görüntüsü bulunamadı (img/ klasörü yok); okuma metni gösteriliyor.</p><div class="trans">${transHTML(r.a || '(cevap yok)', hl)}</div></div>`;
+    return `<div class="raw"><button class="rq" aria-expanded="false"><span class="letter">${L(i)}</span><span class="rqt">${hl(esc(cleanQ(r.q)).slice(0, 260))}${cleanQ(r.q).length > 260 ? '…' : ''}</span><span class="chev" aria-hidden="true">›</span></button><div class="rbody"><div class="meta">${meta.join('')}</div>${cleanQ(r.q).length > 260 ? `<div class="oq">${hl(esc(cleanQ(r.q)))}</div>` : ''}${img}${fall}</div></div>`;
+  }).join('');
+}
+function provisional(c){ // birleşik cevap yoksa en uzun okuma
+  let best = 0; c.rows.forEach((id, i) => { if ((rows[id].a || '').length > (rows[c.rows[best]].a || '').length) best = i; });
+  return best;
+}
+function clusterHTML(c, hl){
+  const n = cnt(c);
+  const freq = n > 1 ? `<span class="freq">${n}<small>×</small></span>` : `<span class="freq one">1<small>×</small></span>`;
+  const hocas = hocaList(c);
+  let main;
+  const rawBtn = `<button class="rawbtn" aria-expanded="false">Gerçek cevaplar (${c.rows.length})</button><div class="raws">${rawCards(c, hl)}</div>`;
+  if (c.rows.length === 1) {
+    const r = rows[c.rows[0]];
+    main = `<p class="note">Bir kez sorulmuş; okuma aşağıda.</p><p class="oq" style="font-style:italic;color:var(--muted);margin:0 0 8px">${hl(esc(cleanQ(r.q)))}</p><div class="trans">${transHTML(r.a || '(cevap yok)', hl)}</div>` + rawBtn;
+  } else if (c.merged) {
+    main = `<div class="merged">${md(c.merged).replace(/>([^<]*)</g, (m, t) => '>' + hl(t) + '<')}</div>` + rawBtn;
+  } else {
+    const b = provisional(c);
+    main = `<div class="prov">Birleşik cevap henüz hazırlanmadı. Şimdilik en dolu kaynak gösteriliyor: <strong>${L(b)}</strong> (${esc(rows[c.rows[b]].id)}). Diğer ${c.rows.length - 1} kaynak “Gerçek cevaplar” altında.</div><div class="trans">${transHTML(rows[c.rows[b]].a || '(cevap yok)', hl)}</div>` + rawBtn;
+  }
+  return `<div class="q" id="${c.id}"><button class="head" aria-expanded="false">${freq}<span class="qt">${hl(esc(c.title))}${dersChips(c)}${hocas ? `<span class="hocas">${hl(esc(hocas))}</span>` : ''}</span><span class="chev" aria-hidden="true">›</span></button><div class="body">${main}</div></div>`;
+}
+
+const main = document.getElementById('main'), nav = document.getElementById('nav'), navlist = document.getElementById('navlist');
+const search = document.getElementById('search'), onlyRep = document.getElementById('onlyRep');
+function haystack(c){
+  if (!c._h) c._h = lowerTR([c.title, c.merged || '', ...c.rows.map(id => rows[id].q + ' ' + rows[id].a + ' ' + rows[id].hoca + ' ' + rows[id].ders)].join(' '));
+  return c._h;
+}
+function render(){
+  const q = lowerTR(search.value.trim());
+  const hl = q.length >= 2
+    ? s => s.replace(new RegExp(q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/&/g,'&amp;'), 'gi'), m => `<mark>${m}</mark>`)
+    : s => s;
+  let html = '', navHtml = '', any = false, lastDers = null;
+  for (const k of DATA.konular) {
+    const cs = k.clusters
+      .filter(c => !onlyRep.checked || cnt(c) > 1)
+      .filter(c => !q || haystack(c).includes(q))
+      .sort((a, b) => cnt(b) - cnt(a) || b.rows.length - a.rows.length);
+    if (!cs.length) continue;
+    any = true;
+    const asked = new Set(cs.flatMap(c => c.rows.map(baseId))).size;
+    html += `<section class="topic" id="s-${k.id}"><h2>${esc(k.title)}</h2><p class="sub">${cs.length} başlık, ${asked} soru</p>${cs.map(c => clusterHTML(c, hl)).join('')}</section>`;
+    if (k.ders !== lastDers) { navHtml += `<div class="dersgrp">${esc(k.ders)}</div>`; lastDers = k.ders; }
+    navHtml += `<a href="#s-${k.id}">${esc(k.title)}<span>${asked}</span></a>`;
+  }
+  main.innerHTML = any ? html : `<p class="none">"${esc(search.value)}" için sonuç yok. Farklı bir kelime dene.</p>`;
+  navlist.innerHTML = navHtml;
+  if (q) main.querySelectorAll('.q').forEach(el => { el.classList.add('open'); el.querySelector('.head').setAttribute('aria-expanded', 'true'); });
+}
+// Görsel yüklenemezse okuma metnine düş
+main.addEventListener('error', e => { if (e.target.classList && e.target.classList.contains('shot')) e.target.closest('.raw').classList.add('noimg'); }, true);
+
+const lb = document.getElementById('lb'), lbimg = document.getElementById('lbimg');
+function openLb(src){ lbimg.src = src; lb.classList.remove('zoom'); lb.classList.add('show'); document.body.classList.add('locked'); lb.scrollTop = 0; }
+function closeLb(){ lb.classList.remove('show'); document.body.classList.remove('locked'); lbimg.removeAttribute('src'); }
+lbimg.addEventListener('click', () => lb.classList.toggle('zoom'));
+document.getElementById('lbx').addEventListener('click', closeLb);
+lb.addEventListener('click', e => { if (e.target === lb) closeLb(); });
+
+main.addEventListener('click', e => {
+  const sh = e.target.closest('img.shot'); if (sh) { openLb(sh.src); return; }
+  const head = e.target.closest('button.head');
+  if (head) { const q = head.parentElement; const o = q.classList.toggle('open'); head.setAttribute('aria-expanded', o); return; }
+  const rq = e.target.closest('button.rq');
+  if (rq) { const o = rq.parentElement.classList.toggle('open'); rq.setAttribute('aria-expanded', o); return; }
+  const rb = e.target.closest('button.rawbtn');
+  if (rb) { const box = rb.nextElementSibling; const o = box.classList.toggle('show'); rb.setAttribute('aria-expanded', o); }
+});
+const burger = document.getElementById('burger'), scrim = document.getElementById('scrim');
+function setNav(open){
+  nav.classList.toggle('open', open); scrim.classList.toggle('show', open);
+  document.body.classList.toggle('locked', open); burger.setAttribute('aria-expanded', open);
+  if (open) nav.querySelector('a, button').focus(); else burger.focus({preventScroll:true});
+}
+burger.addEventListener('click', () => setNav(true));
+document.getElementById('closeNav').addEventListener('click', () => setNav(false));
+scrim.addEventListener('click', () => setNav(false));
+document.addEventListener('keydown', e => { if (e.key !== 'Escape') return; if (lb.classList.contains('show')) closeLb(); else if (nav.classList.contains('open')) setNav(false); });
+navlist.addEventListener('click', e => {
+  const a = e.target.closest('a'); if (!a) return;
+  e.preventDefault(); setNav(false);
+  document.querySelector(a.getAttribute('href')).scrollIntoView();
+});
+let t; search.addEventListener('input', () => { clearTimeout(t); t = setTimeout(render, 150); });
+onlyRep.addEventListener('change', render);
+render();
+const bartitle = document.getElementById('bartitle');
+const io = new IntersectionObserver(es => { es.forEach(e => { if (e.isIntersecting) bartitle.textContent = e.target.querySelector('h2').textContent; }); }, {rootMargin:'-60px 0px -80% 0px'});
+const watch = () => { io.disconnect(); main.querySelectorAll('section.topic').forEach(s => io.observe(s)); };
+watch(); new MutationObserver(watch).observe(main, {childList:true});
+window.addEventListener('scroll', () => { if (scrollY < 120) bartitle.textContent = 'Dahiliye Sözlü'; }, {passive:true});
+if (location.hash) { const el = document.querySelector(location.hash); if (el) { el.classList.add('open'); el.scrollIntoView(); } }
+</script>
+</body>
+</html>

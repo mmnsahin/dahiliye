@@ -1,0 +1,223 @@
+# Kümeleme: "## Konu [Ders grubu]" başlığı, altında "- Küme başlığı :: id, id, ..." satırları.
+# Her kayıt tam bir kümede olmalı (tools/kumele_kontrol.py doğrular). Küme = aynı soru (farklı ifade/ayrıntı); bileşik sorularda kayıt, ilk/baskın sorusunun kümesine girer.
+# Ders grubu yalnız menüdeki sıralama içindir; kümedeki her kaydın kendi dersi (Nefroloji, Gastro...) etiket olarak gösterilir.
+
+## Hipertansiyon [Nefroloji]
+- Sekonder hipertansiyon (ne zaman şüphelenilir, nedenler) :: N-1, N-42, N-71, N-82, N-155
+- Dirençli hipertansiyon :: N-49, N-103a, N-103b
+- Renal arter stenozu / renovasküler HT :: N-50, N-95, N-118
+- HT tanısı ve antihipertansif ilaçlar :: N-20, N-21, N-22
+
+## Kronik böbrek hastalığı (KBH) [Nefroloji]
+- KBH tanımı ve hastaya tanı koyma / yaklaşım :: N-7, N-8, N-9, N-24, N-38, N-59, N-81, N-86, N-98, N-105, N-113, N-115, N-121, N-122, N-127, N-140, N-167
+- KBH nedenleri ve risk faktörleri :: N-30, N-52, N-109, N-139, N-164
+- KBH komplikasyonları, Ca-P-PTH :: N-33, N-72, N-111, N-150
+- KBH tedavisi ve progresyonun yavaşlatılması :: N-146, N-160
+- Polikistik böbrek hastalığı :: N-137
+
+## GFR, idrar ve proteinüri [Nefroloji]
+- GFR hesaplama (Cockcroft-Gault, MDRD, faktörler) :: N-44, N-45, N-61, N-102a, N-102b, N-133
+- Proteinüri / albuminüri tanımı ve ölçümü :: N-11, N-14, N-99, N-159
+- Hematüri (nedenler, ayırıcı tanı, yaşa göre yaklaşım) :: N-4, N-17, N-28, N-48, N-58, N-126, N-128
+- Ödemli hastaya yaklaşım :: N-107, N-119
+- Soliter böbrek :: N-56, N-124
+- İdrar yolu enfeksiyonu :: N-66
+
+## Akut böbrek hasarı (ABH) [Nefroloji]
+- ABH tanımı, tanı kriterleri, nedenleri (her şeyiyle) :: N-16, N-23, N-55, N-63, N-73, N-74, N-123, N-129, N-130, N-163
+- Prerenal ABH / hipovolemi :: N-79, N-110, N-114
+- Akut interstisyel nefrit :: N-88, N-141, N-162
+- İlaç nefrotoksisitesi (NSAİ, ilaçlar) :: N-96, N-148
+
+## Sıvı-elektrolit ve asit-baz [Nefroloji]
+- Hiponatremi (ayırıcı tanı, yaklaşım, tedavi) :: N-32, N-39, N-77, N-80, N-89, N-100, N-143, N-161
+- Hiperkalemi (tedavi, EKG, laboratuvar) :: N-10, N-15, N-18, N-34, N-35, N-87, N-112, N-131
+- Hipokalemi :: N-51, N-78
+- Hiperkalsemi :: N-46, N-147
+- Metabolik asidoz :: N-157
+- Schmidt sendromu ve normal elektrolit değerleri :: N-90
+
+## Glomerüler hastalıklar ve nefrotik sendrom [Nefroloji]
+- Nefrotik sendrom tanı kriterleri / tanımı :: N-13, N-25, N-31, N-53, N-84, N-165
+- Nefrotik sendrom: klinik, komplikasyon, tedavi :: N-60, N-91, N-92, N-104a, N-104b, N-117, N-136
+- Nefrotik sendrom nedenleri (primer-sekonder) :: N-27, N-135, N-153
+- RPGN ve pulmoner-renal sendrom :: N-85, N-93, N-101a, N-101b, N-132, N-168
+- Hipokomplementemi ve immün kompleks GN (APSGN, IgA ayrımı) :: N-68, N-69, N-76, N-97, N-108
+- IgA nefropatisi :: N-67, N-152
+- Gençlerde sık glomerüler hastalıklar :: N-64
+
+## Diyabetik nefropati [Nefroloji]
+- Diyabetik nefropati (evreleme, takip, tedavi) :: N-26, N-70, N-94, N-154
+
+## Diyaliz ve transplantasyon [Nefroloji]
+- Diyaliz endikasyonları :: N-2, N-40, N-41, N-54, N-149
+- Periton diyalizi - hemodiyaliz karşılaştırması :: N-75, N-151
+- Replasman tedavileri ve ultrafiltrasyon :: N-3, N-29
+- Böbrek transplantasyonu (endikasyon, kontrendikasyon) :: N-19, N-138, N-145
+
+## Sistemik hastalıklarda böbrek [Nefroloji]
+- Amiloidoz ve böbrek (AA, AL) :: N-12, N-47, N-65, N-158, R-71
+- Romatoid artritte böbrek tutulumu :: N-37, N-134, N-144, R-41
+- Sjögren'de böbrek tutulumu :: N-116, R-123
+- Vaskülitlerde böbrek tutulumu :: N-156, N-166
+- Romatolojik hastalıklarda böbrek (genel) :: N-83
+- Hiperürisemi / gut ve böbrek :: N-57, N-120, N-125
+- Kanserli hastada böbrek, sistemik hastalıklar :: N-142
+- Parite ve böbrek hastalığı :: N-106
+
+## Lupus (SLE) [Romatoloji]
+- Lupus nefriti sınıflaması (evreler) :: N-5, N-62, R-8, R-70, R-119
+- Lupus nefriti klinik, patoloji, tedavi :: N-6, N-36, N-169, R-28
+- SLE tanı kriterleri ve otoantikorlar :: R-6, R-65, R-67, R-106
+- SLE klinik ve organ tutulumları :: R-13, R-34, R-43, R-44, R-58, R-82, R-117
+- Lupus band testi / immünfloresan :: R-93, R-103
+- SLE ve antifosfolipid sendromu :: R-112
+- Akciğer tutulumu yapan romatolojik hastalıklar :: R-61
+
+## Romatoid artrit ve artrit ayırıcı tanısı [Romatoloji]
+- RA klinik, tanı kriterleri, eklem bulguları :: R-7, R-9, R-35, R-59, R-66, R-90, R-91
+- RA ilaç tedavisi (DMARD, biyolojik) :: R-24, R-101
+- RA eklem dışı bulguları :: R-84, R-94, R-125
+- Akut romatizmal ateş (ARA) ve gezici artrit :: R-1, R-18, R-33, R-77, R-114
+- Akut gut artriti (tanı, tedavi) :: R-42, R-96, R-120
+- Eroziv artrit, HSP (kısa sorular) :: R-27, H-24
+- Akut monoartrit :: R-3
+- Glukokortikoid yan etkileri ve kullanım :: R-55, R-110
+- Polimiyalji romatika :: R-39, R-64
+- Erişkin Still hastalığı :: R-37, R-113
+- NSAİ yan etkileri :: R-57
+- Osteoporoz :: R-95
+
+## Spondiloartritler [Romatoloji]
+- Ankilozan spondilit (tanı, kriterler, klinik) :: R-46, R-56, R-80, R-86, R-122
+- Spondiloartritler genel / ayırıcı :: R-17, R-111
+- Üveit yapan romatolojik hastalıklar :: R-45, R-75
+
+## Vaskülitler [Romatoloji]
+- ANCA ilişkili vaskülitler (Wegener/GPA) :: R-5, R-11, R-48, R-50, R-51, R-52, R-53, R-54, R-63
+- Vaskülitlerin sınıflandırması :: R-16, R-29
+- Takayasu arteriti :: R-60, R-81
+- Dev hücreli (temporal) arterit :: R-108
+
+## Behçet, FMF ve otoinflamatuar hastalıklar [Romatoloji]
+- Behçet hastalığı :: R-10, R-76, R-92, R-99
+- FMF (tanı, klinik, böbrek, fenotip) :: R-19, R-25, R-49, R-69, R-72, R-89, R-128
+- Otoinflamatuar hastalıklar :: R-14, R-68
+- Nedeni bilinmeyen ateş :: R-124
+- Febril nötropeni :: R-15
+
+## Skleroderma, miyozit, Sjögren, Raynaud [Romatoloji]
+- Polimiyozit - dermatomiyozit :: R-23, R-62, R-87, R-100
+- Sistemik skleroz :: R-31, R-78, R-79, R-98
+- Raynaud fenomeni :: R-83, R-85, R-97, R-107
+- Sjögren sendromu :: R-21, R-115
+- Karma bağ dokusu hastalığı :: R-47
+- Perikardit :: R-32
+- CRP > 100 yapan hastalıklar :: R-22, R-109
+
+## Alerji ve immünoloji [Romatoloji]
+- Alerjik rinit :: R-2, R-30, R-73, R-74, R-118
+- İmmün yetmezlikler :: R-12, R-20, R-38, R-40, R-126
+- Ürtiker :: R-36, R-102, R-121
+- Aşırı duyarlılık reaksiyonları (Tip 2-3) :: R-104, R-105, R-116
+- Ayakta nasır / mantar (ders dışı) :: R-127
+
+## Özofagus [Gastroenteroloji]
+- Akalazya :: G-5, G-27, G-50, G-102, G-113, G-114, G-115, G-116
+- GÖRH (reflü) :: G-8, G-18, G-49, G-90, G-118
+- Refrakter reflü (PPI'ye cevapsızlık) :: G-121, G-132
+- PPI'nin uzun süreli yan etkileri :: G-16
+- Disfaji (organik-fonksiyonel, yaklaşım) :: G-13, G-51, G-143
+- Eozinofilik özofajit :: G-15, G-17
+
+## Mide ve duodenum [Gastroenteroloji]
+- Peptik ülser ve H. pylori (tanı, tedavi) :: G-9, G-14, G-91
+- Peptik ülser ağrısı - safra kolik ayrımı :: G-40, G-68
+- Peptik ülser komplikasyonları (perforasyon, pilor stenozu) :: G-69, G-70, G-142
+- Dispepsi, Menetrier ve midenin premalign lezyonları :: G-36, G-37
+- Gastrektomi sonrası anemi :: G-42
+
+## İnflamatuar barsak hastalıkları [Gastroenteroloji]
+- Ülseratif kolit - Crohn: klinik, tanı, ayrım :: G-12, G-44, G-100, G-108
+- İBH tedavisi (hafif-orta-ciddi) :: G-43, G-88
+- Ülseratif kolit: kanser riski ve takip :: G-35, G-135, G-136
+
+## Kolorektal kanser ve polipozis sendromları [Gastroenteroloji]
+- Kolorektal kanser risk faktörleri :: G-24, G-45
+- Kalıtsal sendromlar (FAP, Lynch, Peutz-Jeghers) :: G-46, G-47, G-48
+
+## Barsak: malabsorbsiyon, çölyak, ishal [Gastroenteroloji]
+- Malabsorbsiyon sendromu (barsak ve pankreas nedenleri) :: G-22, G-67, G-75, G-119
+- Çölyak hastalığı :: G-134
+- Osmotik - sekretuar ishal :: G-74
+- Ascaris lumbricoides :: G-56
+
+## Gastrointestinal kanama [Gastroenteroloji]
+- Akut üst GİS kanama / hematemez yaklaşımı :: G-81, G-84, G-85, G-86, G-87
+- Alt GİS kanama :: G-2, G-82
+- Gizli (obskür) GİS kanama :: G-83
+
+## Sarılık, bilirubin ve kolestaz [Gastroenteroloji]
+- Sarılığa yaklaşım ve kolestaz (enzimler, nedenler) :: G-1, G-19, G-28, G-58, G-59, G-93, G-139
+- Pre-hepatik / hepatik / post-hepatik sarılık (idrar-gaita bulguları) :: G-4, G-126, G-128
+- Bilirubin metabolizması, hiperbilirubinemiler :: G-20, G-52, G-53, G-89
+- PSK / PBK (ayırım, klinik, tanı, tedavi) :: G-41, G-54, G-76, G-78, G-92, G-96, G-104, G-124, G-129
+- Akut kolesistit :: G-71, G-77
+- ERCP ve kolanjit (Charcot triadı) :: G-122, G-125
+
+## Karaciğer: viral hepatitler [Gastroenteroloji]
+- Hepatit B (inaktif taşıyıcı, HBsAg pozitifliği) :: G-57, G-65, G-133, G-137
+- Hepatit C (tedavi, eradikasyon) :: G-60, G-123, G-141
+- Hepatit D (koenfeksiyon - süperenfeksiyon) :: G-66, G-145
+- Kan donörü viral tarama testleri :: G-99, G-107
+
+## Karaciğer: siroz ve portal hipertansiyon [Gastroenteroloji]
+- Portal hipertansiyon (tanım, evre, görüntüleme) :: G-6, G-7, G-29, G-30, G-32
+- Dekompanse siroz: varis kanaması, TIPS, transplant (Child-MELD) :: G-31, G-33, G-144
+- Asit ve spontan bakteriyel peritonit :: G-25, G-72, G-140
+- Karaciğer neoplazmları, portal ven trombozu :: G-117
+
+## Karaciğer: diğer [Gastroenteroloji]
+- NAFLD / NASH :: G-39, G-80, G-98, G-106
+- Transaminaz yüksekliği ayırıcı tanısı :: G-11, G-146, G-147
+- Wilson ve herediter karaciğer hastalıkları :: G-10, G-38, G-73
+- Otoimmün hepatit :: G-79
+- İlaca bağlı hasar / akut karaciğer yetmezliği :: G-55, G-64
+- Karaciğer biyopsisi :: G-94, G-127
+- Genel not (karaciğer-pankreas ağırlıklı) :: G-138
+
+## Pankreas [Gastroenteroloji]
+- Akut pankreatit (etyoloji, tanı, Ranson) :: G-3, G-21, G-63, G-95, G-97, G-105, G-112
+- Pankreas kanseri ve tümör belirteçleri :: G-26, G-61, G-101, G-103, G-109, G-110, G-111
+- Pankreas endokrin tümörleri (GEP-NET) :: G-34, G-131
+- Kronik pankreatit :: G-62
+
+## Anemiler [Hematoloji]
+- Demir eksikliği anemisi :: G-130, H-25, H-30, H-31, H-38
+- B12 eksikliği / makrositer anemi :: H-9, H-16, H-21, H-29
+- Anemiye / halsizliğe laboratuvardan yaklaşım :: H-19, H-35
+- Hemolitik anemi (orak hücre vb.) :: H-3
+
+## Pansitopeni ve sitopeniler [Hematoloji]
+- Pansitopeni ayırıcı tanısı :: R-4, R-26, R-88, H-6, H-11, H-27
+
+## Miyeloproliferatif hastalıklar [Hematoloji]
+- Polisitemi vera / eritrositoz :: G-120, H-1, H-20
+- Trombositoz (esansiyel trombositemi, reaktif) :: H-5, H-7, H-8, H-26
+
+## Lösemi, lenfoma, myelom [Hematoloji]
+- Multipl myelom :: H-13, H-22, H-23
+- KML (ve KLL ayırımı) :: H-4, H-10, H-33
+- KLL :: H-12
+- ALL :: H-34, H-36
+- Lenfadenopati ve lenfoma :: H-28, H-37
+
+## Hemostaz, trombofili, transfüzyon [Hematoloji]
+- ITP / TTP / trombositopeni :: H-14, H-17
+- Primer hemostaz bozukluğu / kanama anamnezi :: H-15, H-9001
+- İzole aPTT uzaması / faktör eksiklikleri :: G-23, H-32
+- Trombofili ve DVT :: H-18, H-39
+- Kan ürünleri ve transfüzyon :: H-9002
+
+## Endokrinoloji [Endokrinoloji]
+- Subakut tiroidit :: H-2
