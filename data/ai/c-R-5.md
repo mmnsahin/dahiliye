@@ -18,6 +18,6 @@ IF'de immün depozit **yok/az**: GPA, MPA, renal-limited ANCA GN, EGPA; biyopsi 
 - Lab: **ESR/CRP ↑**, anemi, **c-ANCA/PR3 (+)**; biyopsi (burun, akciğer, böbrek)
 
 ### Tedavi
-- **İndüksiyon:** yüksek doz **kortikosteroid** (pulse metilprednizolon) + **siklofosfamid veya rituksimab**; ağır böbrek/akciğer tutulumunda **plazmaferez**
+- **İndüksiyon:** yüksek doz **kortikosteroid** (pulse metilprednizolon) + **siklofosfamid veya rituksimab**; **plazmaferez** rutin değil; yalnız seçilmiş hastada (kreatinin > 3.4 mg/dL + diyaliz gereksinimi ya da hipoksemili alveoler hemoraji); KDIGO 2024: düşük doz steroid rejimi eşit etkili ve daha az toksik, **avakopan** steroid yerine kullanılabilir
 - **İdame:** azatioprin / metotreksat / düşük doz rituksimab
 - TMP-SMX (PJP profilaksisi ve nüks azaltma), kemik koruması
