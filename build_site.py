@@ -38,6 +38,11 @@ for cid, c in allc.items():
             bad = set(re.split(r'\s*,\s*', grp)) - allowed
             if bad: errors.append(f'{cid}: kaynak harfi yok {sorted(bad)} (izinli {"".join(sorted(allowed))})')
         c['merged'] = txt; done += 1
+adir = root/'data/ai'
+if adir.exists():
+    for f in adir.glob('*.md'):
+        if f.stem in allc: allc[f.stem]['ai'] = f.read_text(encoding='utf-8').strip()
+        else: errors.append(f'data/ai/{f.name}: böyle bir küme yok')
 if mdir.exists():
     for f in mdir.glob('*.md'):
         if f.stem not in allc: errors.append(f'data/birlesik/{f.name}: böyle bir küme yok')

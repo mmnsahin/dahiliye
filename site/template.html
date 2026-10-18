@@ -102,6 +102,11 @@ section.topic>.sub{color:var(--muted);font-size:.92rem;margin:0 0 14px}
 .note{font-size:.9rem;color:var(--muted);margin:0 0 10px}
 .pending{padding:12px 14px;border:1px dashed var(--line);border-radius:8px;color:var(--muted);font-size:.93rem;max-width:72ch}
 
+.aisw{display:inline-flex;margin:0 0 14px;border:1px solid var(--scrub);border-radius:999px;overflow:hidden;font-family:var(--sans)}
+.aisw button{padding:6px 16px;border:0;background:transparent;color:var(--scrub);font:inherit;font-size:.88rem;font-weight:600;cursor:pointer}
+.aisw button[aria-pressed=true]{background:var(--scrub);color:var(--card)}
+.pane[hidden]{display:none}
+.aitag{font-family:var(--sans);font-size:.8rem;color:var(--muted);margin:0 0 10px}
 button.rawbtn{margin-top:14px;padding:8px 14px;border:1px solid var(--scrub);border-radius:8px;background:transparent;color:var(--scrub);font-weight:600;cursor:pointer}
 button.rawbtn[aria-expanded=true]{background:var(--scrub);color:var(--card)}
 .raws{display:none;margin-top:14px}
@@ -355,6 +360,7 @@ function clusterHTML(c, hl){
     const b = provisional(c);
     main = `<div class="prov">Birleşik cevap henüz hazırlanmadı. Şimdilik en dolu kaynak gösteriliyor: <strong>${L(b)}</strong> (${esc(rows[c.rows[b]].id)}). Diğer ${c.rows.length - 1} kaynak “Gerçek cevaplar” altında.</div><div class="trans">${transHTML(rows[c.rows[b]].a || '(cevap yok)', hl)}</div>` + rawBtn;
   }
+  if (c.ai) main = `<div class="aisw" role="group" aria-label="Anlatım türü"><button class="aibtn" data-m="n" aria-pressed="true">Notlarla</button><button class="aibtn" data-m="a" aria-pressed="false">AI ile</button></div><div class="pane pn">${main}</div><div class="pane pa" hidden><p class="aitag">AI anlatımı: kaynak notlardan bağımsız, konuyu baştan anlatan özet. Sınav notu değildir; ders kaynağıyla birlikte kullan.</p><div class="merged">${md(c.ai)}</div></div>`;
   return `<div class="q" id="${c.id}"><button class="head" aria-expanded="false">${freq}<span class="qt">${hl(esc(c.title))}${dersChips(c)}${hocas ? `<span class="hocas">${hl(esc(hocas))}</span>` : ''}</span><span class="chev" aria-hidden="true">›</span></button><div class="body">${main}</div></div>`;
 }
 
@@ -398,6 +404,8 @@ lb.addEventListener('click', e => { if (e.target === lb) closeLb(); });
 
 main.addEventListener('click', e => {
   const sh = e.target.closest('img.shot'); if (sh) { openLb(sh.src); return; }
+  const ab = e.target.closest('button.aibtn');
+  if (ab) { const body = ab.closest('.body'); const a = ab.dataset.m === 'a'; body.querySelectorAll('.aibtn').forEach(b => b.setAttribute('aria-pressed', b === ab)); body.querySelector('.pn').hidden = a; body.querySelector('.pa').hidden = !a; return; }
   const head = e.target.closest('button.head');
   if (head) { const q = head.parentElement; const o = q.classList.toggle('open'); head.setAttribute('aria-expanded', o); return; }
   const rq = e.target.closest('button.rq');
