@@ -20,5 +20,5 @@ Başka nedenle yapılan görüntülemede tesadüfen saptanan ≥ 1 cm adrenal ki
    - Androjen tümörü şüphesinde DHEAS, testosteron
 3. **Tedavi:**
    - **Fonksiyonel veya şüpheli malign (> 4-6 cm, heterojen)** → **cerrahi (adrenalektomi)**
-   - Benign nonfonksiyone < 4 cm → izlem (6-12 ay görüntüleme)
+   - Benign nonfonksiyone: ESE 2023: homojen ve **≤ 10 HU** ise boyuttan bağımsız **ek izlem gerekmez** ve metanefrin bakılmaz; 11-20 HU ve < 4 cm ise ek görüntüleme/12 ay sonra kontrol; (2016 kılavuzu < 4 cm kuralını kullanıyordu)
    - Bilinen kanser öyküsünde → metastaz değerlendirmesi (PET, biyopsi – feo dışlandıktan sonra)

@@ -2,11 +2,11 @@
 Grup A beta-hemolitik streptokok **farenjitinden 2-4 hafta sonra** gelişen, otoimmün (moleküler mimikri) çok sistemli inflamatuar hastalık. 5-15 yaş çocuk ve genç. Gezici artrit, kardit, Sydenham koresi, eritema marginatum, subkutan nodül.
 
 ### Jones kriterleri (revize)
-Önceden streptokok enfeksiyonu kanıtı + **2 majör** ya da **1 majör + 2 minör**.
+Önceden streptokok enfeksiyonu kanıtı + **2 majör** ya da **1 majör + 2 minör**. (AHA 2015 revizyonu: **düşük riskli** popülasyonda [ARA < 2/100.000 okul çağı çocuğu] ateş eşiği ≥ 38.5 °C, ESR ≥ 60, majör artrit yalnız poliartrit; **orta-yüksek riskli** popülasyonda ateş ≥ 38 °C, ESR ≥ 30, monoartrit/poliartralji de kabul edilir; **subklinik kardit** [ekokardiyografi] her iki grupta majör kriter.)
 | Majör | Minör |
 |---|---|
 | **Kardit** (klinik/subklinik) | Ateş |
-| **Poliartrit** (gezici, büyük eklem; düşük riskli popülasyonda monoartrit/poliartralji) | Artralji |
+| **Poliartrit** (gezici, büyük eklem; orta-yüksek riskli popülasyonda monoartrit/poliartralji de) | Artralji |
 | **Kore (Sydenham)** | ESR/CRP ↑ |
 | **Eritema marginatum** | Uzamış PR aralığı |
 | **Subkutan nodül** | |

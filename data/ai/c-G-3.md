@@ -26,7 +26,7 @@ Pankreasın akut inflamasyonu (otodijesyon, tripsin aktivasyonu). Hafif (ödemat
 **Ranson** (giriş: yaş > 55, WBC > 16.000, glukoz > 200, LDH > 350, AST > 250; 48 saat: Hct düşüşü > %10, BUN artışı > 5, Ca < 8, PaO₂ < 60, baz açığı > 4, sıvı sekestrasyonu > 6 L; ≥ 3 ağır), **APACHE II**, **BISAP**, Atlanta 2012, BT şiddet indeksi.
 
 ### Tedavi
-- **Agresif IV hidrasyon** (Ringer laktat; ilk 24 saat), analjezi (opioid), erken enteral beslenme (24-72 saat içinde), oksijen
+- **Orta düzeyde agresif IV hidrasyon** (ACG 2024: Ringer laktat tercih; hipovolemi varsa ek bolus, volüm yüklenmesine dikkat, sık yeniden değerlendirme), analjezi (opioid), erken enteral beslenme (24-72 saat içinde), oksijen
 - Antibiyotik rutin değil (enfekte nekroz için)
 - **Safra taşı pankreatiti:** kolanjit varsa acil ERCP; kolesistektomi aynı yatışta (hafif)
 - Hipertrigliseridemi: insülin infüzyonu/plazmaferez
